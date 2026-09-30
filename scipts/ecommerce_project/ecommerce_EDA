@@ -1,0 +1,308 @@
+-- CHANGE OVER TIME TRENDS
+
+-- How have monthly sales revenue and order volume changed over the past year?
+SELECT
+    DATE_FORMAT(order_date, '%Y-%m-01') AS order_month,
+    ROUND(SUM(net_sales),2) AS total_sales,
+    COUNT(DISTINCT order_id) as total_orders
+FROM gold_fact_sales
+GROUP BY DATE_FORMAT(order_date, '%Y-%m-01')
+ORDER BY DATE_FORMAT(order_date, '%Y-%m-01')  
+
+
+-- How has the number of new customer registrations changed each month?
+SELECT
+	MONTHNAME(registration_date) as registration_month,
+    COUNT(DISTINCT customer_id) as total_register
+FROM silver_customer_details_crm
+GROUP BY MONTH(registration_date), MONTHNAME(registration_date)
+ORDER BY MONTH(registration_date)
+
+SELECT
+	DATE_FORMAT(return_date, '%Y-%m-01') AS return_month,
+    SUM(refund_amount) AS return_amount
+FROM silver_returns_crm
+WHERE return_status = 'Completed'
+GROUP BY DATE_FORMAT(return_date, '%Y-%m-01')
+	
+-- How have shipping delays trended by month?
+SELECT
+    DATE_FORMAT(ship_date, '%Y-%m-01') AS ship_date_month,
+    COUNT(DISTINCT shipment_id) as total_shipment_delayed
+FROM silver_shipment_details_crm
+WHERE shipment_status = 'Delayed'
+GROUP BY DATE_FORMAT(ship_date, '%Y-%m-01')
+
+
+-- How has the average order value changed each quarter?
+SELECT
+    CONCAT('Q', QUARTER(order_date)) AS order_quarter,
+    ROUND(AVG(net_sales),2) AS total_sales_by
+FROM gold_fact_sales
+GROUP BY CONCAT('Q', QUARTER(order_date))
+ORDER BY CONCAT('Q', QUARTER(order_date))
+
+
+
+-- CUMULATIVE ANALYSIS
+
+-- What is the cumulative sales revenue over time?
+SELECT
+order_month,
+total_sales,
+ROUND(SUM(total_sales) OVER (ORDER BY order_month),2) as running_total_sales
+FROM
+(
+SELECT
+    DATE_FORMAT(order_date, '%Y-%m-01') AS order_month,
+    ROUND(SUM(net_sales),2) AS total_sales
+FROM gold_fact_sales
+GROUP BY DATE_FORMAT(order_date, '%Y-%m-01')
+ORDER BY DATE_FORMAT(order_date, '%Y-%m-01')  
+) sales_per_month
+
+-- How many customers have registered cumulatively each month?
+
+SELECT
+	registration_month,
+    total_register,
+    SUM(total_register) OVER (ORDER BY registration_month) as running_total_registration
+FROM 
+(
+SELECT
+	DATE_FORMAT(registration_date, '%Y-%m-01') as registration_month,
+    COUNT(DISTINCT customer_id) as total_register
+FROM silver_customer_details_crm
+GROUP BY DATE_FORMAT(registration_date, '%Y-%m-01')
+ORDER BY DATE_FORMAT(registration_date, '%Y-%m-01')
+) registration_per_month
+
+-- What is the cumulative number of orders processed throughout the year?
+SELECT
+	order_month,
+    total_order,
+    SUM(total_order) OVER (ORDER BY order_month) as running_total_orders
+FROM
+(
+SELECT
+    DATE_FORMAT(order_date, '%Y-%m-01') AS order_month,
+    COUNT(DISTINCT order_id) as total_order
+FROM silver_order_details_crm
+GROUP BY DATE_FORMAT(order_date, '%Y-%m-01')
+) total_order
+
+
+
+-- What is the cumulative refund amount due to returned products?
+SELECT
+	return_month,
+	return_amount,
+    SUM(return_amount) OVER (ORDER BY return_month) as running_total_refunds
+FROM
+(
+SELECT
+	DATE_FORMAT(return_date, '%Y-%m-01') AS return_month,
+    SUM(refund_amount) AS return_amount
+FROM silver_returns_crm
+WHERE return_status = 'Completed'
+GROUP BY DATE_FORMAT(return_date, '%Y-%m-01')
+ORDER BY DATE_FORMAT(return_date, '%Y-%m-01')
+) total_refund
+
+-- How has cumulative shipping cost increased over time?
+SELECT
+	shipment_month,
+	ship_amount,
+    SUM(ship_amount) OVER (ORDER BY shipment_month) as running_total_ship_cost
+FROM
+(
+SELECT
+	DATE_FORMAT(ship_date, '%Y-%m-01') AS shipment_month,
+    SUM(shipping_cost) AS ship_amount
+FROM silver_shipment_details_crm
+WHERE shipment_id IS NOT NULL
+GROUP BY DATE_FORMAT(ship_date, '%Y-%m-01')
+ORDER BY DATE_FORMAT(ship_date, '%Y-%m-01')
+) total_shipment_cost
+
+-- PERFORMANCE ANALYSIS
+WITH yearly_product_sales AS (
+SELECT 
+YEAR(order_date) as order_year,
+product_name,
+ROUND(SUM(net_sales),2) as total_sales
+FROM gold_fact_sales
+WHERE order_date AND product_name IS NOT NULL
+GROUP BY YEAR(order_date),product_name
+ORDER BY product_name
+)
+SELECT
+order_year,
+product_name,
+total_sales,
+ROUND(AVG(total_sales) OVER (PARTITION BY product_name),2) AS avg_sales,
+ROUND(total_sales - AVG(total_sales) OVER (PARTITION BY product_name),2) AS avg_dif,
+CASE 
+	WHEN total_sales - ROUND(AVG(total_sales) OVER (PARTITION BY product_name),2) > 0  THEN 'Above Average'
+    WHEN total_sales - ROUND(AVG(total_sales) OVER (PARTITION BY product_name),2) < 0  THEN 'Below Average'
+ELSE 'Average' END avg_change,
+ROUND(LAG(total_sales) OVER (PARTITION BY product_name),2) AS avg_sales,
+ROUND(total_sales - LAG(total_sales) OVER (PARTITION BY product_name),2) AS sales_change,
+CASE
+	WHEN total_sales - ROUND(LAG(total_sales) OVER (PARTITION BY product_name),2) > 0 THEN 'Increased'
+    WHEN total_sales - ROUND(LAG(total_sales) OVER (PARTITION BY product_name),2) < 0 THEN 'Decreased'
+ELSE 'No change' END new
+FROM yearly_product_sales
+
+
+-- Which products generate the highest sales and profit?
+SELECT 
+t.product_name,
+ROUND(SUM(gross_sales),2 ) AS gross_sales,
+ROUND(SUM(net_sales),2 ) AS net_sales,
+ROUND(SUM(net_sales - unit_quantity_cost),2 )AS profit ,
+	RANK() OVER (ORDER BY SUM(t.net_sales) DESC) AS sales_rank,
+    RANK() OVER (ORDER BY SUM(t.net_sales - t.unit_quantity_cost) DESC) AS profit_rank
+FROM 
+(
+SELECT
+	fs.product_id,
+	fs.product_name,
+	fs.quantity,
+	fs.unit_price,
+	fs.discount_pct,
+	fs.gross_sales,
+	fs.net_sales,
+	pe.unit_cost,
+	quantity * unit_cost as unit_quantity_cost
+FROM gold_fact_sales fs
+LEFT JOIN silver_products_erp pe
+ON fs.product_id = pe.product_id
+) t
+WHERE product_name IS NOT NULL
+GROUP BY t.product_name
+ORDER BY net_sales DESC, profit DESC
+
+
+-- Which sales channels (Online, Store, etc.) perform best?
+SELECT 
+	sales_channel,
+	COUNT(*) AS Count ,
+	RANK() OVER (ORDER BY COUNT(*) DESC) AS count_rank
+FROM gold_fact_sales
+GROUP BY sales_channel
+ORDER BY Count DESC
+
+
+-- Which product categories have the highest return refund?
+
+SELECT
+	category,
+	SUM(refund_amount) AS total_refund_amount,
+	RANK() OVER (ORDER BY SUM(refund_amount) DESC) AS refund_rank
+FROM
+(
+SELECT 
+	rc.return_id,
+	rc.order_id,
+	rc.refund_amount,
+	rc.return_status,
+	fs.category
+FROM silver_returns_crm rc
+LEFT JOIN gold_fact_sales fs
+ON rc.order_id = fs.order_id
+) t
+WHERE category IS NOT NULL AND return_status = 'Completed'
+GROUP BY category
+ORDER BY total_refund_amount DESC
+
+
+-- Which shipping carriers have the best on-time delivery performance?
+SELECT 
+	carrier,
+	COUNT(*) AS total_ontime,
+	RANK() OVER (ORDER BY COUNT(*) DESC ) AS count_rank
+FROM silver_shipment_details_crm
+WHERE shipment_status = 'Delivered'
+GROUP BY carrier
+ORDER BY total_ontime DESC
+
+
+
+-- PART TO WHOLE ANALYSIS
+
+-- What percentage of total revenue comes from each product category?
+
+WITH product_sales AS (
+SELECT 
+	product_name,
+	ROUND(SUM(net_sales),2) as total_sales
+FROM gold_fact_sales
+WHERE product_name IS NOT NULL
+GROUP BY product_name
+)
+SELECT
+	product_name,
+	total_sales,
+	ROUND(SUM(total_sales) OVER (),2) as overall_sales,
+	ROUND((total_sales / ROUND(SUM(total_sales) OVER (),2))* 100,2) AS percentage_total
+FROM product_sales
+ORDER BY percentage_total DESC
+
+-- What share of total orders comes from each sales channel?
+
+WITH sales_per_channel AS (
+SELECT 
+	sales_channel,
+	COUNT(*) AS Count
+FROM gold_fact_sales
+GROUP BY sales_channel
+ORDER BY Count DESC
+)
+SELECT 
+	sales_channel ,
+	-- Count,
+	-- SUM(Count) OVER () as total_count,
+	ROUND((Count / ROUND(SUM(Count) OVER (),2))* 100,2) AS percentage_sales_channel
+FROM sales_per_channel 
+
+
+-- What proportion of refunds comes from each return reason?
+
+WITH refund_per_status AS (
+SELECT 
+	return_status,
+	SUM(refund_amount) AS total_refund
+FROM silver_returns_crm
+GROUP BY return_status
+ORDER BY total_refund DESC
+)
+SELECT
+	return_status,
+	-- total_refund,
+	-- ROUND(SUM(total_refund) OVER (),2) as overall_refund,
+	ROUND((total_refund / ROUND(SUM(total_refund) OVER (),2))* 100,2) AS percentage_total_refund
+FROM refund_per_status
+
+-- What percentage of total shipping cost is contributed by each carrier?
+
+WITH total_shipment_cost AS (
+SELECT
+	carrier,
+	SUM(shipping_cost) AS total_ship_cost
+FROM silver_shipment_details_crm
+GROUP BY carrier
+ORDER BY total_ship_cost DESC
+)
+SELECT
+	carrier,
+	-- total_ship_cost,
+	-- ROUND(SUM(total_ship_cost) OVER (),2) as overall_ship_fee,
+	ROUND((total_ship_cost / ROUND(SUM(total_ship_cost) OVER (),2))* 100,2) AS percentage_total_shipfee
+FROM total_shipment_cost
+
+
+
+-- DATA SEGMENTATION
+
+SELECT * FROM gold_fact_sales
