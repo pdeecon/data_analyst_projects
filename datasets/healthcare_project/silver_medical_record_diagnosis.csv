@@ -1,0 +1,2601 @@
+medical_record,visit_id,patient_id,physician_id,diagnosis_code,diagnosis_description,severity,clinical_status
+MR000001,V001742,P00761,DR0102,R51.9,Headache,Mild,Stable
+MR000002,V002226,P00613,DR0088,G43.9,Migraine,Mild,Unknown
+MR000003,V002362,P00856,DR0088,K21.9,"Gastro-esophageal reflux disease",Unknown,Stable
+MR000004,V000457,P00571,DR0099,I10,Hypertension,Severe,Stable
+MR000005,V002760,P00331,DR0082,A09,Gastroenteritis,Severe,Stable
+MR000006,V002042,P00247,DR0031,M54.5,"Low back pain",Moderate,Critical
+MR000007,V002675,P00878,DR0078,R51.9,Headache,Mild,Unknown
+MR000008,V000142,P00097,DR0086,G43.9,Migraine,Severe,Improving
+MR000009,V000989,P00079,DR0086,J18.9,Pneumonia,Mild,Critical
+MR000010,V002309,P00220,DR0061,I10,Hypertension,Unknown,Stable
+MR000011,V001342,P00637,DR0051,N39.0,"Urinary tract infection",Unknown,Stable
+MR000012,V002541,P00368,DR0022,A09,Gastroenteritis,Unknown,Critical
+MR000013,V002454,P00359,DR0062,I10,Hypertension,Mild,Unknown
+MR000014,V001831,P00748,DR0020,M54.5,"Low back pain",Unknown,Stable
+MR000015,V000842,P00759,DR0078,K21.9,"Gastro-esophageal reflux disease",Mild,Stable
+MR000016,V000389,P00093,DR0077,R51.9,Headache,Mild,Stable
+MR000017,V001999,P00526,DR0083,J06.9,"Acute upper respiratory infection",Unknown,Stable
+MR000018,V002058,P00819,DR0026,K21.9,"Gastro-esophageal reflux disease",Moderate,Stable
+MR000019,V002387,P00341,DR0078,G43.9,Migraine,Moderate,Improving
+MR000020,V000989,P00979,DR0011,I25.10,"Coronary artery disease",Mild,Stable
+MR000021,V000562,P00355,DR0001,G43.9,Migraine,Severe,Stable
+MR000022,V001740,P00180,DR0089,E11.9,"Type 2 diabetes mellitus",Mild,Critical
+MR000023,V000777,P00286,DR0102,E11.9,"Type 2 diabetes mellitus",Unknown,Stable
+MR000024,V000590,P00207,DR0041,I25.10,"Coronary artery disease",Unknown,Stable
+MR000025,V000737,P00930,DR0101,M54.5,"Low back pain",Severe,Improving
+MR000026,V002496,P00259,DR0024,I10,Hypertension,Unknown,Improving
+MR000027,V001069,P00115,DR0048,G43.9,Migraine,Unknown,Unknown
+MR000028,V000588,P00351,DR0007,M54.5,"Low back pain",Moderate,Critical
+MR000029,V002626,P00827,DR0001,I25.10,"Coronary artery disease",Unknown,Unknown
+MR000030,V002025,P00623,DR0091,G43.9,Migraine,Severe,Improving
+MR000031,V000864,P00472,DR0075,G43.9,Migraine,Moderate,Improving
+MR000032,V002956,P00642,DR0013,N39.0,"Urinary tract infection",Mild,Improving
+MR000033,V000609,P00088,DR0031,S82.201,"Fracture of tibia",Mild,Stable
+MR000034,V002686,P00213,DR0007,I25.10,"Coronary artery disease",Mild,Critical
+MR000035,V001528,P00969,DR0098,I25.10,"Coronary artery disease",Severe,Stable
+MR000036,V001143,P00978,DR0068,S82.201,"Fracture of tibia",Unknown,Stable
+MR000037,V000865,P00143,DR0094,J06.9,"Acute upper respiratory infection",Moderate,Improving
+MR000038,V002285,P00496,DR0101,I10,Hypertension,Severe,Stable
+MR000039,V002948,P00590,DR0039,I10,Hypertension,Mild,Improving
+MR000040,V000049,P00540,DR0046,G43.9,Migraine,Moderate,Stable
+MR000041,V000695,P00127,DR0029,S82.201,"Fracture of tibia",Unknown,Unknown
+MR000042,V000576,P00385,DR0084,J06.9,"Acute upper respiratory infection",Mild,Unknown
+MR000043,V000857,P00458,DR0009,S82.201,"Fracture of tibia",Unknown,Improving
+MR000044,V001840,P00863,DR0070,E11.9,"Type 2 diabetes mellitus",Unknown,Unknown
+MR000045,V002291,P00806,DR0099,N39.0,"Urinary tract infection",Mild,Improving
+MR000046,V002614,P00285,DR0084,G43.9,Migraine,Moderate,Unknown
+MR000047,V000393,P00229,DR0102,E11.9,"Type 2 diabetes mellitus",Mild,Critical
+MR000048,V001092,P00406,DR0022,S82.201,"Fracture of tibia",Severe,Critical
+MR000049,V001801,P00877,DR0063,I10,Hypertension,Severe,Improving
+MR000050,V001319,P00666,DR0065,J18.9,Pneumonia,Severe,Unknown
+MR000051,V000415,P00684,DR0016,A09,Gastroenteritis,Unknown,Improving
+MR000052,V002671,P00764,DR0030,S82.201,"Fracture of tibia",Moderate,Unknown
+MR000053,V002016,P00493,DR0076,M54.5,"Low back pain",Unknown,Stable
+MR000054,V001451,P00225,DR0060,A09,Gastroenteritis,Mild,Critical
+MR000055,V001316,P00906,DR0031,E11.9,"Type 2 diabetes mellitus",Mild,Stable
+MR000056,V001562,P00421,DR0054,I10,Hypertension,Unknown,Stable
+MR000057,V000955,P00093,DR0013,I25.10,"Coronary artery disease",Mild,Stable
+MR000058,V002418,P00341,DR0044,E11.9,"Type 2 diabetes mellitus",Unknown,Improving
+MR000059,V000842,P00744,DR0015,G43.9,Migraine,Unknown,Stable
+MR000060,V001998,P00505,DR0080,I25.10,"Coronary artery disease",Mild,Improving
+MR000061,V002344,P00647,DR0084,G43.9,Migraine,Mild,Stable
+MR000062,V002379,P00141,DR0007,N39.0,"Urinary tract infection",Severe,Unknown
+MR000063,V000185,P00489,DR0019,J06.9,"Acute upper respiratory infection",Moderate,Critical
+MR000064,V002838,P00306,DR0017,G43.9,Migraine,Unknown,Critical
+MR000065,V000999,P00151,DR0047,G43.9,Migraine,Mild,Critical
+MR000066,V002358,P00677,DR0078,J06.9,"Acute upper respiratory infection",Unknown,Improving
+MR000067,V001807,P00640,DR0082,K21.9,"Gastro-esophageal reflux disease",Mild,Stable
+MR000068,V002983,P00036,DR0080,J06.9,"Acute upper respiratory infection",Unknown,Unknown
+MR000069,V000960,P00322,DR0090,I10,Hypertension,Unknown,Stable
+MR000070,V002476,P00772,DR0102,S82.201,"Fracture of tibia",Unknown,Critical
+MR000071,V001319,P00446,DR0042,M54.5,"Low back pain",Unknown,Unknown
+MR000072,V002987,P00458,DR0034,E11.9,"Type 2 diabetes mellitus",Mild,Critical
+MR000073,V000228,P00949,DR0082,M54.5,"Low back pain",Severe,Critical
+MR000074,V001984,P00817,DR0036,K21.9,"Gastro-esophageal reflux disease",Moderate,Stable
+MR000075,V002988,P00404,DR0083,E11.9,"Type 2 diabetes mellitus",Unknown,Unknown
+MR000076,V000995,P00037,DR0004,R51.9,Headache,Severe,Stable
+MR000077,V000137,P00358,DR0095,M54.5,"Low back pain",Unknown,Stable
+MR000078,V002339,P00074,DR0033,I10,Hypertension,Severe,Critical
+MR000079,V001055,P00006,DR0007,N39.0,"Urinary tract infection",Severe,Stable
+MR000080,V001200,P00731,DR0053,I10,Hypertension,Severe,Unknown
+MR000081,V001578,P00542,DR0102,G43.9,Migraine,Unknown,Unknown
+MR000082,V001438,P00175,DR0047,G43.9,Migraine,Severe,Unknown
+MR000083,V002479,P00146,DR0037,S82.201,"Fracture of tibia",Moderate,Critical
+MR000084,V001729,P00062,DR0011,G43.9,Migraine,Mild,Stable
+MR000085,V001358,P00757,DR0011,S82.201,"Fracture of tibia",Mild,Improving
+MR000086,V000438,P00812,DR0050,R51.9,Headache,Unknown,Critical
+MR000087,V002281,P00692,DR0016,I10,Hypertension,Severe,Unknown
+MR000088,V001263,P00247,DR0014,I10,Hypertension,Mild,Stable
+MR000089,V001052,P00073,DR0081,G43.9,Migraine,Severe,Stable
+MR000090,V002957,P00678,DR0050,G43.9,Migraine,Unknown,Stable
+MR000091,V000937,P00796,DR0021,A09,Gastroenteritis,Unknown,Stable
+MR000092,V001933,P00060,DR0021,K21.9,"Gastro-esophageal reflux disease",Mild,Stable
+MR000093,V002089,P00261,DR0038,K21.9,"Gastro-esophageal reflux disease",Unknown,Stable
+MR000094,V001497,P00780,DR0083,M54.5,"Low back pain",Unknown,Critical
+MR000095,V002721,P00556,DR0030,E11.9,"Type 2 diabetes mellitus",Mild,Stable
+MR000096,V001819,P00648,DR0017,I25.10,"Coronary artery disease",Unknown,Critical
+MR000097,V002918,P00610,DR0091,G43.9,Migraine,Mild,Critical
+MR000098,V000379,P00735,DR0035,S82.201,"Fracture of tibia",Unknown,Critical
+MR000099,V000021,P00589,DR0085,I10,Hypertension,Severe,Unknown
+MR000100,V001660,P00241,DR0102,M54.5,"Low back pain",Unknown,Critical
+MR000101,V002061,P00507,DR0072,N39.0,"Urinary tract infection",Mild,Improving
+MR000102,V001628,P00683,DR0082,G43.9,Migraine,Severe,Unknown
+MR000103,V000843,P00464,DR0068,G43.9,Migraine,Moderate,Critical
+MR000104,V001437,P00115,DR0073,J06.9,"Acute upper respiratory infection",Mild,Stable
+MR000105,V000520,P00868,DR0069,K21.9,"Gastro-esophageal reflux disease",Mild,Stable
+MR000106,V001772,P00436,DR0089,G43.9,Migraine,Unknown,Unknown
+MR000107,V002410,P00124,DR0077,E11.9,"Type 2 diabetes mellitus",Moderate,Stable
+MR000108,V000517,P00351,DR0074,M54.5,"Low back pain",Mild,Stable
+MR000109,V002033,P00866,DR0002,S82.201,"Fracture of tibia",Mild,Critical
+MR000110,V000479,P00027,DR0081,S82.201,"Fracture of tibia",Mild,Improving
+MR000111,V002422,P00668,DR0086,A09,Gastroenteritis,Mild,Critical
+MR000112,V001825,P00489,DR0062,M54.5,"Low back pain",Mild,Critical
+MR000113,V001918,P00968,DR0008,G43.9,Migraine,Unknown,Stable
+MR000114,V000351,P00369,DR0048,A09,Gastroenteritis,Unknown,Critical
+MR000115,V002622,P00851,DR0101,I10,Hypertension,Severe,Improving
+MR000116,V001596,P00646,DR0028,J18.9,Pneumonia,Severe,Unknown
+MR000117,V001463,P00345,DR0094,M54.5,"Low back pain",Unknown,Stable
+MR000118,V002758,P00420,DR0027,K21.9,"Gastro-esophageal reflux disease",Unknown,Critical
+MR000119,V000014,P00726,DR0043,J06.9,"Acute upper respiratory infection",Severe,Improving
+MR000120,V002810,P00461,DR0021,I10,Hypertension,Mild,Improving
+MR000121,V002561,P00724,DR0090,N39.0,"Urinary tract infection",Mild,Unknown
+MR000122,V002754,P00520,DR0072,J18.9,Pneumonia,Unknown,Unknown
+MR000123,V001117,P00862,DR0021,S82.201,"Fracture of tibia",Mild,Improving
+MR000124,V001736,P00831,DR0079,K21.9,"Gastro-esophageal reflux disease",Moderate,Stable
+MR000125,V002791,P00897,DR0040,K21.9,"Gastro-esophageal reflux disease",Moderate,Unknown
+MR000126,V000806,P00709,DR0047,M54.5,"Low back pain",Mild,Unknown
+MR000127,V000421,P00443,DR0046,K21.9,"Gastro-esophageal reflux disease",Mild,Stable
+MR000128,V002153,P00263,DR0018,R51.9,Headache,Mild,Stable
+MR000129,V002312,P00067,DR0076,M54.5,"Low back pain",Moderate,Stable
+MR000130,V001367,P00023,DR0088,S82.201,"Fracture of tibia",Severe,Unknown
+MR000131,V001411,P00037,DR0013,J06.9,"Acute upper respiratory infection",Mild,Critical
+MR000132,V002512,P00488,DR0068,K21.9,"Gastro-esophageal reflux disease",Unknown,Unknown
+MR000133,V000853,P00055,DR0062,J06.9,"Acute upper respiratory infection",Unknown,Stable
+MR000134,V000884,P00773,DR0096,I25.10,"Coronary artery disease",Unknown,Stable
+MR000135,V000855,P00970,DR0099,J06.9,"Acute upper respiratory infection",Moderate,Improving
+MR000136,V002352,P00882,DR0092,K21.9,"Gastro-esophageal reflux disease",Unknown,Critical
+MR000137,V002262,P00004,DR0012,E11.9,"Type 2 diabetes mellitus",Unknown,Critical
+MR000138,V002512,P00121,DR0016,S82.201,"Fracture of tibia",Severe,Stable
+MR000139,V000162,P00254,DR0009,M54.5,"Low back pain",Moderate,Unknown
+MR000140,V002456,P00928,DR0013,G43.9,Migraine,Severe,Unknown
+MR000141,V000393,P01001,DR0011,J18.9,Pneumonia,Moderate,Improving
+MR000142,V000244,P00377,DR0078,S82.201,"Fracture of tibia",Unknown,Stable
+MR000143,V002375,P00260,DR0020,R51.9,Headache,Severe,Improving
+MR000144,V002768,P00213,DR0093,N39.0,"Urinary tract infection",Unknown,Critical
+MR000145,V002171,P00513,DR0039,J06.9,"Acute upper respiratory infection",Mild,Stable
+MR000146,V001256,P00643,DR0071,I25.10,"Coronary artery disease",Unknown,Improving
+MR000147,V002995,P00184,DR0058,I10,Hypertension,Unknown,Stable
+MR000148,V002358,P00210,DR0010,G43.9,Migraine,Severe,Stable
+MR000149,V001444,P00203,DR0021,J18.9,Pneumonia,Unknown,Unknown
+MR000150,V001139,P00883,DR0084,J06.9,"Acute upper respiratory infection",Unknown,Unknown
+MR000151,V002831,P00478,DR0019,I25.10,"Coronary artery disease",Unknown,Stable
+MR000152,V001997,P00604,DR0031,A09,Gastroenteritis,Mild,Improving
+MR000153,V001787,P00454,DR0022,N39.0,"Urinary tract infection",Severe,Stable
+MR000154,V001572,P00942,DR0079,N39.0,"Urinary tract infection",Severe,Stable
+MR000155,V001555,P00722,DR0101,G43.9,Migraine,Mild,Unknown
+MR000156,V001285,P00188,DR0096,K21.9,"Gastro-esophageal reflux disease",Unknown,Critical
+MR000157,V000903,P00077,DR0086,G43.9,Migraine,Mild,Critical
+MR000158,V001081,P00080,DR0091,I10,Hypertension,Mild,Unknown
+MR000159,V000552,P00610,DR0100,E11.9,"Type 2 diabetes mellitus",Unknown,Improving
+MR000160,V000231,P00949,DR0024,G43.9,Migraine,Mild,Unknown
+MR000161,V001193,P00636,DR0051,E11.9,"Type 2 diabetes mellitus",Severe,Stable
+MR000162,V002386,P00215,DR0048,E11.9,"Type 2 diabetes mellitus",Unknown,Stable
+MR000163,V000467,P00737,DR0042,I10,Hypertension,Mild,Stable
+MR000164,V000376,P00833,DR0029,I25.10,"Coronary artery disease",Unknown,Stable
+MR000165,V002857,P00734,DR0009,A09,Gastroenteritis,Unknown,Improving
+MR000166,V001848,P00369,DR0054,E11.9,"Type 2 diabetes mellitus",Moderate,Stable
+MR000167,V000425,P00723,DR0090,J06.9,"Acute upper respiratory infection",Mild,Improving
+MR000168,V002440,P00493,DR0082,I25.10,"Coronary artery disease",Mild,Stable
+MR000169,V001186,P00580,DR0022,R51.9,Headache,Mild,Unknown
+MR000170,V000648,P00942,DR0021,S82.201,"Fracture of tibia",Mild,Stable
+MR000171,V000855,P00537,DR0049,E11.9,"Type 2 diabetes mellitus",Unknown,Unknown
+MR000172,V001651,P00055,DR0022,K21.9,"Gastro-esophageal reflux disease",Severe,Improving
+MR000173,V002223,P00740,DR0006,J18.9,Pneumonia,Mild,Stable
+MR000174,V002914,P00874,DR0004,N39.0,"Urinary tract infection",Severe,Stable
+MR000175,V001294,P00765,DR0032,E11.9,"Type 2 diabetes mellitus",Mild,Unknown
+MR000176,V002504,P00991,DR0081,J18.9,Pneumonia,Moderate,Stable
+MR000177,V002460,P00800,DR0025,K21.9,"Gastro-esophageal reflux disease",Mild,Unknown
+MR000178,V001709,P00051,DR0042,K21.9,"Gastro-esophageal reflux disease",Severe,Stable
+MR000179,V001298,P00484,DR0045,J06.9,"Acute upper respiratory infection",Moderate,Improving
+MR000180,V001642,P00886,DR0034,M54.5,"Low back pain",Unknown,Critical
+MR000181,V002836,P00513,DR0054,R51.9,Headache,Mild,Critical
+MR000182,V000434,P00757,DR0067,M54.5,"Low back pain",Mild,Stable
+MR000183,V001230,P00576,DR0072,E11.9,"Type 2 diabetes mellitus",Mild,Critical
+MR000184,V000087,P00970,DR0010,N39.0,"Urinary tract infection",Severe,Critical
+MR000185,V000173,P00571,DR0022,G43.9,Migraine,Unknown,Unknown
+MR000186,V001336,P00909,DR0006,K21.9,"Gastro-esophageal reflux disease",Unknown,Critical
+MR000187,V001225,P00928,DR0036,E11.9,"Type 2 diabetes mellitus",Severe,Improving
+MR000188,V001657,P00506,DR0102,A09,Gastroenteritis,Unknown,Stable
+MR000189,V001420,P00869,DR0006,A09,Gastroenteritis,Mild,Improving
+MR000190,V002741,P00525,DR0085,G43.9,Migraine,Mild,Unknown
+MR000191,V002529,P00971,DR0057,M54.5,"Low back pain",Moderate,Critical
+MR000192,V001684,P00744,DR0073,E11.9,"Type 2 diabetes mellitus",Moderate,Stable
+MR000193,V001566,P00676,DR0069,G43.9,Migraine,Unknown,Stable
+MR000194,V001758,P00548,DR0010,I10,Hypertension,Mild,Critical
+MR000195,V001935,P00158,DR0086,S82.201,"Fracture of tibia",Unknown,Stable
+MR000196,V001684,P00755,DR0014,K21.9,"Gastro-esophageal reflux disease",Severe,Stable
+MR000197,V000343,P00331,DR0005,G43.9,Migraine,Mild,Stable
+MR000198,V002818,P00852,DR0059,E11.9,"Type 2 diabetes mellitus",Unknown,Unknown
+MR000199,V000023,P00921,DR0058,I10,Hypertension,Severe,Improving
+MR000200,V001164,P00998,DR0048,N39.0,"Urinary tract infection",Mild,Stable
+MR000201,V002561,P00439,DR0062,N39.0,"Urinary tract infection",Mild,Stable
+MR000202,V000538,P00705,DR0012,G43.9,Migraine,Unknown,Improving
+MR000203,V002402,P00885,DR0016,M54.5,"Low back pain",Mild,Unknown
+MR000204,V000454,P00372,DR0021,J06.9,"Acute upper respiratory infection",Unknown,Critical
+MR000205,V001988,P00548,DR0029,S82.201,"Fracture of tibia",Mild,Critical
+MR000206,V000223,P00917,DR0068,A09,Gastroenteritis,Unknown,Stable
+MR000207,V002429,P00599,DR0035,J18.9,Pneumonia,Mild,Stable
+MR000208,V002185,P00882,DR0070,S82.201,"Fracture of tibia",Moderate,Improving
+MR000209,V001659,P00817,DR0017,J18.9,Pneumonia,Moderate,Stable
+MR000210,V000060,P00881,DR0072,E11.9,"Type 2 diabetes mellitus",Severe,Stable
+MR000211,V000158,P00812,DR0009,R51.9,Headache,Moderate,Stable
+MR000212,V002678,P00408,DR0092,A09,Gastroenteritis,Mild,Improving
+MR000213,V001381,P00634,DR0046,J18.9,Pneumonia,Mild,Stable
+MR000214,V001552,P00772,DR0010,G43.9,Migraine,Mild,Improving
+MR000215,V001663,P00897,DR0045,S82.201,"Fracture of tibia",Moderate,Stable
+MR000216,V000544,P00800,DR0047,I10,Hypertension,Unknown,Stable
+MR000217,V000592,P00829,DR0008,I25.10,"Coronary artery disease",Severe,Critical
+MR000218,V000189,P00825,DR0071,J18.9,Pneumonia,Unknown,Critical
+MR000219,V002509,P00450,DR0072,I10,Hypertension,Unknown,Unknown
+MR000220,V000397,P00837,DR0069,G43.9,Migraine,Severe,Stable
+MR000221,V000209,P00656,DR0001,I10,Hypertension,Severe,Unknown
+MR000222,V002111,P00295,DR0031,M54.5,"Low back pain",Mild,Critical
+MR000223,V000254,P00231,DR0090,K21.9,"Gastro-esophageal reflux disease",Unknown,Stable
+MR000224,V002904,P00547,DR0078,I10,Hypertension,Mild,Critical
+MR000225,V002799,P00251,DR0061,S82.201,"Fracture of tibia",Mild,Critical
+MR000226,V001915,P00905,DR0079,M54.5,"Low back pain",Severe,Unknown
+MR000227,V000237,P00270,DR0061,I25.10,"Coronary artery disease",Mild,Unknown
+MR000228,V000097,P00164,DR0059,S82.201,"Fracture of tibia",Severe,Stable
+MR000229,V000018,P00703,DR0099,I25.10,"Coronary artery disease",Unknown,Stable
+MR000230,V002553,P00559,DR0042,E11.9,"Type 2 diabetes mellitus",Severe,Stable
+MR000231,V002221,P00521,DR0100,I25.10,"Coronary artery disease",Severe,Improving
+MR000232,V001260,P00025,DR0049,G43.9,Migraine,Moderate,Unknown
+MR000233,V000011,P00456,DR0021,J18.9,Pneumonia,Moderate,Improving
+MR000234,V001518,P00711,DR0018,I10,Hypertension,Severe,Critical
+MR000235,V000480,P00194,DR0043,I10,Hypertension,Mild,Stable
+MR000236,V001793,P00567,DR0066,E11.9,"Type 2 diabetes mellitus",Severe,Stable
+MR000237,V001481,P00126,DR0027,A09,Gastroenteritis,Unknown,Critical
+MR000238,V002101,P00026,DR0046,E11.9,"Type 2 diabetes mellitus",Mild,Improving
+MR000239,V002922,P00959,DR0001,I10,Hypertension,Unknown,Stable
+MR000240,V001531,P00070,DR0043,M54.5,"Low back pain",Unknown,Improving
+MR000241,V000631,P00485,DR0053,I25.10,"Coronary artery disease",Unknown,Unknown
+MR000242,V001087,P00459,DR0029,S82.201,"Fracture of tibia",Moderate,Stable
+MR000243,V000618,P00691,DR0048,S82.201,"Fracture of tibia",Unknown,Stable
+MR000244,V000210,P00376,DR0053,K21.9,"Gastro-esophageal reflux disease",Mild,Stable
+MR000245,V000610,P00309,DR0016,E11.9,"Type 2 diabetes mellitus",Moderate,Unknown
+MR000246,V002522,P00089,DR0018,M54.5,"Low back pain",Mild,Unknown
+MR000247,V001763,P00399,DR0075,I25.10,"Coronary artery disease",Mild,Critical
+MR000248,V001752,P00359,DR0087,I25.10,"Coronary artery disease",Unknown,Critical
+MR000249,V001291,P00710,DR0077,A09,Gastroenteritis,Mild,Unknown
+MR000250,V001508,P00033,DR0097,E11.9,"Type 2 diabetes mellitus",Severe,Stable
+MR000251,V000954,P00809,DR0084,A09,Gastroenteritis,Mild,Unknown
+MR000252,V002372,P00491,DR0053,N39.0,"Urinary tract infection",Unknown,Stable
+MR000253,V000813,P00009,DR0036,J06.9,"Acute upper respiratory infection",Moderate,Improving
+MR000254,V002123,P00538,DR0081,A09,Gastroenteritis,Unknown,Unknown
+MR000255,V000017,P00787,DR0019,K21.9,"Gastro-esophageal reflux disease",Unknown,Improving
+MR000256,V000067,P00265,DR0001,G43.9,Migraine,Moderate,Unknown
+MR000257,V001555,P00440,DR0066,K21.9,"Gastro-esophageal reflux disease",Mild,Stable
+MR000258,V000626,P00399,DR0006,R51.9,Headache,Severe,Stable
+MR000259,V002074,P00621,DR0054,A09,Gastroenteritis,Mild,Unknown
+MR000260,V001462,P00211,DR0063,I10,Hypertension,Mild,Unknown
+MR000261,V000604,P00207,DR0025,N39.0,"Urinary tract infection",Mild,Stable
+MR000262,V002494,P00817,DR0075,E11.9,"Type 2 diabetes mellitus",Mild,Stable
+MR000263,V002585,P00704,DR0060,I10,Hypertension,Unknown,Stable
+MR000264,V000428,P00004,DR0073,J06.9,"Acute upper respiratory infection",Mild,Stable
+MR000265,V002809,P00179,DR0065,N39.0,"Urinary tract infection",Unknown,Unknown
+MR000266,V000047,P00015,DR0049,K21.9,"Gastro-esophageal reflux disease",Unknown,Unknown
+MR000267,V000654,P00499,DR0076,E11.9,"Type 2 diabetes mellitus",Unknown,Improving
+MR000268,V000704,P00558,DR0087,J18.9,Pneumonia,Severe,Unknown
+MR000269,V001730,P00560,DR0100,I10,Hypertension,Mild,Unknown
+MR000270,V000643,P00647,DR0037,J06.9,"Acute upper respiratory infection",Unknown,Unknown
+MR000271,V002477,P00454,DR0002,G43.9,Migraine,Mild,Unknown
+MR000272,V002176,P00218,DR0034,I10,Hypertension,Unknown,Critical
+MR000273,V001059,P00264,DR0068,A09,Gastroenteritis,Unknown,Stable
+MR000274,V002188,P00253,DR0025,M54.5,"Low back pain",Severe,Unknown
+MR000275,V002835,P00469,DR0095,K21.9,"Gastro-esophageal reflux disease",Mild,Improving
+MR000276,V000887,P00072,DR0086,E11.9,"Type 2 diabetes mellitus",Unknown,Stable
+MR000277,V002979,P00425,DR0039,A09,Gastroenteritis,Unknown,Unknown
+MR000278,V001952,P00651,DR0088,S82.201,"Fracture of tibia",Unknown,Stable
+MR000279,V002043,P00743,DR0072,N39.0,"Urinary tract infection",Moderate,Stable
+MR000280,V000709,P00945,DR0083,N39.0,"Urinary tract infection",Moderate,Stable
+MR000281,V000520,P00429,DR0095,E11.9,"Type 2 diabetes mellitus",Severe,Stable
+MR000282,V001311,P00499,DR0070,J18.9,Pneumonia,Unknown,Stable
+MR000283,V002927,P00080,DR0037,I25.10,"Coronary artery disease",Mild,Critical
+MR000284,V000564,P00277,DR0062,K21.9,"Gastro-esophageal reflux disease",Severe,Improving
+MR000285,V000456,P00509,DR0070,I25.10,"Coronary artery disease",Moderate,Stable
+MR000286,V002660,P00885,DR0079,J18.9,Pneumonia,Mild,Improving
+MR000287,V002163,P00317,DR0002,I10,Hypertension,Severe,Stable
+MR000288,V000056,P00783,DR0015,M54.5,"Low back pain",Mild,Critical
+MR000289,V001582,P00143,DR0015,K21.9,"Gastro-esophageal reflux disease",Unknown,Critical
+MR000290,V001405,P00647,DR0017,K21.9,"Gastro-esophageal reflux disease",Unknown,Critical
+MR000291,V001078,P00343,DR0072,J06.9,"Acute upper respiratory infection",Mild,Improving
+MR000292,V000732,P00587,DR0078,S82.201,"Fracture of tibia",Moderate,Improving
+MR000293,V001721,P00484,DR0079,A09,Gastroenteritis,Mild,Stable
+MR000294,V001288,P00793,DR0034,E11.9,"Type 2 diabetes mellitus",Unknown,Improving
+MR000295,V002938,P00947,DR0030,G43.9,Migraine,Unknown,Unknown
+MR000296,V000970,P00631,DR0018,I25.10,"Coronary artery disease",Unknown,Unknown
+MR000297,V001599,P00142,DR0020,N39.0,"Urinary tract infection",Severe,Stable
+MR000298,V002053,P00758,DR0054,R51.9,Headache,Mild,Stable
+MR000299,V000248,P00233,DR0047,E11.9,"Type 2 diabetes mellitus",Mild,Critical
+MR000300,V002272,P00054,DR0072,R51.9,Headache,Mild,Stable
+MR000301,V001251,P00853,DR0099,A09,Gastroenteritis,Moderate,Stable
+MR000302,V002568,P00375,DR0001,I25.10,"Coronary artery disease",Mild,Stable
+MR000303,V001753,P00423,DR0037,J06.9,"Acute upper respiratory infection",Mild,Unknown
+MR000304,V000310,P00292,DR0078,K21.9,"Gastro-esophageal reflux disease",Mild,Stable
+MR000305,V002447,P00109,DR0056,I10,Hypertension,Unknown,Unknown
+MR000306,V001266,P00348,DR0040,J18.9,Pneumonia,Mild,Stable
+MR000307,V002126,P00891,DR0035,G43.9,Migraine,Unknown,Stable
+MR000308,V001222,P00883,DR0098,A09,Gastroenteritis,Unknown,Critical
+MR000309,V002925,P00134,DR0044,J06.9,"Acute upper respiratory infection",Moderate,Stable
+MR000310,V000813,P00162,DR0014,G43.9,Migraine,Severe,Stable
+MR000311,V000435,P00047,DR0096,S82.201,"Fracture of tibia",Unknown,Unknown
+MR000312,V002736,P00414,DR0097,R51.9,Headache,Mild,Stable
+MR000313,V002741,P00935,DR0033,I25.10,"Coronary artery disease",Moderate,Critical
+MR000314,V000092,P00417,DR0035,I10,Hypertension,Mild,Stable
+MR000315,V001005,P00318,DR0074,M54.5,"Low back pain",Mild,Critical
+MR000316,V001766,P00690,DR0088,J06.9,"Acute upper respiratory infection",Severe,Improving
+MR000317,V002045,P00911,DR0063,M54.5,"Low back pain",Mild,Stable
+MR000318,V000643,P00521,DR0048,I10,Hypertension,Unknown,Unknown
+MR000319,V002954,P00511,DR0044,N39.0,"Urinary tract infection",Unknown,Unknown
+MR000320,V001297,P00578,DR0095,G43.9,Migraine,Severe,Stable
+MR000321,V001411,P00903,DR0042,R51.9,Headache,Unknown,Improving
+MR000322,V000204,P00826,DR0013,I25.10,"Coronary artery disease",Unknown,Improving
+MR000323,V002699,P00253,DR0081,I10,Hypertension,Mild,Stable
+MR000324,V001144,P00302,DR0083,A09,Gastroenteritis,Moderate,Improving
+MR000325,V002877,P00317,DR0045,S82.201,"Fracture of tibia",Mild,Stable
+MR000326,V002636,P00750,DR0037,A09,Gastroenteritis,Mild,Stable
+MR000327,V001073,P00652,DR0082,J06.9,"Acute upper respiratory infection",Severe,Unknown
+MR000328,V000616,P00806,DR0102,G43.9,Migraine,Severe,Stable
+MR000329,V000042,P00420,DR0058,S82.201,"Fracture of tibia",Mild,Unknown
+MR000330,V001812,P00573,DR0038,S82.201,"Fracture of tibia",Unknown,Unknown
+MR000331,V002372,P00584,DR0032,J06.9,"Acute upper respiratory infection",Unknown,Critical
+MR000332,V000497,P00132,DR0065,J06.9,"Acute upper respiratory infection",Severe,Unknown
+MR000333,V002476,P00482,DR0100,J18.9,Pneumonia,Severe,Unknown
+MR000334,V000293,P00002,DR0044,S82.201,"Fracture of tibia",Unknown,Unknown
+MR000335,V000363,P00371,DR0099,S82.201,"Fracture of tibia",Severe,Critical
+MR000336,V001435,P00985,DR0015,K21.9,"Gastro-esophageal reflux disease",Severe,Improving
+MR000337,V001128,P00058,DR0092,M54.5,"Low back pain",Mild,Unknown
+MR000338,V001698,P00874,DR0084,I10,Hypertension,Unknown,Improving
+MR000339,V001347,P00625,DR0084,S82.201,"Fracture of tibia",Severe,Stable
+MR000340,V002687,P00939,DR0035,N39.0,"Urinary tract infection",Mild,Stable
+MR000341,V002831,P00746,DR0016,I25.10,"Coronary artery disease",Moderate,Stable
+MR000342,V000413,P00814,DR0010,R51.9,Headache,Severe,Improving
+MR000343,V002704,P00524,DR0011,E11.9,"Type 2 diabetes mellitus",Severe,Stable
+MR000344,V002070,P00598,DR0028,N39.0,"Urinary tract infection",Mild,Stable
+MR000345,V000239,P00379,DR0004,G43.9,Migraine,Unknown,Critical
+MR000346,V002956,P00021,DR0082,R51.9,Headache,Mild,Improving
+MR000347,V001818,P00415,DR0023,J06.9,"Acute upper respiratory infection",Unknown,Improving
+MR000348,V001751,P00343,DR0058,J06.9,"Acute upper respiratory infection",Mild,Unknown
+MR000349,V000216,P00262,DR0095,N39.0,"Urinary tract infection",Mild,Unknown
+MR000350,V002625,P00248,DR0057,S82.201,"Fracture of tibia",Unknown,Critical
+MR000351,V002869,P00994,DR0084,J06.9,"Acute upper respiratory infection",Unknown,Unknown
+MR000352,V000800,P00399,DR0073,K21.9,"Gastro-esophageal reflux disease",Severe,Critical
+MR000353,V001097,P00111,DR0087,M54.5,"Low back pain",Severe,Stable
+MR000354,V002330,P00158,DR0068,A09,Gastroenteritis,Moderate,Unknown
+MR000355,V000413,P00430,DR0046,I10,Hypertension,Unknown,Unknown
+MR000356,V000680,P00494,DR0037,J18.9,Pneumonia,Unknown,Stable
+MR000357,V001480,P00659,DR0043,E11.9,"Type 2 diabetes mellitus",Moderate,Stable
+MR000358,V001827,P00588,DR0100,R51.9,Headache,Unknown,Improving
+MR000359,V001224,P00837,DR0064,R51.9,Headache,Mild,Unknown
+MR000360,V000389,P00880,DR0060,K21.9,"Gastro-esophageal reflux disease",Unknown,Stable
+MR000361,V000462,P00822,DR0003,J06.9,"Acute upper respiratory infection",Moderate,Stable
+MR000362,V001738,P00316,DR0085,N39.0,"Urinary tract infection",Unknown,Stable
+MR000363,V000021,P00360,DR0016,I10,Hypertension,Moderate,Unknown
+MR000364,V000219,P00896,DR0084,R51.9,Headache,Mild,Unknown
+MR000365,V000012,P00339,DR0028,A09,Gastroenteritis,Unknown,Improving
+MR000366,V002991,P00570,DR0060,J06.9,"Acute upper respiratory infection",Mild,Critical
+MR000367,V001577,P00794,DR0024,R51.9,Headache,Unknown,Unknown
+MR000368,V001300,P00200,DR0012,G43.9,Migraine,Severe,Improving
+MR000369,V001066,P00778,DR0102,R51.9,Headache,Mild,Improving
+MR000370,V000108,P00456,DR0042,R51.9,Headache,Moderate,Stable
+MR000371,V002667,P00307,DR0033,M54.5,"Low back pain",Unknown,Unknown
+MR000372,V002703,P00277,DR0041,K21.9,"Gastro-esophageal reflux disease",Unknown,Critical
+MR000373,V000830,P00567,DR0036,R51.9,Headache,Unknown,Improving
+MR000374,V001830,P00964,DR0086,G43.9,Migraine,Mild,Improving
+MR000375,V002606,P00424,DR0068,R51.9,Headache,Unknown,Stable
+MR000376,V001313,P00691,DR0015,I10,Hypertension,Mild,Stable
+MR000377,V000785,P00092,DR0084,I10,Hypertension,Moderate,Stable
+MR000378,V001455,P00593,DR0014,G43.9,Migraine,Unknown,Critical
+MR000379,V001760,P00975,DR0010,K21.9,"Gastro-esophageal reflux disease",Unknown,Stable
+MR000380,V001542,P00816,DR0002,R51.9,Headache,Severe,Stable
+MR000381,V001108,P00241,DR0035,A09,Gastroenteritis,Mild,Improving
+MR000382,V002679,P00381,DR0044,K21.9,"Gastro-esophageal reflux disease",Unknown,Critical
+MR000383,V001517,P00430,DR0083,G43.9,Migraine,Unknown,Stable
+MR000384,V002971,P00143,DR0076,I25.10,"Coronary artery disease",Severe,Stable
+MR000385,V001383,P00003,DR0056,I10,Hypertension,Mild,Improving
+MR000386,V000999,P00056,DR0079,I25.10,"Coronary artery disease",Unknown,Improving
+MR000387,V001273,P00720,DR0063,E11.9,"Type 2 diabetes mellitus",Mild,Stable
+MR000388,V000903,P00871,DR0060,J18.9,Pneumonia,Severe,Improving
+MR000389,V000676,P00557,DR0077,M54.5,"Low back pain",Unknown,Unknown
+MR000390,V002601,P00913,DR0054,E11.9,"Type 2 diabetes mellitus",Moderate,Stable
+MR000391,V002660,P00387,DR0015,S82.201,"Fracture of tibia",Mild,Stable
+MR000392,V001769,P00408,DR0016,I10,Hypertension,Mild,Improving
+MR000393,V001883,P00060,DR0043,K21.9,"Gastro-esophageal reflux disease",Mild,Stable
+MR000394,V002691,P00861,DR0074,G43.9,Migraine,Unknown,Stable
+MR000395,V000831,P00107,DR0077,R51.9,Headache,Mild,Stable
+MR000396,V002548,P00397,DR0087,S82.201,"Fracture of tibia",Mild,Critical
+MR000397,V001722,P00848,DR0009,S82.201,"Fracture of tibia",Unknown,Unknown
+MR000398,V000076,P00526,DR0086,I25.10,"Coronary artery disease",Unknown,Critical
+MR000399,V001922,P00464,DR0073,A09,Gastroenteritis,Moderate,Stable
+MR000400,V002547,P00413,DR0068,J18.9,Pneumonia,Unknown,Stable
+MR000401,V001831,P00260,DR0065,J06.9,"Acute upper respiratory infection",Moderate,Stable
+MR000402,V002335,P00731,DR0057,I10,Hypertension,Severe,Stable
+MR000403,V002419,P00364,DR0003,J18.9,Pneumonia,Moderate,Stable
+MR000404,V000621,P00745,DR0085,G43.9,Migraine,Severe,Stable
+MR000405,V002998,P00535,DR0009,G43.9,Migraine,Unknown,Improving
+MR000406,V000748,P00971,DR0038,N39.0,"Urinary tract infection",Unknown,Stable
+MR000407,V000983,P00461,DR0011,R51.9,Headache,Mild,Unknown
+MR000408,V002745,P00656,DR0022,M54.5,"Low back pain",Mild,Critical
+MR000409,V001673,P00655,DR0031,S82.201,"Fracture of tibia",Mild,Improving
+MR000410,V002678,P00850,DR0079,E11.9,"Type 2 diabetes mellitus",Mild,Unknown
+MR000411,V000306,P00727,DR0031,A09,Gastroenteritis,Mild,Stable
+MR000412,V001803,P00609,DR0007,M54.5,"Low back pain",Unknown,Critical
+MR000413,V002452,P00269,DR0008,M54.5,"Low back pain",Unknown,Stable
+MR000414,V000403,P00620,DR0098,J18.9,Pneumonia,Severe,Improving
+MR000415,V002293,P00579,DR0012,G43.9,Migraine,Unknown,Improving
+MR000416,V002191,P00611,DR0007,K21.9,"Gastro-esophageal reflux disease",Unknown,Stable
+MR000417,V000205,P00656,DR0055,R51.9,Headache,Severe,Stable
+MR000418,V002617,P00437,DR0093,K21.9,"Gastro-esophageal reflux disease",Mild,Stable
+MR000419,V002806,P00156,DR0078,G43.9,Migraine,Mild,Stable
+MR000420,V000206,P00571,DR0004,G43.9,Migraine,Unknown,Critical
+MR000421,V000630,P00287,DR0087,N39.0,"Urinary tract infection",Unknown,Stable
+MR000422,V002916,P00701,DR0076,G43.9,Migraine,Mild,Improving
+MR000423,V000028,P00035,DR0030,M54.5,"Low back pain",Mild,Critical
+MR000424,V002130,P00886,DR0053,E11.9,"Type 2 diabetes mellitus",Severe,Unknown
+MR000425,V002494,P00446,DR0023,N39.0,"Urinary tract infection",Severe,Unknown
+MR000426,V002596,P00953,DR0060,M54.5,"Low back pain",Unknown,Stable
+MR000427,V001108,P00604,DR0045,S82.201,"Fracture of tibia",Severe,Stable
+MR000428,V002346,P00039,DR0011,S82.201,"Fracture of tibia",Mild,Improving
+MR000429,V001075,P00955,DR0080,I25.10,"Coronary artery disease",Mild,Stable
+MR000430,V001940,P00057,DR0069,A09,Gastroenteritis,Severe,Improving
+MR000431,V002074,P00177,DR0031,K21.9,"Gastro-esophageal reflux disease",Severe,Critical
+MR000432,V002844,P00285,DR0033,I25.10,"Coronary artery disease",Moderate,Unknown
+MR000433,V000018,P00121,DR0016,R51.9,Headache,Severe,Stable
+MR000434,V002466,P00284,DR0100,K21.9,"Gastro-esophageal reflux disease",Severe,Stable
+MR000435,V002551,P00559,DR0098,I25.10,"Coronary artery disease",Moderate,Improving
+MR000436,V001928,P00371,DR0002,I25.10,"Coronary artery disease",Mild,Improving
+MR000437,V001896,P00328,DR0022,E11.9,"Type 2 diabetes mellitus",Unknown,Improving
+MR000438,V001142,P00241,DR0033,J06.9,"Acute upper respiratory infection",Unknown,Improving
+MR000439,V001432,P00817,DR0095,S82.201,"Fracture of tibia",Mild,Critical
+MR000440,V000680,P00565,DR0001,K21.9,"Gastro-esophageal reflux disease",Moderate,Critical
+MR000441,V000051,P00431,DR0091,I10,Hypertension,Severe,Critical
+MR000442,V002144,P00046,DR0040,A09,Gastroenteritis,Severe,Stable
+MR000443,V002781,P00555,DR0021,G43.9,Migraine,Severe,Critical
+MR000444,V001806,P00767,DR0024,N39.0,"Urinary tract infection",Unknown,Stable
+MR000445,V001753,P00898,DR0097,I10,Hypertension,Unknown,Critical
+MR000446,V001897,P00742,DR0028,N39.0,"Urinary tract infection",Unknown,Stable
+MR000447,V001443,P00552,DR0018,J18.9,Pneumonia,Moderate,Improving
+MR000448,V002722,P00085,DR0053,A09,Gastroenteritis,Mild,Stable
+MR000449,V001516,P00203,DR0018,E11.9,"Type 2 diabetes mellitus",Mild,Improving
+MR000450,V000391,P00850,DR0037,M54.5,"Low back pain",Severe,Stable
+MR000451,V002232,P00522,DR0090,A09,Gastroenteritis,Unknown,Stable
+MR000452,V000969,P00451,DR0076,E11.9,"Type 2 diabetes mellitus",Unknown,Stable
+MR000453,V001364,P00255,DR0065,A09,Gastroenteritis,Unknown,Unknown
+MR000454,V000309,P00818,DR0023,A09,Gastroenteritis,Moderate,Unknown
+MR000455,V001353,P00464,DR0089,K21.9,"Gastro-esophageal reflux disease",Unknown,Stable
+MR000456,V001106,P00826,DR0037,K21.9,"Gastro-esophageal reflux disease",Moderate,Critical
+MR000457,V000634,P00962,DR0022,K21.9,"Gastro-esophageal reflux disease",Unknown,Improving
+MR000458,V001671,P00852,DR0033,M54.5,"Low back pain",Unknown,Unknown
+MR000459,V001584,P00125,DR0027,R51.9,Headache,Mild,Unknown
+MR000460,V001541,P00046,DR0094,R51.9,Headache,Unknown,Improving
+MR000461,V002453,P00270,DR0044,S82.201,"Fracture of tibia",Mild,Unknown
+MR000462,V002125,P00738,DR0020,I25.10,"Coronary artery disease",Mild,Improving
+MR000463,V002115,P00749,DR0049,S82.201,"Fracture of tibia",Unknown,Improving
+MR000464,V002077,P00383,DR0090,G43.9,Migraine,Mild,Improving
+MR000465,V002667,P00196,DR0082,K21.9,"Gastro-esophageal reflux disease",Mild,Unknown
+MR000466,V002668,P00977,DR0084,J18.9,Pneumonia,Severe,Stable
+MR000467,V002381,P00393,DR0079,R51.9,Headache,Moderate,Improving
+MR000468,V000689,P00561,DR0068,J18.9,Pneumonia,Unknown,Unknown
+MR000469,V001572,P00781,DR0004,N39.0,"Urinary tract infection",Mild,Stable
+MR000470,V001157,P00611,DR0096,E11.9,"Type 2 diabetes mellitus",Unknown,Stable
+MR000471,V001002,P00799,DR0053,I10,Hypertension,Unknown,Critical
+MR000472,V002713,P00518,DR0037,N39.0,"Urinary tract infection",Moderate,Stable
+MR000473,V000463,P00861,DR0026,J06.9,"Acute upper respiratory infection",Unknown,Stable
+MR000474,V001707,P00218,DR0072,G43.9,Migraine,Unknown,Unknown
+MR000475,V002802,P00945,DR0065,E11.9,"Type 2 diabetes mellitus",Moderate,Unknown
+MR000476,V002861,P00247,DR0006,M54.5,"Low back pain",Mild,Critical
+MR000477,V002100,P00734,DR0101,K21.9,"Gastro-esophageal reflux disease",Mild,Unknown
+MR000478,V002278,P00778,DR0005,E11.9,"Type 2 diabetes mellitus",Unknown,Stable
+MR000479,V001896,P00171,DR0077,M54.5,"Low back pain",Unknown,Improving
+MR000480,V000504,P00164,DR0050,E11.9,"Type 2 diabetes mellitus",Unknown,Stable
+MR000481,V001588,P00008,DR0028,M54.5,"Low back pain",Unknown,Improving
+MR000482,V000545,P00074,DR0063,E11.9,"Type 2 diabetes mellitus",Mild,Critical
+MR000483,V002881,P00251,DR0018,J06.9,"Acute upper respiratory infection",Unknown,Unknown
+MR000484,V000377,P00894,DR0011,N39.0,"Urinary tract infection",Moderate,Stable
+MR000485,V000896,P00025,DR0034,K21.9,"Gastro-esophageal reflux disease",Severe,Improving
+MR000486,V000686,P00898,DR0051,G43.9,Migraine,Unknown,Stable
+MR000487,V002355,P00353,DR0029,I10,Hypertension,Mild,Stable
+MR000488,V002466,P00675,DR0024,G43.9,Migraine,Moderate,Stable
+MR000489,V000696,P00160,DR0025,R51.9,Headache,Moderate,Stable
+MR000490,V000724,P00031,DR0073,I10,Hypertension,Severe,Stable
+MR000491,V001136,P00398,DR0079,E11.9,"Type 2 diabetes mellitus",Unknown,Improving
+MR000492,V000147,P00959,DR0060,K21.9,"Gastro-esophageal reflux disease",Mild,Improving
+MR000493,V002592,P00761,DR0037,I10,Hypertension,Unknown,Unknown
+MR000494,V000030,P00445,DR0095,N39.0,"Urinary tract infection",Unknown,Critical
+MR000495,V000988,P00984,DR0027,I25.10,"Coronary artery disease",Mild,Stable
+MR000496,V000768,P00432,DR0017,A09,Gastroenteritis,Mild,Critical
+MR000497,V001115,P00387,DR0016,S82.201,"Fracture of tibia",Mild,Critical
+MR000498,V000306,P00830,DR0094,R51.9,Headache,Moderate,Improving
+MR000499,V000515,P00031,DR0076,R51.9,Headache,Moderate,Stable
+MR000500,V000614,P00301,DR0001,S82.201,"Fracture of tibia",Mild,Improving
+MR000501,V002323,P00647,DR0088,J18.9,Pneumonia,Severe,Improving
+MR000502,V002308,P00052,DR0029,I25.10,"Coronary artery disease",Unknown,Unknown
+MR000503,V001969,P00285,DR0026,J18.9,Pneumonia,Mild,Unknown
+MR000504,V002066,P00020,DR0090,J18.9,Pneumonia,Unknown,Critical
+MR000505,V001606,P00146,DR0088,E11.9,"Type 2 diabetes mellitus",Severe,Stable
+MR000506,V002922,P00318,DR0056,E11.9,"Type 2 diabetes mellitus",Mild,Critical
+MR000507,V001486,P00006,DR0101,K21.9,"Gastro-esophageal reflux disease",Unknown,Critical
+MR000508,V001517,P00889,DR0047,R51.9,Headache,Unknown,Critical
+MR000509,V000661,P00061,DR0013,R51.9,Headache,Unknown,Stable
+MR000510,V000875,P00174,DR0001,J06.9,"Acute upper respiratory infection",Severe,Stable
+MR000511,V002140,P00561,DR0078,S82.201,"Fracture of tibia",Unknown,Stable
+MR000512,V000460,P00873,DR0063,S82.201,"Fracture of tibia",Mild,Critical
+MR000513,V002370,P00948,DR0021,E11.9,"Type 2 diabetes mellitus",Mild,Critical
+MR000514,V001150,P00411,DR0013,I10,Hypertension,Moderate,Improving
+MR000515,V002611,P00930,DR0066,R51.9,Headache,Unknown,Unknown
+MR000516,V001767,P00355,DR0055,R51.9,Headache,Mild,Improving
+MR000517,V001054,P00866,DR0072,I10,Hypertension,Mild,Improving
+MR000518,V002760,P00348,DR0030,K21.9,"Gastro-esophageal reflux disease",Mild,Critical
+MR000519,V001035,P00299,DR0101,E11.9,"Type 2 diabetes mellitus",Unknown,Stable
+MR000520,V002811,P00929,DR0075,E11.9,"Type 2 diabetes mellitus",Severe,Improving
+MR000521,V001215,P00373,DR0075,E11.9,"Type 2 diabetes mellitus",Mild,Unknown
+MR000522,V000204,P00149,DR0081,I10,Hypertension,Unknown,Unknown
+MR000523,V001250,P00482,DR0026,J18.9,Pneumonia,Severe,Improving
+MR000524,V002818,P00143,DR0076,G43.9,Migraine,Mild,Stable
+MR000525,V002500,P00026,DR0073,I10,Hypertension,Severe,Stable
+MR000526,V002137,P00120,DR0034,R51.9,Headache,Severe,Stable
+MR000527,V000618,P00857,DR0026,I10,Hypertension,Mild,Critical
+MR000528,V002016,P00061,DR0101,E11.9,"Type 2 diabetes mellitus",Moderate,Improving
+MR000529,V000696,P00344,DR0042,J18.9,Pneumonia,Unknown,Stable
+MR000530,V001043,P00761,DR0012,I25.10,"Coronary artery disease",Moderate,Improving
+MR000531,V000116,P00930,DR0074,N39.0,"Urinary tract infection",Mild,Stable
+MR000532,V001090,P00696,DR0005,J18.9,Pneumonia,Moderate,Stable
+MR000533,V000149,P00360,DR0099,S82.201,"Fracture of tibia",Moderate,Unknown
+MR000534,V001826,P00193,DR0079,E11.9,"Type 2 diabetes mellitus",Unknown,Stable
+MR000535,V002583,P00926,DR0014,S82.201,"Fracture of tibia",Moderate,Unknown
+MR000536,V002670,P00677,DR0046,K21.9,"Gastro-esophageal reflux disease",Moderate,Stable
+MR000537,V001167,P00396,DR0036,K21.9,"Gastro-esophageal reflux disease",Mild,Critical
+MR000538,V002274,P00837,DR0046,G43.9,Migraine,Severe,Stable
+MR000539,V001072,P00944,DR0046,N39.0,"Urinary tract infection",Unknown,Stable
+MR000540,V001253,P00254,DR0102,R51.9,Headache,Mild,Stable
+MR000541,V002372,P00906,DR0022,S82.201,"Fracture of tibia",Mild,Improving
+MR000542,V001411,P00644,DR0043,N39.0,"Urinary tract infection",Moderate,Unknown
+MR000543,V000628,P00331,DR0088,R51.9,Headache,Mild,Improving
+MR000544,V002755,P00890,DR0093,J06.9,"Acute upper respiratory infection",Unknown,Stable
+MR000545,V000501,P00882,DR0073,N39.0,"Urinary tract infection",Moderate,Unknown
+MR000546,V002477,P00790,DR0006,I25.10,"Coronary artery disease",Mild,Stable
+MR000547,V000899,P00911,DR0002,G43.9,Migraine,Moderate,Unknown
+MR000548,V001186,P00020,DR0014,N39.0,"Urinary tract infection",Mild,Stable
+MR000549,V002427,P00146,DR0090,K21.9,"Gastro-esophageal reflux disease",Unknown,Stable
+MR000550,V000072,P00337,DR0002,A09,Gastroenteritis,Unknown,Stable
+MR000551,V002466,P00363,DR0063,I10,Hypertension,Severe,Critical
+MR000552,V001788,P00606,DR0015,I10,Hypertension,Unknown,Stable
+MR000553,V001929,P00213,DR0071,K21.9,"Gastro-esophageal reflux disease",Mild,Critical
+MR000554,V001527,P00424,DR0064,A09,Gastroenteritis,Severe,Unknown
+MR000555,V002560,P00168,DR0073,G43.9,Migraine,Unknown,Stable
+MR000556,V000673,P00734,DR0061,I25.10,"Coronary artery disease",Severe,Improving
+MR000557,V000176,P00196,DR0087,G43.9,Migraine,Unknown,Stable
+MR000558,V001676,P00416,DR0098,J18.9,Pneumonia,Mild,Critical
+MR000559,V002807,P00240,DR0040,E11.9,"Type 2 diabetes mellitus",Mild,Stable
+MR000560,V002671,P00877,DR0030,N39.0,"Urinary tract infection",Unknown,Stable
+MR000561,V002848,P00561,DR0011,K21.9,"Gastro-esophageal reflux disease",Severe,Stable
+MR000562,V000424,P00483,DR0102,S82.201,"Fracture of tibia",Unknown,Critical
+MR000563,V000974,P00439,DR0096,J06.9,"Acute upper respiratory infection",Severe,Improving
+MR000564,V001022,P00547,DR0006,G43.9,Migraine,Mild,Unknown
+MR000565,V000790,P00295,DR0010,M54.5,"Low back pain",Unknown,Stable
+MR000566,V000489,P00825,DR0056,A09,Gastroenteritis,Mild,Stable
+MR000567,V001176,P00473,DR0049,E11.9,"Type 2 diabetes mellitus",Mild,Improving
+MR000568,V001890,P00552,DR0062,M54.5,"Low back pain",Severe,Critical
+MR000569,V001150,P00845,DR0042,E11.9,"Type 2 diabetes mellitus",Severe,Stable
+MR000570,V000264,P00668,DR0013,I25.10,"Coronary artery disease",Unknown,Critical
+MR000571,V000722,P00415,DR0052,S82.201,"Fracture of tibia",Unknown,Stable
+MR000572,V002235,P00890,DR0083,I10,Hypertension,Unknown,Improving
+MR000573,V000511,P00306,DR0071,I10,Hypertension,Unknown,Stable
+MR000574,V001530,P00924,DR0056,K21.9,"Gastro-esophageal reflux disease",Unknown,Stable
+MR000575,V001084,P00919,DR0009,R51.9,Headache,Moderate,Critical
+MR000576,V001648,P00826,DR0092,M54.5,"Low back pain",Unknown,Improving
+MR000577,V000269,P00479,DR0027,K21.9,"Gastro-esophageal reflux disease",Mild,Stable
+MR000578,V001874,P00223,DR0098,N39.0,"Urinary tract infection",Mild,Critical
+MR000579,V000800,P00707,DR0012,S82.201,"Fracture of tibia",Mild,Improving
+MR000580,V002415,P00756,DR0026,J06.9,"Acute upper respiratory infection",Severe,Stable
+MR000581,V000939,P00004,DR0100,R51.9,Headache,Unknown,Stable
+MR000582,V000332,P00412,DR0037,R51.9,Headache,Severe,Unknown
+MR000583,V002972,P00489,DR0026,J06.9,"Acute upper respiratory infection",Mild,Improving
+MR000584,V002983,P00487,DR0084,I25.10,"Coronary artery disease",Moderate,Stable
+MR000585,V002288,P00106,DR0072,A09,Gastroenteritis,Severe,Improving
+MR000586,V002375,P00190,DR0047,R51.9,Headache,Moderate,Stable
+MR000587,V001629,P00499,DR0009,I25.10,"Coronary artery disease",Unknown,Improving
+MR000588,V002063,P00319,DR0010,I25.10,"Coronary artery disease",Mild,Stable
+MR000589,V000633,P00524,DR0064,I10,Hypertension,Mild,Stable
+MR000590,V001695,P00936,DR0089,J06.9,"Acute upper respiratory infection",Unknown,Stable
+MR000591,V001387,P00712,DR0004,I10,Hypertension,Mild,Stable
+MR000592,V002200,P00077,DR0023,G43.9,Migraine,Unknown,Improving
+MR000593,V002655,P00554,DR0043,S82.201,"Fracture of tibia",Unknown,Improving
+MR000594,V001836,P00662,DR0067,J06.9,"Acute upper respiratory infection",Mild,Unknown
+MR000595,V001024,P00608,DR0041,J18.9,Pneumonia,Unknown,Unknown
+MR000596,V000609,P00249,DR0100,A09,Gastroenteritis,Mild,Improving
+MR000597,V001231,P00834,DR0066,R51.9,Headache,Unknown,Stable
+MR000598,V001769,P00819,DR0087,J18.9,Pneumonia,Mild,Stable
+MR000599,V002264,P00031,DR0009,G43.9,Migraine,Mild,Stable
+MR000600,V001135,P00721,DR0010,E11.9,"Type 2 diabetes mellitus",Mild,Critical
+MR000601,V001793,P00108,DR0021,M54.5,"Low back pain",Moderate,Stable
+MR000602,V001168,P00562,DR0058,J06.9,"Acute upper respiratory infection",Severe,Stable
+MR000603,V000877,P00836,DR0058,J06.9,"Acute upper respiratory infection",Mild,Stable
+MR000604,V000533,P00817,DR0058,I25.10,"Coronary artery disease",Mild,Stable
+MR000605,V002504,P00898,DR0084,I25.10,"Coronary artery disease",Mild,Improving
+MR000606,V002283,P00583,DR0075,K21.9,"Gastro-esophageal reflux disease",Severe,Stable
+MR000607,V000305,P00715,DR0053,M54.5,"Low back pain",Moderate,Stable
+MR000608,V002902,P00250,DR0087,K21.9,"Gastro-esophageal reflux disease",Unknown,Critical
+MR000609,V000351,P00928,DR0065,K21.9,"Gastro-esophageal reflux disease",Moderate,Critical
+MR000610,V001856,P00494,DR0092,G43.9,Migraine,Severe,Unknown
+MR000611,V002819,P00625,DR0036,J06.9,"Acute upper respiratory infection",Moderate,Stable
+MR000612,V002195,P00997,DR0088,E11.9,"Type 2 diabetes mellitus",Severe,Critical
+MR000613,V002317,P00926,DR0022,N39.0,"Urinary tract infection",Mild,Stable
+MR000614,V000535,P00276,DR0035,M54.5,"Low back pain",Moderate,Critical
+MR000615,V002034,P00656,DR0008,K21.9,"Gastro-esophageal reflux disease",Mild,Unknown
+MR000616,V002531,P00341,DR0102,J06.9,"Acute upper respiratory infection",Mild,Stable
+MR000617,V001795,P00739,DR0053,I25.10,"Coronary artery disease",Unknown,Critical
+MR000618,V000913,P00855,DR0102,I10,Hypertension,Moderate,Stable
+MR000619,V000369,P00641,DR0021,M54.5,"Low back pain",Unknown,Stable
+MR000620,V002995,P00385,DR0041,N39.0,"Urinary tract infection",Mild,Unknown
+MR000621,V000417,P00630,DR0076,K21.9,"Gastro-esophageal reflux disease",Mild,Unknown
+MR000622,V002559,P00810,DR0027,I25.10,"Coronary artery disease",Moderate,Unknown
+MR000623,V000133,P00171,DR0087,M54.5,"Low back pain",Unknown,Critical
+MR000624,V001471,P00924,DR0006,J06.9,"Acute upper respiratory infection",Severe,Stable
+MR000625,V001495,P00328,DR0061,J18.9,Pneumonia,Mild,Improving
+MR000626,V000609,P00569,DR0010,R51.9,Headache,Unknown,Stable
+MR000627,V000014,P00804,DR0044,R51.9,Headache,Severe,Critical
+MR000628,V000861,P00536,DR0092,G43.9,Migraine,Mild,Unknown
+MR000629,V000028,P00798,DR0004,K21.9,"Gastro-esophageal reflux disease",Mild,Stable
+MR000630,V000274,P00676,DR0044,R51.9,Headache,Mild,Stable
+MR000631,V000086,P00824,DR0089,K21.9,"Gastro-esophageal reflux disease",Severe,Critical
+MR000632,V002461,P00475,DR0090,K21.9,"Gastro-esophageal reflux disease",Mild,Critical
+MR000633,V000943,P00778,DR0089,I25.10,"Coronary artery disease",Mild,Critical
+MR000634,V001362,P00868,DR0102,G43.9,Migraine,Mild,Stable
+MR000635,V002280,P00196,DR0035,K21.9,"Gastro-esophageal reflux disease",Mild,Critical
+MR000636,V000965,P00892,DR0068,I25.10,"Coronary artery disease",Severe,Unknown
+MR000637,V002412,P00976,DR0056,A09,Gastroenteritis,Unknown,Stable
+MR000638,V002885,P00801,DR0093,N39.0,"Urinary tract infection",Mild,Critical
+MR000639,V002278,P00038,DR0037,N39.0,"Urinary tract infection",Unknown,Stable
+MR000640,V001717,P01005,DR0029,I25.10,"Coronary artery disease",Mild,Critical
+MR000641,V000432,P00142,DR0096,J18.9,Pneumonia,Unknown,Improving
+MR000642,V002509,P00058,DR0022,G43.9,Migraine,Unknown,Unknown
+MR000643,V000091,P00616,DR0083,I25.10,"Coronary artery disease",Moderate,Stable
+MR000644,V000669,P00087,DR0102,R51.9,Headache,Unknown,Critical
+MR000645,V001801,P00622,DR0079,J18.9,Pneumonia,Mild,Improving
+MR000646,V001643,P00397,DR0101,J18.9,Pneumonia,Moderate,Stable
+MR000647,V002625,P00215,DR0054,K21.9,"Gastro-esophageal reflux disease",Unknown,Improving
+MR000648,V002859,P00076,DR0083,G43.9,Migraine,Mild,Critical
+MR000649,V000968,P00409,DR0063,E11.9,"Type 2 diabetes mellitus",Mild,Stable
+MR000650,V001480,P00824,DR0075,S82.201,"Fracture of tibia",Moderate,Improving
+MR000651,V002464,P00393,DR0062,M54.5,"Low back pain",Mild,Unknown
+MR000652,V001932,P00322,DR0043,K21.9,"Gastro-esophageal reflux disease",Mild,Improving
+MR000653,V002478,P00314,DR0043,I10,Hypertension,Mild,Improving
+MR000654,V002888,P00640,DR0089,N39.0,"Urinary tract infection",Moderate,Unknown
+MR000655,V002165,P00142,DR0049,A09,Gastroenteritis,Unknown,Critical
+MR000656,V000965,P00692,DR0050,E11.9,"Type 2 diabetes mellitus",Severe,Unknown
+MR000657,V001747,P00862,DR0065,N39.0,"Urinary tract infection",Mild,Unknown
+MR000658,V002123,P00435,DR0030,G43.9,Migraine,Mild,Unknown
+MR000659,V000981,P00332,DR0075,A09,Gastroenteritis,Unknown,Unknown
+MR000660,V002499,P00055,DR0088,M54.5,"Low back pain",Severe,Stable
+MR000661,V000763,P00470,DR0007,M54.5,"Low back pain",Severe,Critical
+MR000662,V001408,P00744,DR0020,M54.5,"Low back pain",Mild,Stable
+MR000663,V002465,P00343,DR0033,I10,Hypertension,Moderate,Unknown
+MR000664,V001136,P00927,DR0008,G43.9,Migraine,Mild,Unknown
+MR000665,V002503,P00127,DR0033,I25.10,"Coronary artery disease",Moderate,Stable
+MR000666,V000690,P00573,DR0004,N39.0,"Urinary tract infection",Mild,Unknown
+MR000667,V002496,P00706,DR0015,S82.201,"Fracture of tibia",Unknown,Critical
+MR000668,V002027,P00492,DR0059,N39.0,"Urinary tract infection",Mild,Critical
+MR000669,V000436,P00196,DR0074,I10,Hypertension,Unknown,Improving
+MR000670,V001613,P00992,DR0058,J18.9,Pneumonia,Severe,Stable
+MR000671,V000377,P00782,DR0062,I25.10,"Coronary artery disease",Unknown,Stable
+MR000672,V001665,P00417,DR0094,J06.9,"Acute upper respiratory infection",Unknown,Stable
+MR000673,V001654,P00924,DR0030,E11.9,"Type 2 diabetes mellitus",Mild,Improving
+MR000674,V000489,P00248,DR0002,N39.0,"Urinary tract infection",Unknown,Stable
+MR000675,V001242,P00702,DR0079,J06.9,"Acute upper respiratory infection",Mild,Unknown
+MR000676,V001649,P00407,DR0047,M54.5,"Low back pain",Mild,Stable
+MR000677,V001282,P00231,DR0051,I10,Hypertension,Moderate,Critical
+MR000678,V002662,P00345,DR0037,S82.201,"Fracture of tibia",Mild,Stable
+MR000679,V000698,P00050,DR0070,K21.9,"Gastro-esophageal reflux disease",Unknown,Improving
+MR000680,V002523,P00256,DR0033,N39.0,"Urinary tract infection",Mild,Stable
+MR000681,V002414,P00167,DR0003,R51.9,Headache,Mild,Critical
+MR000682,V001184,P00649,DR0046,I10,Hypertension,Mild,Unknown
+MR000683,V002453,P00041,DR0005,K21.9,"Gastro-esophageal reflux disease",Moderate,Improving
+MR000684,V000367,P00805,DR0041,I25.10,"Coronary artery disease",Mild,Critical
+MR000685,V001284,P00653,DR0059,E11.9,"Type 2 diabetes mellitus",Unknown,Critical
+MR000686,V000596,P00474,DR0055,A09,Gastroenteritis,Unknown,Improving
+MR000687,V001840,P00834,DR0094,G43.9,Migraine,Moderate,Improving
+MR000688,V001786,P00962,DR0079,J18.9,Pneumonia,Mild,Stable
+MR000689,V001097,P00263,DR0102,N39.0,"Urinary tract infection",Mild,Stable
+MR000690,V001697,P00890,DR0092,E11.9,"Type 2 diabetes mellitus",Unknown,Critical
+MR000691,V002996,P00425,DR0037,I10,Hypertension,Moderate,Stable
+MR000692,V001258,P00065,DR0082,N39.0,"Urinary tract infection",Unknown,Improving
+MR000693,V001671,P00378,DR0018,R51.9,Headache,Unknown,Stable
+MR000694,V002872,P00915,DR0047,J18.9,Pneumonia,Unknown,Stable
+MR000695,V002700,P00820,DR0008,J06.9,"Acute upper respiratory infection",Severe,Stable
+MR000696,V002767,P00178,DR0056,G43.9,Migraine,Unknown,Stable
+MR000697,V002466,P00967,DR0097,E11.9,"Type 2 diabetes mellitus",Unknown,Unknown
+MR000698,V001230,P00696,DR0027,E11.9,"Type 2 diabetes mellitus",Severe,Critical
+MR000699,V001405,P00645,DR0092,J06.9,"Acute upper respiratory infection",Unknown,Stable
+MR000700,V002649,P00003,DR0064,A09,Gastroenteritis,Unknown,Critical
+MR000701,V001863,P00815,DR0043,A09,Gastroenteritis,Unknown,Critical
+MR000702,V001898,P00689,DR0035,I10,Hypertension,Unknown,Critical
+MR000703,V001534,P00716,DR0069,I10,Hypertension,Severe,Stable
+MR000704,V002751,P00957,DR0041,J18.9,Pneumonia,Unknown,Critical
+MR000705,V000538,P00061,DR0052,E11.9,"Type 2 diabetes mellitus",Unknown,Stable
+MR000706,V000393,P00640,DR0101,E11.9,"Type 2 diabetes mellitus",Mild,Improving
+MR000707,V001801,P00160,DR0043,R51.9,Headache,Moderate,Stable
+MR000708,V002192,P00280,DR0049,J18.9,Pneumonia,Unknown,Critical
+MR000709,V000524,P00561,DR0003,M54.5,"Low back pain",Unknown,Stable
+MR000710,V002394,P00169,DR0100,I10,Hypertension,Unknown,Critical
+MR000711,V001935,P00574,DR0064,I10,Hypertension,Severe,Improving
+MR000712,V000111,P00870,DR0005,S82.201,"Fracture of tibia",Unknown,Improving
+MR000713,V002551,P00163,DR0050,J06.9,"Acute upper respiratory infection",Severe,Critical
+MR000714,V001507,P00724,DR0045,A09,Gastroenteritis,Unknown,Critical
+MR000715,V002040,P00381,DR0050,S82.201,"Fracture of tibia",Mild,Unknown
+MR000716,V000900,P00855,DR0030,A09,Gastroenteritis,Unknown,Critical
+MR000717,V000294,P00031,DR0075,I25.10,"Coronary artery disease",Unknown,Unknown
+MR000718,V001448,P00781,DR0057,N39.0,"Urinary tract infection",Moderate,Unknown
+MR000719,V002781,P00867,DR0073,I10,Hypertension,Moderate,Unknown
+MR000720,V002474,P00457,DR0067,I25.10,"Coronary artery disease",Unknown,Stable
+MR000721,V002468,P00576,DR0056,N39.0,"Urinary tract infection",Unknown,Unknown
+MR000722,V002141,P00300,DR0052,R51.9,Headache,Severe,Critical
+MR000723,V000645,P00686,DR0041,K21.9,"Gastro-esophageal reflux disease",Mild,Stable
+MR000724,V000642,P00459,DR0013,I25.10,"Coronary artery disease",Unknown,Stable
+MR000725,V000219,P00814,DR0075,J18.9,Pneumonia,Moderate,Stable
+MR000726,V001399,P00908,DR0085,G43.9,Migraine,Severe,Stable
+MR000727,V000193,P00908,DR0060,S82.201,"Fracture of tibia",Unknown,Stable
+MR000728,V001634,P00846,DR0034,R51.9,Headache,Mild,Improving
+MR000729,V000688,P00043,DR0020,S82.201,"Fracture of tibia",Severe,Critical
+MR000730,V002794,P00490,DR0031,I10,Hypertension,Mild,Stable
+MR000731,V002674,P00640,DR0096,N39.0,"Urinary tract infection",Mild,Improving
+MR000732,V000803,P00776,DR0051,I10,Hypertension,Unknown,Stable
+MR000733,V001618,P00634,DR0081,A09,Gastroenteritis,Mild,Stable
+MR000734,V001607,P00426,DR0085,R51.9,Headache,Mild,Stable
+MR000735,V002002,P00712,DR0074,I10,Hypertension,Moderate,Stable
+MR000736,V001722,P00376,DR0018,J18.9,Pneumonia,Moderate,Stable
+MR000737,V000790,P00012,DR0084,R51.9,Headache,Unknown,Stable
+MR000738,V002604,P00887,DR0068,E11.9,"Type 2 diabetes mellitus",Mild,Critical
+MR000739,V002330,P00958,DR0006,J06.9,"Acute upper respiratory infection",Severe,Stable
+MR000740,V001570,P00898,DR0049,A09,Gastroenteritis,Mild,Unknown
+MR000741,V000100,P00823,DR0038,K21.9,"Gastro-esophageal reflux disease",Unknown,Improving
+MR000742,V001630,P00503,DR0018,E11.9,"Type 2 diabetes mellitus",Severe,Stable
+MR000743,V001033,P00288,DR0061,A09,Gastroenteritis,Mild,Stable
+MR000744,V000252,P00441,DR0059,K21.9,"Gastro-esophageal reflux disease",Mild,Unknown
+MR000745,V002534,P00169,DR0010,N39.0,"Urinary tract infection",Unknown,Stable
+MR000746,V000246,P00471,DR0021,I10,Hypertension,Unknown,Critical
+MR000747,V002543,P00830,DR0069,G43.9,Migraine,Mild,Stable
+MR000748,V000250,P00753,DR0045,G43.9,Migraine,Mild,Stable
+MR000749,V001356,P00553,DR0081,A09,Gastroenteritis,Severe,Stable
+MR000750,V000088,P00908,DR0029,S82.201,"Fracture of tibia",Unknown,Stable
+MR000751,V001312,P00649,DR0076,A09,Gastroenteritis,Unknown,Stable
+MR000752,V002389,P00780,DR0080,I10,Hypertension,Mild,Unknown
+MR000753,V002212,P00734,DR0052,M54.5,"Low back pain",Moderate,Stable
+MR000754,V000019,P00296,DR0041,N39.0,"Urinary tract infection",Severe,Improving
+MR000755,V001081,P00627,DR0070,I10,Hypertension,Mild,Stable
+MR000756,V000097,P00158,DR0051,I10,Hypertension,Severe,Critical
+MR000757,V001423,P00208,DR0091,G43.9,Migraine,Unknown,Stable
+MR000758,V000864,P00542,DR0018,K21.9,"Gastro-esophageal reflux disease",Mild,Stable
+MR000759,V002600,P00208,DR0007,J06.9,"Acute upper respiratory infection",Unknown,Improving
+MR000760,V001945,P00821,DR0023,E11.9,"Type 2 diabetes mellitus",Unknown,Improving
+MR000761,V002229,P00786,DR0007,I10,Hypertension,Unknown,Stable
+MR000762,V002832,P00528,DR0092,N39.0,"Urinary tract infection",Mild,Stable
+MR000763,V001505,P00515,DR0003,J06.9,"Acute upper respiratory infection",Unknown,Improving
+MR000764,V001630,P00327,DR0088,I10,Hypertension,Moderate,Stable
+MR000765,V000547,P00456,DR0014,E11.9,"Type 2 diabetes mellitus",Mild,Stable
+MR000766,V002175,P00922,DR0013,S82.201,"Fracture of tibia",Mild,Improving
+MR000767,V000528,P00088,DR0043,J18.9,Pneumonia,Mild,Improving
+MR000768,V001850,P00118,DR0010,R51.9,Headache,Mild,Stable
+MR000769,V001682,P00539,DR0083,N39.0,"Urinary tract infection",Mild,Critical
+MR000770,V001192,P00485,DR0031,E11.9,"Type 2 diabetes mellitus",Severe,Stable
+MR000771,V002332,P00344,DR0025,N39.0,"Urinary tract infection",Moderate,Critical
+MR000772,V001301,P00471,DR0057,J06.9,"Acute upper respiratory infection",Unknown,Unknown
+MR000773,V002846,P00504,DR0092,R51.9,Headache,Unknown,Unknown
+MR000774,V000363,P00398,DR0081,J18.9,Pneumonia,Moderate,Improving
+MR000775,V002666,P00256,DR0085,R51.9,Headache,Mild,Stable
+MR000776,V002771,P00742,DR0003,M54.5,"Low back pain",Unknown,Stable
+MR000777,V001802,P00816,DR0083,R51.9,Headache,Unknown,Stable
+MR000778,V002499,P00969,DR0049,S82.201,"Fracture of tibia",Moderate,Stable
+MR000779,V001258,P00500,DR0063,R51.9,Headache,Unknown,Unknown
+MR000780,V000309,P00719,DR0012,K21.9,"Gastro-esophageal reflux disease",Unknown,Unknown
+MR000781,V001412,P00704,DR0088,A09,Gastroenteritis,Unknown,Critical
+MR000782,V001612,P00129,DR0097,E11.9,"Type 2 diabetes mellitus",Moderate,Unknown
+MR000783,V002085,P00090,DR0042,A09,Gastroenteritis,Mild,Improving
+MR000784,V002359,P00548,DR0008,I10,Hypertension,Unknown,Unknown
+MR000785,V001078,P00954,DR0026,I25.10,"Coronary artery disease",Moderate,Stable
+MR000786,V001318,P00446,DR0068,I25.10,"Coronary artery disease",Unknown,Stable
+MR000787,V002522,P00645,DR0097,G43.9,Migraine,Mild,Improving
+MR000788,V002873,P00267,DR0013,M54.5,"Low back pain",Mild,Improving
+MR000789,V002199,P00503,DR0096,E11.9,"Type 2 diabetes mellitus",Mild,Unknown
+MR000790,V001172,P00512,DR0039,K21.9,"Gastro-esophageal reflux disease",Unknown,Improving
+MR000791,V001601,P00541,DR0031,J06.9,"Acute upper respiratory infection",Mild,Stable
+MR000792,V002946,P00973,DR0082,S82.201,"Fracture of tibia",Severe,Stable
+MR000793,V002753,P00173,DR0072,K21.9,"Gastro-esophageal reflux disease",Severe,Critical
+MR000794,V002156,P00809,DR0020,M54.5,"Low back pain",Mild,Stable
+MR000795,V000915,P00105,DR0024,I25.10,"Coronary artery disease",Mild,Improving
+MR000796,V002296,P00934,DR0060,R51.9,Headache,Moderate,Critical
+MR000797,V001050,P00817,DR0014,I10,Hypertension,Severe,Critical
+MR000798,V001743,P00350,DR0092,G43.9,Migraine,Severe,Stable
+MR000799,V001643,P00529,DR0043,S82.201,"Fracture of tibia",Unknown,Improving
+MR000800,V001953,P00380,DR0010,E11.9,"Type 2 diabetes mellitus",Moderate,Critical
+MR000801,V002692,P00148,DR0081,A09,Gastroenteritis,Severe,Stable
+MR000802,V002916,P00642,DR0042,I10,Hypertension,Mild,Critical
+MR000803,V001065,P00700,DR0043,G43.9,Migraine,Mild,Stable
+MR000804,V002191,P00471,DR0067,M54.5,"Low back pain",Moderate,Unknown
+MR000805,V001023,P00122,DR0023,R51.9,Headache,Mild,Stable
+MR000806,V000963,P00202,DR0045,N39.0,"Urinary tract infection",Moderate,Improving
+MR000807,V001485,P00130,DR0037,M54.5,"Low back pain",Mild,Improving
+MR000808,V001018,P00317,DR0014,J18.9,Pneumonia,Unknown,Critical
+MR000809,V001669,P00110,DR0034,M54.5,"Low back pain",Unknown,Unknown
+MR000810,V000448,P00034,DR0084,R51.9,Headache,Unknown,Stable
+MR000811,V002328,P00657,DR0085,I25.10,"Coronary artery disease",Moderate,Unknown
+MR000812,V002672,P00241,DR0041,N39.0,"Urinary tract infection",Unknown,Stable
+MR000813,V000406,P00138,DR0059,R51.9,Headache,Moderate,Stable
+MR000814,V002857,P00108,DR0042,G43.9,Migraine,Unknown,Critical
+MR000815,V002465,P00005,DR0076,I25.10,"Coronary artery disease",Mild,Critical
+MR000816,V001997,P00584,DR0033,M54.5,"Low back pain",Mild,Improving
+MR000817,V002204,P00610,DR0094,I10,Hypertension,Unknown,Stable
+MR000818,V001071,P00848,DR0013,K21.9,"Gastro-esophageal reflux disease",Unknown,Critical
+MR000819,V000634,P00712,DR0073,I10,Hypertension,Mild,Critical
+MR000820,V000520,P00842,DR0054,J18.9,Pneumonia,Mild,Improving
+MR000821,V000059,P00952,DR0022,N39.0,"Urinary tract infection",Mild,Critical
+MR000822,V000731,P00424,DR0006,K21.9,"Gastro-esophageal reflux disease",Mild,Critical
+MR000823,V002228,P00027,DR0086,S82.201,"Fracture of tibia",Unknown,Unknown
+MR000824,V000029,P00716,DR0032,I10,Hypertension,Severe,Improving
+MR000825,V002204,P00158,DR0070,G43.9,Migraine,Unknown,Stable
+MR000826,V000657,P00805,DR0093,R51.9,Headache,Moderate,Stable
+MR000827,V000289,P00063,DR0070,G43.9,Migraine,Unknown,Improving
+MR000828,V000840,P00895,DR0091,J06.9,"Acute upper respiratory infection",Unknown,Stable
+MR000829,V000463,P00376,DR0035,J06.9,"Acute upper respiratory infection",Unknown,Stable
+MR000830,V002300,P00061,DR0058,S82.201,"Fracture of tibia",Moderate,Stable
+MR000831,V000550,P00635,DR0085,A09,Gastroenteritis,Unknown,Critical
+MR000832,V002713,P00573,DR0053,J06.9,"Acute upper respiratory infection",Unknown,Improving
+MR000833,V002392,P00172,DR0091,M54.5,"Low back pain",Unknown,Unknown
+MR000834,V002215,P00500,DR0083,R51.9,Headache,Severe,Critical
+MR000835,V000363,P00055,DR0079,S82.201,"Fracture of tibia",Moderate,Improving
+MR000836,V001488,P00870,DR0068,J18.9,Pneumonia,Moderate,Unknown
+MR000837,V000906,P00269,DR0052,R51.9,Headache,Unknown,Unknown
+MR000838,V001781,P00084,DR0085,E11.9,"Type 2 diabetes mellitus",Severe,Unknown
+MR000839,V001498,P00213,DR0003,G43.9,Migraine,Mild,Stable
+MR000840,V002948,P00600,DR0077,M54.5,"Low back pain",Unknown,Critical
+MR000841,V001756,P00480,DR0073,E11.9,"Type 2 diabetes mellitus",Unknown,Improving
+MR000842,V000173,P00192,DR0060,R51.9,Headache,Severe,Critical
+MR000843,V000332,P00830,DR0010,N39.0,"Urinary tract infection",Unknown,Improving
+MR000844,V001146,P00346,DR0101,N39.0,"Urinary tract infection",Unknown,Stable
+MR000845,V002404,P00264,DR0006,M54.5,"Low back pain",Moderate,Stable
+MR000846,V002264,P00934,DR0100,J06.9,"Acute upper respiratory infection",Unknown,Unknown
+MR000847,V002021,P00673,DR0024,I10,Hypertension,Unknown,Stable
+MR000848,V001872,P00822,DR0003,J18.9,Pneumonia,Mild,Critical
+MR000849,V002694,P00681,DR0042,I25.10,"Coronary artery disease",Unknown,Improving
+MR000850,V002527,P00132,DR0043,R51.9,Headache,Severe,Stable
+MR000851,V000101,P00720,DR0089,N39.0,"Urinary tract infection",Unknown,Stable
+MR000852,V000426,P00348,DR0089,I10,Hypertension,Moderate,Stable
+MR000853,V001120,P00721,DR0024,J06.9,"Acute upper respiratory infection",Unknown,Critical
+MR000854,V002779,P00039,DR0001,G43.9,Migraine,Mild,Unknown
+MR000855,V000163,P00403,DR0084,A09,Gastroenteritis,Severe,Critical
+MR000856,V000208,P00637,DR0047,K21.9,"Gastro-esophageal reflux disease",Mild,Improving
+MR000857,V002182,P00491,DR0063,M54.5,"Low back pain",Mild,Improving
+MR000858,V002811,P00545,DR0028,I10,Hypertension,Moderate,Unknown
+MR000859,V000122,P00968,DR0080,S82.201,"Fracture of tibia",Mild,Stable
+MR000860,V002830,P00850,DR0054,A09,Gastroenteritis,Unknown,Stable
+MR000861,V002571,P00789,DR0087,M54.5,"Low back pain",Mild,Critical
+MR000862,V000187,P00695,DR0020,J06.9,"Acute upper respiratory infection",Mild,Critical
+MR000863,V001953,P00897,DR0045,S82.201,"Fracture of tibia",Moderate,Stable
+MR000864,V002673,P00769,DR0024,N39.0,"Urinary tract infection",Severe,Stable
+MR000865,V002981,P00366,DR0045,J18.9,Pneumonia,Unknown,Stable
+MR000866,V001327,P00964,DR0050,N39.0,"Urinary tract infection",Unknown,Stable
+MR000867,V001096,P00991,DR0065,K21.9,"Gastro-esophageal reflux disease",Moderate,Stable
+MR000868,V002090,P00485,DR0015,M54.5,"Low back pain",Mild,Stable
+MR000869,V001407,P00361,DR0034,J06.9,"Acute upper respiratory infection",Severe,Critical
+MR000870,V000978,P00293,DR0057,I25.10,"Coronary artery disease",Unknown,Critical
+MR000871,V002567,P01000,DR0066,R51.9,Headache,Mild,Stable
+MR000872,V000485,P00706,DR0090,M54.5,"Low back pain",Mild,Critical
+MR000873,V001580,P00218,DR0098,R51.9,Headache,Mild,Stable
+MR000874,V001372,P00665,DR0014,S82.201,"Fracture of tibia",Mild,Unknown
+MR000875,V002656,P00124,DR0026,K21.9,"Gastro-esophageal reflux disease",Unknown,Unknown
+MR000876,V001335,P00578,DR0036,J18.9,Pneumonia,Unknown,Unknown
+MR000877,V002725,P00196,DR0032,E11.9,"Type 2 diabetes mellitus",Mild,Unknown
+MR000878,V002518,P00472,DR0060,R51.9,Headache,Unknown,Stable
+MR000879,V002924,P00711,DR0049,E11.9,"Type 2 diabetes mellitus",Mild,Critical
+MR000880,V001553,P00053,DR0034,I25.10,"Coronary artery disease",Unknown,Critical
+MR000881,V000636,P00450,DR0013,S82.201,"Fracture of tibia",Unknown,Stable
+MR000882,V001112,P00482,DR0033,S82.201,"Fracture of tibia",Severe,Stable
+MR000883,V002856,P00972,DR0067,K21.9,"Gastro-esophageal reflux disease",Unknown,Stable
+MR000884,V001602,P00648,DR0095,E11.9,"Type 2 diabetes mellitus",Unknown,Stable
+MR000885,V001570,P00315,DR0094,G43.9,Migraine,Unknown,Stable
+MR000886,V001200,P00194,DR0011,N39.0,"Urinary tract infection",Severe,Improving
+MR000887,V000276,P00927,DR0089,A09,Gastroenteritis,Unknown,Stable
+MR000888,V000114,P00881,DR0042,R51.9,Headache,Mild,Improving
+MR000889,V000082,P00380,DR0041,K21.9,"Gastro-esophageal reflux disease",Mild,Improving
+MR000890,V002178,P00771,DR0039,R51.9,Headache,Severe,Unknown
+MR000891,V001735,P00587,DR0042,G43.9,Migraine,Mild,Improving
+MR000892,V002113,P00093,DR0030,K21.9,"Gastro-esophageal reflux disease",Unknown,Improving
+MR000893,V000859,P00112,DR0101,G43.9,Migraine,Unknown,Critical
+MR000894,V000701,P00755,DR0031,E11.9,"Type 2 diabetes mellitus",Unknown,Improving
+MR000895,V000723,P00831,DR0048,I25.10,"Coronary artery disease",Moderate,Critical
+MR000896,V001308,P00857,DR0064,J18.9,Pneumonia,Mild,Improving
+MR000897,V001906,P00277,DR0099,A09,Gastroenteritis,Mild,Critical
+MR000898,V000515,P00527,DR0053,S82.201,"Fracture of tibia",Mild,Stable
+MR000899,V000842,P00103,DR0060,J06.9,"Acute upper respiratory infection",Mild,Improving
+MR000900,V000305,P00046,DR0049,N39.0,"Urinary tract infection",Mild,Stable
+MR000901,V001216,P00281,DR0027,I25.10,"Coronary artery disease",Unknown,Stable
+MR000902,V000744,P00666,DR0096,I10,Hypertension,Moderate,Critical
+MR000903,V001138,P00076,DR0091,K21.9,"Gastro-esophageal reflux disease",Moderate,Unknown
+MR000904,V002720,P00966,DR0064,N39.0,"Urinary tract infection",Severe,Improving
+MR000905,V001475,P00739,DR0093,E11.9,"Type 2 diabetes mellitus",Unknown,Improving
+MR000906,V000391,P00487,DR0017,J18.9,Pneumonia,Mild,Unknown
+MR000907,V000179,P00270,DR0094,J18.9,Pneumonia,Severe,Improving
+MR000908,V000211,P00649,DR0097,K21.9,"Gastro-esophageal reflux disease",Moderate,Critical
+MR000909,V002684,P00482,DR0020,M54.5,"Low back pain",Mild,Critical
+MR000910,V001476,P00823,DR0031,A09,Gastroenteritis,Mild,Stable
+MR000911,V002511,P00018,DR0001,I25.10,"Coronary artery disease",Unknown,Unknown
+MR000912,V000554,P00485,DR0047,S82.201,"Fracture of tibia",Severe,Stable
+MR000913,V002015,P00037,DR0097,N39.0,"Urinary tract infection",Unknown,Improving
+MR000914,V001370,P00375,DR0046,I25.10,"Coronary artery disease",Unknown,Critical
+MR000915,V002273,P00065,DR0068,S82.201,"Fracture of tibia",Severe,Improving
+MR000916,V002310,P00797,DR0057,S82.201,"Fracture of tibia",Mild,Unknown
+MR000917,V000174,P00045,DR0045,N39.0,"Urinary tract infection",Unknown,Improving
+MR000918,V002149,P00004,DR0059,I25.10,"Coronary artery disease",Unknown,Stable
+MR000919,V002368,P00690,DR0037,I10,Hypertension,Severe,Stable
+MR000920,V000108,P00106,DR0059,J18.9,Pneumonia,Severe,Stable
+MR000921,V001605,P00356,DR0101,R51.9,Headache,Unknown,Unknown
+MR000922,V000160,P00662,DR0051,R51.9,Headache,Mild,Unknown
+MR000923,V002916,P00730,DR0018,G43.9,Migraine,Moderate,Critical
+MR000924,V000173,P00259,DR0031,J06.9,"Acute upper respiratory infection",Mild,Improving
+MR000925,V000263,P00588,DR0014,A09,Gastroenteritis,Unknown,Stable
+MR000926,V001009,P00391,DR0098,E11.9,"Type 2 diabetes mellitus",Unknown,Stable
+MR000927,V000373,P00866,DR0039,R51.9,Headache,Moderate,Unknown
+MR000928,V000446,P00137,DR0019,K21.9,"Gastro-esophageal reflux disease",Unknown,Stable
+MR000929,V000495,P00277,DR0001,R51.9,Headache,Severe,Critical
+MR000930,V000559,P00150,DR0034,M54.5,"Low back pain",Severe,Improving
+MR000931,V000609,P00237,DR0089,I10,Hypertension,Mild,Stable
+MR000932,V000396,P00196,DR0017,I10,Hypertension,Unknown,Improving
+MR000933,V002701,P00689,DR0021,N39.0,"Urinary tract infection",Moderate,Critical
+MR000934,V002625,P00601,DR0063,I10,Hypertension,Moderate,Critical
+MR000935,V000663,P00619,DR0042,I25.10,"Coronary artery disease",Unknown,Stable
+MR000936,V000753,P00603,DR0036,K21.9,"Gastro-esophageal reflux disease",Unknown,Stable
+MR000937,V001171,P00058,DR0099,K21.9,"Gastro-esophageal reflux disease",Unknown,Critical
+MR000938,V001540,P00071,DR0036,I25.10,"Coronary artery disease",Moderate,Stable
+MR000939,V001905,P00041,DR0077,R51.9,Headache,Moderate,Improving
+MR000940,V000225,P00132,DR0063,K21.9,"Gastro-esophageal reflux disease",Unknown,Critical
+MR000941,V001925,P00860,DR0093,K21.9,"Gastro-esophageal reflux disease",Mild,Stable
+MR000942,V000811,P00440,DR0024,A09,Gastroenteritis,Severe,Unknown
+MR000943,V002234,P00586,DR0061,R51.9,Headache,Moderate,Unknown
+MR000944,V000747,P00708,DR0039,A09,Gastroenteritis,Moderate,Stable
+MR000945,V001771,P00171,DR0077,M54.5,"Low back pain",Moderate,Improving
+MR000946,V000914,P00202,DR0067,N39.0,"Urinary tract infection",Unknown,Critical
+MR000947,V002957,P00168,DR0028,J06.9,"Acute upper respiratory infection",Mild,Stable
+MR000948,V001988,P00698,DR0004,J06.9,"Acute upper respiratory infection",Unknown,Stable
+MR000949,V001226,P00077,DR0022,M54.5,"Low back pain",Moderate,Improving
+MR000950,V000635,P00258,DR0048,S82.201,"Fracture of tibia",Unknown,Stable
+MR000951,V002726,P00844,DR0083,N39.0,"Urinary tract infection",Unknown,Improving
+MR000952,V002639,P00357,DR0005,A09,Gastroenteritis,Moderate,Unknown
+MR000953,V000775,P00202,DR0083,A09,Gastroenteritis,Mild,Critical
+MR000954,V001401,P00567,DR0094,I25.10,"Coronary artery disease",Unknown,Unknown
+MR000955,V002083,P00660,DR0075,G43.9,Migraine,Mild,Unknown
+MR000956,V001395,P00249,DR0098,I10,Hypertension,Unknown,Critical
+MR000957,V002300,P00494,DR0047,J18.9,Pneumonia,Unknown,Improving
+MR000958,V001954,P00133,DR0029,J18.9,Pneumonia,Unknown,Improving
+MR000959,V000024,P00494,DR0001,I10,Hypertension,Unknown,Stable
+MR000960,V001244,P00516,DR0039,S82.201,"Fracture of tibia",Mild,Critical
+MR000961,V002946,P00646,DR0097,G43.9,Migraine,Unknown,Unknown
+MR000962,V001102,P00561,DR0032,E11.9,"Type 2 diabetes mellitus",Mild,Critical
+MR000963,V002278,P00654,DR0099,I10,Hypertension,Moderate,Improving
+MR000964,V002706,P00001,DR0096,G43.9,Migraine,Moderate,Critical
+MR000965,V002737,P00724,DR0034,R51.9,Headache,Unknown,Stable
+MR000966,V001455,P00757,DR0053,J18.9,Pneumonia,Severe,Stable
+MR000967,V001732,P00676,DR0053,J06.9,"Acute upper respiratory infection",Unknown,Unknown
+MR000968,V002652,P00957,DR0073,I10,Hypertension,Unknown,Critical
+MR000969,V001648,P00310,DR0062,S82.201,"Fracture of tibia",Moderate,Stable
+MR000970,V000699,P00862,DR0037,M54.5,"Low back pain",Unknown,Improving
+MR000971,V001762,P00328,DR0035,I10,Hypertension,Mild,Stable
+MR000972,V000904,P00306,DR0008,M54.5,"Low back pain",Mild,Critical
+MR000973,V002914,P00273,DR0025,J06.9,"Acute upper respiratory infection",Unknown,Stable
+MR000974,V002769,P00864,DR0053,J18.9,Pneumonia,Mild,Unknown
+MR000975,V001496,P00247,DR0094,A09,Gastroenteritis,Moderate,Improving
+MR000976,V000670,P00756,DR0099,J18.9,Pneumonia,Unknown,Stable
+MR000977,V001795,P00563,DR0060,M54.5,"Low back pain",Mild,Stable
+MR000978,V001155,P00168,DR0065,M54.5,"Low back pain",Moderate,Stable
+MR000979,V002700,P00755,DR0004,G43.9,Migraine,Mild,Stable
+MR000980,V000284,P00751,DR0005,A09,Gastroenteritis,Severe,Critical
+MR000981,V000038,P00381,DR0051,N39.0,"Urinary tract infection",Mild,Stable
+MR000982,V002086,P00494,DR0040,A09,Gastroenteritis,Severe,Critical
+MR000983,V000285,P00847,DR0007,S82.201,"Fracture of tibia",Moderate,Improving
+MR000984,V000293,P00750,DR0038,A09,Gastroenteritis,Severe,Unknown
+MR000985,V000852,P00017,DR0092,S82.201,"Fracture of tibia",Mild,Critical
+MR000986,V000533,P00076,DR0008,E11.9,"Type 2 diabetes mellitus",Unknown,Critical
+MR000987,V000848,P00077,DR0004,R51.9,Headache,Mild,Improving
+MR000988,V001493,P00746,DR0067,E11.9,"Type 2 diabetes mellitus",Severe,Stable
+MR000989,V001701,P00016,DR0099,K21.9,"Gastro-esophageal reflux disease",Severe,Stable
+MR000990,V000476,P00272,DR0067,M54.5,"Low back pain",Mild,Critical
+MR000991,V000087,P00581,DR0045,K21.9,"Gastro-esophageal reflux disease",Unknown,Improving
+MR000992,V001943,P00053,DR0088,G43.9,Migraine,Severe,Improving
+MR000993,V001591,P00118,DR0014,N39.0,"Urinary tract infection",Mild,Stable
+MR000994,V001780,P00179,DR0093,A09,Gastroenteritis,Severe,Improving
+MR000995,V002525,P00198,DR0034,J18.9,Pneumonia,Mild,Stable
+MR000996,V001728,P00987,DR0042,R51.9,Headache,Severe,Stable
+MR000997,V001301,P00357,DR0028,J06.9,"Acute upper respiratory infection",Mild,Stable
+MR000998,V002045,P00919,DR0010,I25.10,"Coronary artery disease",Mild,Stable
+MR000999,V001319,P00752,DR0005,J06.9,"Acute upper respiratory infection",Unknown,Improving
+MR001000,V000082,P00562,DR0067,M54.5,"Low back pain",Mild,Unknown
+MR001001,V002762,P00608,DR0017,K21.9,"Gastro-esophageal reflux disease",Moderate,Stable
+MR001002,V000407,P00689,DR0002,I10,Hypertension,Unknown,Stable
+MR001003,V001102,P00792,DR0008,A09,Gastroenteritis,Unknown,Unknown
+MR001004,V000675,P00855,DR0093,E11.9,"Type 2 diabetes mellitus",Mild,Unknown
+MR001005,V002711,P00718,DR0102,J06.9,"Acute upper respiratory infection",Unknown,Stable
+MR001006,V000315,P00344,DR0091,M54.5,"Low back pain",Moderate,Critical
+MR001007,V002605,P00197,DR0039,M54.5,"Low back pain",Moderate,Stable
+MR001008,V001068,P00661,DR0023,K21.9,"Gastro-esophageal reflux disease",Unknown,Stable
+MR001009,V002439,P00875,DR0051,R51.9,Headache,Unknown,Stable
+MR001010,V000154,P00343,DR0009,E11.9,"Type 2 diabetes mellitus",Unknown,Improving
+MR001011,V001919,P00152,DR0035,A09,Gastroenteritis,Unknown,Stable
+MR001012,V001929,P00510,DR0080,G43.9,Migraine,Mild,Stable
+MR001013,V002080,P00069,DR0002,G43.9,Migraine,Unknown,Improving
+MR001014,V000221,P00516,DR0079,M54.5,"Low back pain",Severe,Stable
+MR001015,V002846,P00882,DR0029,A09,Gastroenteritis,Mild,Critical
+MR001016,V002361,P00183,DR0008,G43.9,Migraine,Moderate,Stable
+MR001017,V000344,P00849,DR0091,K21.9,"Gastro-esophageal reflux disease",Moderate,Stable
+MR001018,V001828,P00847,DR0020,E11.9,"Type 2 diabetes mellitus",Mild,Improving
+MR001019,V002640,P00863,DR0052,K21.9,"Gastro-esophageal reflux disease",Unknown,Stable
+MR001020,V001734,P00795,DR0015,S82.201,"Fracture of tibia",Unknown,Critical
+MR001021,V002759,P00246,DR0080,I10,Hypertension,Unknown,Improving
+MR001022,V002684,P00688,DR0062,R51.9,Headache,Moderate,Stable
+MR001023,V002166,P00428,DR0030,I10,Hypertension,Unknown,Unknown
+MR001024,V001420,P00046,DR0051,R51.9,Headache,Mild,Stable
+MR001025,V000036,P00812,DR0092,K21.9,"Gastro-esophageal reflux disease",Mild,Unknown
+MR001026,V000109,P00665,DR0005,R51.9,Headache,Unknown,Unknown
+MR001027,V002247,P00224,DR0006,I10,Hypertension,Unknown,Improving
+MR001028,V000197,P00709,DR0091,J18.9,Pneumonia,Severe,Stable
+MR001029,V001277,P00820,DR0010,M54.5,"Low back pain",Moderate,Critical
+MR001030,V001712,P00068,DR0051,I25.10,"Coronary artery disease",Mild,Improving
+MR001031,V002604,P00770,DR0075,S82.201,"Fracture of tibia",Mild,Stable
+MR001032,V000482,P00781,DR0081,S82.201,"Fracture of tibia",Severe,Unknown
+MR001033,V000863,P00423,DR0064,N39.0,"Urinary tract infection",Mild,Improving
+MR001034,V000384,P00461,DR0057,J06.9,"Acute upper respiratory infection",Unknown,Stable
+MR001035,V001959,P00446,DR0057,E11.9,"Type 2 diabetes mellitus",Mild,Stable
+MR001036,V000772,P00846,DR0064,M54.5,"Low back pain",Moderate,Stable
+MR001037,V001826,P00363,DR0083,J18.9,Pneumonia,Unknown,Critical
+MR001038,V002934,P00552,DR0032,I10,Hypertension,Moderate,Unknown
+MR001039,V000873,P00435,DR0064,I10,Hypertension,Mild,Stable
+MR001040,V001621,P00484,DR0048,J18.9,Pneumonia,Mild,Critical
+MR001041,V001060,P00678,DR0090,I25.10,"Coronary artery disease",Moderate,Unknown
+MR001042,V002034,P00002,DR0067,J06.9,"Acute upper respiratory infection",Mild,Stable
+MR001043,V000184,P00781,DR0092,N39.0,"Urinary tract infection",Mild,Unknown
+MR001044,V000009,P00119,DR0001,E11.9,"Type 2 diabetes mellitus",Moderate,Stable
+MR001045,V000624,P00868,DR0031,N39.0,"Urinary tract infection",Mild,Stable
+MR001046,V002808,P00630,DR0004,S82.201,"Fracture of tibia",Mild,Unknown
+MR001047,V001449,P00117,DR0052,N39.0,"Urinary tract infection",Unknown,Stable
+MR001048,V001624,P00267,DR0040,G43.9,Migraine,Mild,Critical
+MR001049,V002417,P00296,DR0096,I25.10,"Coronary artery disease",Mild,Stable
+MR001050,V000579,P00129,DR0089,R51.9,Headache,Unknown,Stable
+MR001051,V001768,P00108,DR0003,J06.9,"Acute upper respiratory infection",Unknown,Stable
+MR001052,V002967,P00391,DR0003,J06.9,"Acute upper respiratory infection",Unknown,Critical
+MR001053,V001457,P00739,DR0043,K21.9,"Gastro-esophageal reflux disease",Unknown,Unknown
+MR001054,V001299,P00393,DR0070,S82.201,"Fracture of tibia",Unknown,Unknown
+MR001055,V000787,P00685,DR0075,I25.10,"Coronary artery disease",Severe,Improving
+MR001056,V000260,P00546,DR0006,S82.201,"Fracture of tibia",Unknown,Critical
+MR001057,V001806,P00421,DR0011,N39.0,"Urinary tract infection",Severe,Improving
+MR001058,V002934,P00868,DR0029,A09,Gastroenteritis,Mild,Stable
+MR001059,V000254,P00525,DR0043,S82.201,"Fracture of tibia",Moderate,Stable
+MR001060,V001254,P00454,DR0051,S82.201,"Fracture of tibia",Unknown,Improving
+MR001061,V001045,P00185,DR0091,R51.9,Headache,Moderate,Critical
+MR001062,V000680,P00658,DR0063,S82.201,"Fracture of tibia",Moderate,Critical
+MR001063,V002968,P00974,DR0085,K21.9,"Gastro-esophageal reflux disease",Mild,Improving
+MR001064,V001747,P00504,DR0052,E11.9,"Type 2 diabetes mellitus",Unknown,Stable
+MR001065,V000364,P00021,DR0049,I10,Hypertension,Unknown,Unknown
+MR001066,V002057,P00694,DR0021,G43.9,Migraine,Unknown,Critical
+MR001067,V001477,P00566,DR0017,K21.9,"Gastro-esophageal reflux disease",Severe,Critical
+MR001068,V002616,P00939,DR0006,A09,Gastroenteritis,Severe,Critical
+MR001069,V002824,P00239,DR0074,I10,Hypertension,Unknown,Improving
+MR001070,V001040,P00387,DR0050,A09,Gastroenteritis,Mild,Critical
+MR001071,V002487,P00544,DR0051,M54.5,"Low back pain",Unknown,Stable
+MR001072,V000923,P00188,DR0088,J18.9,Pneumonia,Severe,Improving
+MR001073,V001964,P00018,DR0060,I10,Hypertension,Mild,Critical
+MR001074,V002159,P00713,DR0064,A09,Gastroenteritis,Mild,Critical
+MR001075,V002112,P00728,DR0098,I10,Hypertension,Severe,Critical
+MR001076,V000735,P00621,DR0068,E11.9,"Type 2 diabetes mellitus",Unknown,Critical
+MR001077,V001120,P00772,DR0012,J18.9,Pneumonia,Mild,Unknown
+MR001078,V000443,P00312,DR0084,N39.0,"Urinary tract infection",Severe,Improving
+MR001079,V000097,P00469,DR0040,J18.9,Pneumonia,Moderate,Stable
+MR001080,V002437,P00365,DR0087,I25.10,"Coronary artery disease",Unknown,Stable
+MR001081,V002083,P00439,DR0058,G43.9,Migraine,Severe,Stable
+MR001082,V001315,P00195,DR0096,I10,Hypertension,Unknown,Stable
+MR001083,V000245,P00668,DR0029,A09,Gastroenteritis,Moderate,Improving
+MR001084,V000279,P00276,DR0024,K21.9,"Gastro-esophageal reflux disease",Severe,Stable
+MR001085,V000382,P00851,DR0056,J18.9,Pneumonia,Unknown,Critical
+MR001086,V001703,P00726,DR0009,K21.9,"Gastro-esophageal reflux disease",Unknown,Improving
+MR001087,V001084,P00669,DR0031,A09,Gastroenteritis,Unknown,Critical
+MR001088,V001818,P00541,DR0021,E11.9,"Type 2 diabetes mellitus",Severe,Stable
+MR001089,V000832,P00062,DR0098,G43.9,Migraine,Severe,Stable
+MR001090,V000328,P00505,DR0086,I10,Hypertension,Unknown,Stable
+MR001091,V000106,P00920,DR0093,M54.5,"Low back pain",Unknown,Unknown
+MR001092,V001342,P00423,DR0087,J06.9,"Acute upper respiratory infection",Severe,Unknown
+MR001093,V001748,P00849,DR0017,R51.9,Headache,Moderate,Unknown
+MR001094,V001957,P00491,DR0049,G43.9,Migraine,Mild,Improving
+MR001095,V001220,P00962,DR0061,I25.10,"Coronary artery disease",Severe,Stable
+MR001096,V001851,P00280,DR0085,I25.10,"Coronary artery disease",Unknown,Improving
+MR001097,V001459,P00817,DR0083,K21.9,"Gastro-esophageal reflux disease",Moderate,Unknown
+MR001098,V002735,P00386,DR0062,I25.10,"Coronary artery disease",Moderate,Stable
+MR001099,V001032,P00350,DR0087,J18.9,Pneumonia,Moderate,Critical
+MR001100,V002597,P00992,DR0066,S82.201,"Fracture of tibia",Mild,Critical
+MR001101,V001467,P00338,DR0031,S82.201,"Fracture of tibia",Severe,Improving
+MR001102,V002810,P00051,DR0075,J06.9,"Acute upper respiratory infection",Mild,Critical
+MR001103,V001065,P00507,DR0051,M54.5,"Low back pain",Unknown,Improving
+MR001104,V002710,P01002,DR0099,S82.201,"Fracture of tibia",Unknown,Stable
+MR001105,V002832,P00895,DR0078,K21.9,"Gastro-esophageal reflux disease",Mild,Critical
+MR001106,V002095,P00554,DR0043,I25.10,"Coronary artery disease",Mild,Stable
+MR001107,V002825,P00531,DR0030,J18.9,Pneumonia,Unknown,Critical
+MR001108,V000101,P00135,DR0075,I25.10,"Coronary artery disease",Moderate,Unknown
+MR001109,V001273,P00277,DR0023,J18.9,Pneumonia,Moderate,Unknown
+MR001110,V002194,P00784,DR0001,M54.5,"Low back pain",Mild,Unknown
+MR001111,V001578,P00720,DR0093,N39.0,"Urinary tract infection",Unknown,Stable
+MR001112,V000817,P00910,DR0033,K21.9,"Gastro-esophageal reflux disease",Moderate,Critical
+MR001113,V001907,P00107,DR0015,G43.9,Migraine,Unknown,Stable
+MR001114,V001968,P00801,DR0069,I25.10,"Coronary artery disease",Mild,Stable
+MR001115,V000643,P00067,DR0095,K21.9,"Gastro-esophageal reflux disease",Mild,Stable
+MR001116,V000961,P00760,DR0068,E11.9,"Type 2 diabetes mellitus",Mild,Critical
+MR001117,V002862,P00656,DR0028,I10,Hypertension,Unknown,Stable
+MR001118,V001742,P00426,DR0100,K21.9,"Gastro-esophageal reflux disease",Moderate,Critical
+MR001119,V002763,P00677,DR0051,A09,Gastroenteritis,Mild,Improving
+MR001120,V000312,P00515,DR0018,A09,Gastroenteritis,Mild,Unknown
+MR001121,V002581,P00186,DR0017,R51.9,Headache,Mild,Unknown
+MR001122,V001803,P00044,DR0088,K21.9,"Gastro-esophageal reflux disease",Mild,Stable
+MR001123,V002613,P00275,DR0067,E11.9,"Type 2 diabetes mellitus",Unknown,Improving
+MR001124,V001869,P00550,DR0048,J18.9,Pneumonia,Severe,Improving
+MR001125,V002060,P00057,DR0004,S82.201,"Fracture of tibia",Mild,Improving
+MR001126,V000980,P00258,DR0044,G43.9,Migraine,Severe,Stable
+MR001127,V000269,P00355,DR0041,E11.9,"Type 2 diabetes mellitus",Mild,Unknown
+MR001128,V002318,P00342,DR0011,E11.9,"Type 2 diabetes mellitus",Unknown,Stable
+MR001129,V000107,P00446,DR0059,G43.9,Migraine,Mild,Unknown
+MR001130,V000480,P00215,DR0013,I25.10,"Coronary artery disease",Severe,Improving
+MR001131,V000805,P00198,DR0052,N39.0,"Urinary tract infection",Severe,Critical
+MR001132,V000914,P00985,DR0047,I10,Hypertension,Unknown,Improving
+MR001133,V000363,P00034,DR0013,A09,Gastroenteritis,Severe,Stable
+MR001134,V001342,P00788,DR0077,G43.9,Migraine,Unknown,Unknown
+MR001135,V002480,P00367,DR0074,R51.9,Headache,Mild,Improving
+MR001136,V002880,P00825,DR0062,E11.9,"Type 2 diabetes mellitus",Mild,Unknown
+MR001137,V002972,P00129,DR0048,R51.9,Headache,Mild,Stable
+MR001138,V000887,P00338,DR0040,M54.5,"Low back pain",Moderate,Stable
+MR001139,V002524,P00523,DR0066,G43.9,Migraine,Unknown,Stable
+MR001140,V001718,P00648,DR0039,I25.10,"Coronary artery disease",Severe,Unknown
+MR001141,V000480,P00032,DR0085,N39.0,"Urinary tract infection",Moderate,Stable
+MR001142,V000791,P00579,DR0018,G43.9,Migraine,Unknown,Stable
+MR001143,V000576,P00889,DR0075,M54.5,"Low back pain",Unknown,Unknown
+MR001144,V000313,P00092,DR0079,J06.9,"Acute upper respiratory infection",Mild,Critical
+MR001145,V002631,P00780,DR0102,I25.10,"Coronary artery disease",Mild,Unknown
+MR001146,V001980,P00555,DR0022,R51.9,Headache,Unknown,Improving
+MR001147,V001967,P00138,DR0016,N39.0,"Urinary tract infection",Mild,Improving
+MR001148,V000619,P00741,DR0076,N39.0,"Urinary tract infection",Unknown,Stable
+MR001149,V001512,P00911,DR0001,E11.9,"Type 2 diabetes mellitus",Severe,Critical
+MR001150,V001745,P00081,DR0056,G43.9,Migraine,Unknown,Stable
+MR001151,V000142,P00973,DR0031,N39.0,"Urinary tract infection",Unknown,Stable
+MR001152,V001339,P00699,DR0090,I10,Hypertension,Unknown,Stable
+MR001153,V002871,P00788,DR0026,E11.9,"Type 2 diabetes mellitus",Moderate,Improving
+MR001154,V000004,P00938,DR0046,K21.9,"Gastro-esophageal reflux disease",Moderate,Improving
+MR001155,V000442,P00123,DR0045,E11.9,"Type 2 diabetes mellitus",Severe,Unknown
+MR001156,V002686,P00663,DR0080,R51.9,Headache,Mild,Stable
+MR001157,V000442,P00611,DR0049,S82.201,"Fracture of tibia",Mild,Improving
+MR001158,V001200,P00068,DR0063,K21.9,"Gastro-esophageal reflux disease",Unknown,Unknown
+MR001159,V000075,P00931,DR0048,J06.9,"Acute upper respiratory infection",Unknown,Improving
+MR001160,V000103,P00923,DR0073,K21.9,"Gastro-esophageal reflux disease",Mild,Unknown
+MR001161,V000440,P00775,DR0011,I10,Hypertension,Moderate,Stable
+MR001162,V002557,P00395,DR0038,I10,Hypertension,Severe,Critical
+MR001163,V000802,P00671,DR0035,R51.9,Headache,Moderate,Stable
+MR001164,V002390,P00424,DR0005,I10,Hypertension,Moderate,Critical
+MR001165,V002584,P00998,DR0102,I25.10,"Coronary artery disease",Moderate,Improving
+MR001166,V001770,P00763,DR0023,J18.9,Pneumonia,Unknown,Unknown
+MR001167,V002301,P00663,DR0089,A09,Gastroenteritis,Unknown,Stable
+MR001168,V001085,P00422,DR0036,I10,Hypertension,Severe,Stable
+MR001169,V001657,P00584,DR0094,R51.9,Headache,Unknown,Critical
+MR001170,V001364,P00914,DR0098,I10,Hypertension,Severe,Stable
+MR001171,V002623,P00580,DR0027,E11.9,"Type 2 diabetes mellitus",Unknown,Stable
+MR001172,V000007,P00241,DR0066,R51.9,Headache,Mild,Stable
+MR001173,V001805,P00704,DR0004,G43.9,Migraine,Mild,Unknown
+MR001174,V002771,P00517,DR0049,J18.9,Pneumonia,Unknown,Improving
+MR001175,V001067,P00148,DR0076,S82.201,"Fracture of tibia",Unknown,Unknown
+MR001176,V000586,P00335,DR0100,S82.201,"Fracture of tibia",Unknown,Improving
+MR001177,V002929,P00839,DR0070,S82.201,"Fracture of tibia",Mild,Stable
+MR001178,V001853,P00483,DR0027,I25.10,"Coronary artery disease",Mild,Critical
+MR001179,V002274,P00420,DR0073,N39.0,"Urinary tract infection",Severe,Improving
+MR001180,V000253,P00468,DR0033,A09,Gastroenteritis,Mild,Improving
+MR001181,V000092,P00741,DR0076,M54.5,"Low back pain",Unknown,Stable
+MR001182,V000059,P00328,DR0008,M54.5,"Low back pain",Mild,Improving
+MR001183,V002907,P00396,DR0010,A09,Gastroenteritis,Mild,Stable
+MR001184,V002109,P00840,DR0046,M54.5,"Low back pain",Unknown,Stable
+MR001185,V000554,P00699,DR0025,A09,Gastroenteritis,Mild,Stable
+MR001186,V002387,P00292,DR0087,A09,Gastroenteritis,Severe,Critical
+MR001187,V002867,P00586,DR0050,I25.10,"Coronary artery disease",Severe,Stable
+MR001188,V001113,P00276,DR0013,E11.9,"Type 2 diabetes mellitus",Unknown,Unknown
+MR001189,V001825,P00063,DR0009,N39.0,"Urinary tract infection",Moderate,Improving
+MR001190,V001366,P00150,DR0076,E11.9,"Type 2 diabetes mellitus",Mild,Stable
+MR001191,V000454,P00099,DR0040,E11.9,"Type 2 diabetes mellitus",Severe,Stable
+MR001192,V001664,P00768,DR0044,S82.201,"Fracture of tibia",Mild,Stable
+MR001193,V000506,P00398,DR0101,J06.9,"Acute upper respiratory infection",Unknown,Critical
+MR001194,V000361,P00939,DR0090,N39.0,"Urinary tract infection",Mild,Stable
+MR001195,V002907,P00213,DR0029,J06.9,"Acute upper respiratory infection",Mild,Stable
+MR001196,V001563,P00346,DR0048,S82.201,"Fracture of tibia",Mild,Improving
+MR001197,V000907,P00562,DR0094,J06.9,"Acute upper respiratory infection",Unknown,Critical
+MR001198,V001202,P00247,DR0040,E11.9,"Type 2 diabetes mellitus",Moderate,Improving
+MR001199,V000093,P00768,DR0063,N39.0,"Urinary tract infection",Unknown,Stable
+MR001200,V000819,P00525,DR0087,J18.9,Pneumonia,Unknown,Unknown
+MR001201,V000031,P00630,DR0098,J18.9,Pneumonia,Unknown,Stable
+MR001202,V002226,P00237,DR0051,K21.9,"Gastro-esophageal reflux disease",Mild,Stable
+MR001203,V000352,P00027,DR0090,J06.9,"Acute upper respiratory infection",Mild,Critical
+MR001204,V000207,P00853,DR0048,E11.9,"Type 2 diabetes mellitus",Unknown,Stable
+MR001205,V002085,P00766,DR0096,S82.201,"Fracture of tibia",Severe,Critical
+MR001206,V002261,P00320,DR0076,E11.9,"Type 2 diabetes mellitus",Severe,Improving
+MR001207,V001738,P00263,DR0032,S82.201,"Fracture of tibia",Moderate,Stable
+MR001208,V000813,P00132,DR0071,G43.9,Migraine,Severe,Unknown
+MR001209,V002635,P00687,DR0022,G43.9,Migraine,Moderate,Stable
+MR001210,V002529,P00078,DR0083,J06.9,"Acute upper respiratory infection",Mild,Critical
+MR001211,V002678,P00664,DR0032,E11.9,"Type 2 diabetes mellitus",Mild,Critical
+MR001212,V001375,P00862,DR0063,R51.9,Headache,Mild,Critical
+MR001213,V001556,P00141,DR0093,J18.9,Pneumonia,Mild,Improving
+MR001214,V000568,P00288,DR0009,I10,Hypertension,Mild,Stable
+MR001215,V000864,P00068,DR0037,E11.9,"Type 2 diabetes mellitus",Severe,Improving
+MR001216,V001156,P00255,DR0060,E11.9,"Type 2 diabetes mellitus",Unknown,Stable
+MR001217,V001376,P00680,DR0079,J18.9,Pneumonia,Moderate,Stable
+MR001218,V000097,P00966,DR0085,G43.9,Migraine,Mild,Critical
+MR001219,V001911,P00410,DR0080,S82.201,"Fracture of tibia",Unknown,Unknown
+MR001220,V002851,P00189,DR0045,G43.9,Migraine,Unknown,Stable
+MR001221,V001253,P00080,DR0009,R51.9,Headache,Mild,Stable
+MR001222,V001780,P00806,DR0038,A09,Gastroenteritis,Moderate,Stable
+MR001223,V001651,P00195,DR0028,A09,Gastroenteritis,Mild,Stable
+MR001224,V000464,P00933,DR0014,G43.9,Migraine,Severe,Stable
+MR001225,V001459,P00651,DR0024,R51.9,Headache,Mild,Stable
+MR001226,V001981,P00835,DR0002,J06.9,"Acute upper respiratory infection",Moderate,Critical
+MR001227,V002970,P00229,DR0031,S82.201,"Fracture of tibia",Unknown,Stable
+MR001228,V000952,P00218,DR0015,M54.5,"Low back pain",Mild,Stable
+MR001229,V002546,P00901,DR0086,A09,Gastroenteritis,Unknown,Critical
+MR001230,V002385,P00499,DR0006,K21.9,"Gastro-esophageal reflux disease",Mild,Unknown
+MR001231,V002940,P00594,DR0043,N39.0,"Urinary tract infection",Mild,Critical
+MR001232,V002233,P00925,DR0059,G43.9,Migraine,Unknown,Stable
+MR001233,V002027,P00121,DR0042,I25.10,"Coronary artery disease",Mild,Stable
+MR001234,V001648,P00309,DR0017,J06.9,"Acute upper respiratory infection",Moderate,Critical
+MR001235,V002087,P00551,DR0093,J18.9,Pneumonia,Mild,Unknown
+MR001236,V001827,P00071,DR0036,I25.10,"Coronary artery disease",Unknown,Stable
+MR001237,V000106,P00532,DR0086,J18.9,Pneumonia,Unknown,Stable
+MR001238,V000269,P00070,DR0064,R51.9,Headache,Severe,Critical
+MR001239,V000248,P00160,DR0094,I10,Hypertension,Unknown,Unknown
+MR001240,V000697,P00283,DR0040,M54.5,"Low back pain",Unknown,Improving
+MR001241,V001597,P00439,DR0007,K21.9,"Gastro-esophageal reflux disease",Unknown,Stable
+MR001242,V001879,P00120,DR0016,A09,Gastroenteritis,Mild,Unknown
+MR001243,V002007,P00735,DR0057,J06.9,"Acute upper respiratory infection",Mild,Stable
+MR001244,V002409,P00428,DR0057,M54.5,"Low back pain",Unknown,Improving
+MR001245,V000963,P00709,DR0032,G43.9,Migraine,Unknown,Unknown
+MR001246,V001302,P00426,DR0064,E11.9,"Type 2 diabetes mellitus",Mild,Improving
+MR001247,V001136,P00643,DR0099,J18.9,Pneumonia,Unknown,Stable
+MR001248,V001871,P00653,DR0004,S82.201,"Fracture of tibia",Unknown,Stable
+MR001249,V001811,P00658,DR0008,G43.9,Migraine,Unknown,Critical
+MR001250,V000863,P00028,DR0003,J18.9,Pneumonia,Moderate,Stable
+MR001251,V000428,P00155,DR0061,M54.5,"Low back pain",Unknown,Improving
+MR001252,V002615,P00188,DR0074,E11.9,"Type 2 diabetes mellitus",Mild,Improving
+MR001253,V000215,P00376,DR0047,M54.5,"Low back pain",Unknown,Improving
+MR001254,V000429,P00511,DR0061,J18.9,Pneumonia,Unknown,Critical
+MR001255,V001314,P00160,DR0084,K21.9,"Gastro-esophageal reflux disease",Moderate,Critical
+MR001256,V001794,P00316,DR0020,I25.10,"Coronary artery disease",Mild,Improving
+MR001257,V000211,P00282,DR0010,J06.9,"Acute upper respiratory infection",Severe,Unknown
+MR001258,V000172,P00469,DR0021,K21.9,"Gastro-esophageal reflux disease",Moderate,Stable
+MR001259,V000438,P00742,DR0036,R51.9,Headache,Mild,Unknown
+MR001260,V001849,P00974,DR0030,K21.9,"Gastro-esophageal reflux disease",Severe,Stable
+MR001261,V002350,P00245,DR0021,I10,Hypertension,Unknown,Critical
+MR001262,V002952,P00860,DR0080,K21.9,"Gastro-esophageal reflux disease",Mild,Critical
+MR001263,V000005,P00433,DR0094,A09,Gastroenteritis,Mild,Unknown
+MR001264,V002574,P00117,DR0087,K21.9,"Gastro-esophageal reflux disease",Unknown,Critical
+MR001265,V002743,P00360,DR0017,M54.5,"Low back pain",Severe,Unknown
+MR001266,V000296,P00106,DR0096,M54.5,"Low back pain",Unknown,Improving
+MR001267,V002203,P00584,DR0049,I10,Hypertension,Unknown,Stable
+MR001268,V000240,P00971,DR0102,M54.5,"Low back pain",Moderate,Improving
+MR001269,V001486,P00123,DR0090,E11.9,"Type 2 diabetes mellitus",Mild,Unknown
+MR001270,V001937,P00605,DR0102,K21.9,"Gastro-esophageal reflux disease",Mild,Stable
+MR001271,V002143,P00441,DR0046,J18.9,Pneumonia,Severe,Improving
+MR001272,V000730,P00184,DR0005,M54.5,"Low back pain",Severe,Improving
+MR001273,V002806,P00047,DR0059,E11.9,"Type 2 diabetes mellitus",Moderate,Improving
+MR001274,V001912,P00260,DR0080,N39.0,"Urinary tract infection",Unknown,Improving
+MR001275,V001640,P00499,DR0038,A09,Gastroenteritis,Unknown,Stable
+MR001276,V000337,P00498,DR0100,I10,Hypertension,Unknown,Stable
+MR001277,V002171,P00462,DR0028,R51.9,Headache,Mild,Stable
+MR001278,V000136,P00669,DR0045,I25.10,"Coronary artery disease",Unknown,Improving
+MR001279,V002170,P00228,DR0047,I25.10,"Coronary artery disease",Moderate,Stable
+MR001280,V001374,P00046,DR0035,G43.9,Migraine,Mild,Stable
+MR001281,V000992,P00645,DR0024,R51.9,Headache,Unknown,Unknown
+MR001282,V002249,P00257,DR0053,K21.9,"Gastro-esophageal reflux disease",Mild,Improving
+MR001283,V000430,P00406,DR0093,K21.9,"Gastro-esophageal reflux disease",Unknown,Critical
+MR001284,V001914,P00600,DR0032,J06.9,"Acute upper respiratory infection",Unknown,Unknown
+MR001285,V000229,P00136,DR0016,G43.9,Migraine,Mild,Stable
+MR001286,V001580,P00628,DR0096,A09,Gastroenteritis,Mild,Stable
+MR001287,V000207,P00153,DR0079,E11.9,"Type 2 diabetes mellitus",Unknown,Critical
+MR001288,V001204,P00085,DR0076,M54.5,"Low back pain",Moderate,Stable
+MR001289,V000136,P00171,DR0080,G43.9,Migraine,Mild,Critical
+MR001290,V000843,P00330,DR0053,I10,Hypertension,Mild,Improving
+MR001291,V001627,P00684,DR0035,M54.5,"Low back pain",Mild,Critical
+MR001292,V001464,P00894,DR0012,N39.0,"Urinary tract infection",Unknown,Stable
+MR001293,V001312,P00771,DR0051,K21.9,"Gastro-esophageal reflux disease",Moderate,Stable
+MR001294,V002479,P00073,DR0098,G43.9,Migraine,Mild,Unknown
+MR001295,V000468,P00185,DR0045,J18.9,Pneumonia,Mild,Improving
+MR001296,V000317,P00416,DR0077,S82.201,"Fracture of tibia",Moderate,Improving
+MR001297,V000582,P00947,DR0045,S82.201,"Fracture of tibia",Severe,Stable
+MR001298,V001815,P00339,DR0102,N39.0,"Urinary tract infection",Mild,Stable
+MR001299,V001534,P00696,DR0063,K21.9,"Gastro-esophageal reflux disease",Unknown,Critical
+MR001300,V002134,P00920,DR0067,J18.9,Pneumonia,Mild,Stable
+MR001301,V002398,P00574,DR0028,G43.9,Migraine,Severe,Stable
+MR001302,V000824,P00751,DR0025,N39.0,"Urinary tract infection",Moderate,Stable
+MR001303,V000461,P00361,DR0082,R51.9,Headache,Mild,Unknown
+MR001304,V001567,P00660,DR0067,K21.9,"Gastro-esophageal reflux disease",Mild,Stable
+MR001305,V001513,P00428,DR0043,S82.201,"Fracture of tibia",Mild,Stable
+MR001306,V000587,P00497,DR0047,J06.9,"Acute upper respiratory infection",Moderate,Stable
+MR001307,V000065,P00288,DR0061,R51.9,Headache,Moderate,Unknown
+MR001308,V000962,P00917,DR0029,I10,Hypertension,Severe,Improving
+MR001309,V000457,P00222,DR0061,R51.9,Headache,Moderate,Stable
+MR001310,V000933,P00593,DR0023,S82.201,"Fracture of tibia",Mild,Unknown
+MR001311,V001141,P00896,DR0074,S82.201,"Fracture of tibia",Moderate,Stable
+MR001312,V000516,P00626,DR0032,K21.9,"Gastro-esophageal reflux disease",Unknown,Unknown
+MR001313,V000878,P00145,DR0097,N39.0,"Urinary tract infection",Unknown,Stable
+MR001314,V002110,P00088,DR0101,J06.9,"Acute upper respiratory infection",Unknown,Stable
+MR001315,V002733,P00427,DR0010,R51.9,Headache,Unknown,Stable
+MR001316,V002189,P00575,DR0093,S82.201,"Fracture of tibia",Mild,Unknown
+MR001317,V000947,P00404,DR0093,I25.10,"Coronary artery disease",Moderate,Critical
+MR001318,V001349,P00849,DR0017,M54.5,"Low back pain",Severe,Unknown
+MR001319,V000558,P00400,DR0063,M54.5,"Low back pain",Unknown,Stable
+MR001320,V000760,P00918,DR0019,J06.9,"Acute upper respiratory infection",Severe,Improving
+MR001321,V001312,P00052,DR0100,J06.9,"Acute upper respiratory infection",Unknown,Unknown
+MR001322,V000762,P00581,DR0057,I25.10,"Coronary artery disease",Mild,Stable
+MR001323,V002725,P00405,DR0044,A09,Gastroenteritis,Mild,Unknown
+MR001324,V000711,P00794,DR0038,K21.9,"Gastro-esophageal reflux disease",Moderate,Improving
+MR001325,V001742,P00437,DR0093,S82.201,"Fracture of tibia",Severe,Stable
+MR001326,V000611,P00657,DR0074,J18.9,Pneumonia,Unknown,Critical
+MR001327,V000270,P01000,DR0088,G43.9,Migraine,Mild,Improving
+MR001328,V002697,P00004,DR0059,J06.9,"Acute upper respiratory infection",Unknown,Unknown
+MR001329,V002388,P00727,DR0012,E11.9,"Type 2 diabetes mellitus",Severe,Critical
+MR001330,V001683,P00960,DR0028,I10,Hypertension,Unknown,Unknown
+MR001331,V000260,P00994,DR0049,J18.9,Pneumonia,Mild,Critical
+MR001332,V002540,P00634,DR0097,J18.9,Pneumonia,Mild,Stable
+MR001333,V001814,P00416,DR0008,S82.201,"Fracture of tibia",Moderate,Stable
+MR001334,V001255,P00586,DR0091,M54.5,"Low back pain",Mild,Critical
+MR001335,V001845,P00683,DR0001,I25.10,"Coronary artery disease",Unknown,Critical
+MR001336,V001216,P00622,DR0014,J06.9,"Acute upper respiratory infection",Mild,Improving
+MR001337,V002038,P00480,DR0061,E11.9,"Type 2 diabetes mellitus",Severe,Improving
+MR001338,V000595,P00102,DR0024,J06.9,"Acute upper respiratory infection",Unknown,Stable
+MR001339,V002419,P00862,DR0062,A09,Gastroenteritis,Mild,Unknown
+MR001340,V000953,P00264,DR0057,I10,Hypertension,Mild,Critical
+MR001341,V000129,P00678,DR0023,E11.9,"Type 2 diabetes mellitus",Moderate,Unknown
+MR001342,V000061,P00519,DR0095,J18.9,Pneumonia,Moderate,Stable
+MR001343,V000100,P00306,DR0041,E11.9,"Type 2 diabetes mellitus",Severe,Stable
+MR001344,V001302,P00666,DR0055,I25.10,"Coronary artery disease",Unknown,Critical
+MR001345,V000269,P00714,DR0057,I25.10,"Coronary artery disease",Unknown,Stable
+MR001346,V000944,P00953,DR0026,K21.9,"Gastro-esophageal reflux disease",Mild,Stable
+MR001347,V001469,P00893,DR0034,A09,Gastroenteritis,Unknown,Unknown
+MR001348,V001326,P00310,DR0014,J06.9,"Acute upper respiratory infection",Unknown,Unknown
+MR001349,V002824,P00691,DR0019,J06.9,"Acute upper respiratory infection",Unknown,Improving
+MR001350,V002642,P00607,DR0093,S82.201,"Fracture of tibia",Unknown,Stable
+MR001351,V002099,P00954,DR0039,J06.9,"Acute upper respiratory infection",Mild,Unknown
+MR001352,V002347,P00978,DR0088,K21.9,"Gastro-esophageal reflux disease",Unknown,Unknown
+MR001353,V001750,P00762,DR0023,E11.9,"Type 2 diabetes mellitus",Unknown,Unknown
+MR001354,V000438,P00943,DR0039,I25.10,"Coronary artery disease",Unknown,Stable
+MR001355,V000409,P00206,DR0028,J18.9,Pneumonia,Moderate,Stable
+MR001356,V002836,P00298,DR0050,G43.9,Migraine,Mild,Stable
+MR001357,V001306,P00280,DR0031,I10,Hypertension,Unknown,Stable
+MR001358,V002737,P00813,DR0089,G43.9,Migraine,Mild,Stable
+MR001359,V002041,P00718,DR0034,J06.9,"Acute upper respiratory infection",Mild,Unknown
+MR001360,V000981,P00824,DR0010,J18.9,Pneumonia,Mild,Unknown
+MR001361,V001240,P00877,DR0001,S82.201,"Fracture of tibia",Mild,Improving
+MR001362,V001746,P00458,DR0019,S82.201,"Fracture of tibia",Mild,Unknown
+MR001363,V000696,P00628,DR0026,K21.9,"Gastro-esophageal reflux disease",Mild,Stable
+MR001364,V002261,P00948,DR0081,G43.9,Migraine,Unknown,Unknown
+MR001365,V002828,P00265,DR0063,K21.9,"Gastro-esophageal reflux disease",Mild,Unknown
+MR001366,V002615,P00373,DR0045,J06.9,"Acute upper respiratory infection",Mild,Critical
+MR001367,V000005,P00267,DR0051,J18.9,Pneumonia,Mild,Critical
+MR001368,V000959,P00555,DR0094,A09,Gastroenteritis,Moderate,Unknown
+MR001369,V000515,P00866,DR0049,G43.9,Migraine,Severe,Critical
+MR001370,V001713,P00839,DR0076,G43.9,Migraine,Severe,Stable
+MR001371,V000531,P00365,DR0085,M54.5,"Low back pain",Severe,Stable
+MR001372,V001674,P00694,DR0094,I25.10,"Coronary artery disease",Unknown,Critical
+MR001373,V001320,P00165,DR0065,R51.9,Headache,Mild,Improving
+MR001374,V002531,P00635,DR0055,J06.9,"Acute upper respiratory infection",Moderate,Critical
+MR001375,V001471,P00549,DR0090,I25.10,"Coronary artery disease",Unknown,Stable
+MR001376,V001898,P00904,DR0100,S82.201,"Fracture of tibia",Moderate,Unknown
+MR001377,V002097,P00954,DR0051,J18.9,Pneumonia,Severe,Critical
+MR001378,V001998,P00709,DR0053,I25.10,"Coronary artery disease",Mild,Improving
+MR001379,V002038,P00100,DR0010,N39.0,"Urinary tract infection",Mild,Critical
+MR001380,V002609,P00351,DR0077,I25.10,"Coronary artery disease",Moderate,Unknown
+MR001381,V001513,P00827,DR0007,M54.5,"Low back pain",Unknown,Unknown
+MR001382,V001380,P00515,DR0100,S82.201,"Fracture of tibia",Severe,Unknown
+MR001383,V000965,P00801,DR0008,K21.9,"Gastro-esophageal reflux disease",Moderate,Unknown
+MR001384,V001333,P00712,DR0081,J18.9,Pneumonia,Mild,Unknown
+MR001385,V002871,P00853,DR0099,I25.10,"Coronary artery disease",Mild,Critical
+MR001386,V002887,P00122,DR0034,S82.201,"Fracture of tibia",Severe,Critical
+MR001387,V002959,P00895,DR0005,M54.5,"Low back pain",Mild,Improving
+MR001388,V000585,P00564,DR0047,M54.5,"Low back pain",Mild,Critical
+MR001389,V001516,P00163,DR0096,I10,Hypertension,Unknown,Stable
+MR001390,V000824,P00378,DR0033,I10,Hypertension,Mild,Improving
+MR001391,V001855,P00809,DR0085,I10,Hypertension,Unknown,Stable
+MR001392,V000316,P00684,DR0083,J18.9,Pneumonia,Mild,Stable
+MR001393,V002686,P00363,DR0099,A09,Gastroenteritis,Severe,Stable
+MR001394,V000695,P00847,DR0030,G43.9,Migraine,Mild,Critical
+MR001395,V000172,P00279,DR0016,A09,Gastroenteritis,Mild,Unknown
+MR001396,V002309,P00156,DR0018,J06.9,"Acute upper respiratory infection",Moderate,Critical
+MR001397,V002868,P00216,DR0080,E11.9,"Type 2 diabetes mellitus",Moderate,Unknown
+MR001398,V001458,P00046,DR0009,A09,Gastroenteritis,Mild,Critical
+MR001399,V001826,P00181,DR0079,R51.9,Headache,Severe,Critical
+MR001400,V000519,P00247,DR0062,J18.9,Pneumonia,Unknown,Stable
+MR001401,V002512,P00984,DR0064,M54.5,"Low back pain",Unknown,Critical
+MR001402,V001544,P00951,DR0070,J18.9,Pneumonia,Moderate,Stable
+MR001403,V000802,P00216,DR0032,I25.10,"Coronary artery disease",Mild,Critical
+MR001404,V002338,P00941,DR0006,E11.9,"Type 2 diabetes mellitus",Severe,Unknown
+MR001405,V000218,P00573,DR0018,I25.10,"Coronary artery disease",Moderate,Stable
+MR001406,V001730,P00814,DR0007,E11.9,"Type 2 diabetes mellitus",Severe,Critical
+MR001407,V000169,P00207,DR0047,S82.201,"Fracture of tibia",Mild,Stable
+MR001408,V001983,P00758,DR0081,R51.9,Headache,Severe,Improving
+MR001409,V002583,P00044,DR0098,A09,Gastroenteritis,Unknown,Improving
+MR001410,V002563,P00872,DR0069,E11.9,"Type 2 diabetes mellitus",Mild,Stable
+MR001411,V002725,P00193,DR0073,K21.9,"Gastro-esophageal reflux disease",Mild,Unknown
+MR001412,V001890,P00651,DR0086,K21.9,"Gastro-esophageal reflux disease",Mild,Stable
+MR001413,V000249,P00158,DR0031,N39.0,"Urinary tract infection",Unknown,Stable
+MR001414,V002768,P00144,DR0086,I10,Hypertension,Unknown,Critical
+MR001415,V001466,P00434,DR0040,I25.10,"Coronary artery disease",Mild,Stable
+MR001416,V002685,P00698,DR0025,S82.201,"Fracture of tibia",Mild,Improving
+MR001417,V001601,P00255,DR0076,N39.0,"Urinary tract infection",Severe,Stable
+MR001418,V000643,P00238,DR0065,R51.9,Headache,Moderate,Stable
+MR001419,V000289,P00487,DR0082,I25.10,"Coronary artery disease",Mild,Critical
+MR001420,V000042,P00622,DR0006,J18.9,Pneumonia,Moderate,Unknown
+MR001421,V001496,P00786,DR0062,R51.9,Headache,Mild,Unknown
+MR001422,V002519,P00349,DR0031,I25.10,"Coronary artery disease",Mild,Stable
+MR001423,V000902,P00219,DR0067,I25.10,"Coronary artery disease",Mild,Critical
+MR001424,V001211,P00554,DR0086,I25.10,"Coronary artery disease",Unknown,Critical
+MR001425,V001595,P00401,DR0067,S82.201,"Fracture of tibia",Unknown,Critical
+MR001426,V001414,P00742,DR0043,N39.0,"Urinary tract infection",Mild,Stable
+MR001427,V000459,P00650,DR0090,R51.9,Headache,Severe,Critical
+MR001428,V002256,P00870,DR0040,M54.5,"Low back pain",Moderate,Stable
+MR001429,V001111,P00059,DR0047,G43.9,Migraine,Unknown,Unknown
+MR001430,V000058,P00997,DR0025,G43.9,Migraine,Mild,Stable
+MR001431,V001345,P00631,DR0079,G43.9,Migraine,Severe,Critical
+MR001432,V002569,P00612,DR0068,A09,Gastroenteritis,Mild,Stable
+MR001433,V000721,P00007,DR0089,I25.10,"Coronary artery disease",Unknown,Stable
+MR001434,V002622,P00499,DR0017,I25.10,"Coronary artery disease",Moderate,Unknown
+MR001435,V000706,P00610,DR0044,G43.9,Migraine,Severe,Stable
+MR001436,V001767,P00220,DR0060,J06.9,"Acute upper respiratory infection",Mild,Stable
+MR001437,V001747,P00789,DR0084,S82.201,"Fracture of tibia",Unknown,Stable
+MR001438,V000649,P00358,DR0014,J06.9,"Acute upper respiratory infection",Mild,Stable
+MR001439,V002552,P00626,DR0023,N39.0,"Urinary tract infection",Mild,Critical
+MR001440,V000657,P00102,DR0027,K21.9,"Gastro-esophageal reflux disease",Severe,Unknown
+MR001441,V001424,P00576,DR0023,A09,Gastroenteritis,Severe,Stable
+MR001442,V000262,P00594,DR0022,J06.9,"Acute upper respiratory infection",Mild,Unknown
+MR001443,V002322,P00312,DR0039,A09,Gastroenteritis,Mild,Critical
+MR001444,V001799,P00438,DR0026,I25.10,"Coronary artery disease",Unknown,Improving
+MR001445,V001710,P00958,DR0038,J18.9,Pneumonia,Mild,Critical
+MR001446,V001790,P00428,DR0075,G43.9,Migraine,Severe,Stable
+MR001447,V002962,P00005,DR0042,G43.9,Migraine,Mild,Critical
+MR001448,V001624,P00476,DR0077,I10,Hypertension,Severe,Stable
+MR001449,V001533,P00600,DR0083,E11.9,"Type 2 diabetes mellitus",Unknown,Improving
+MR001450,V001691,P00516,DR0059,J18.9,Pneumonia,Moderate,Stable
+MR001451,V001548,P00981,DR0079,M54.5,"Low back pain",Severe,Stable
+MR001452,V002235,P00049,DR0101,A09,Gastroenteritis,Mild,Stable
+MR001453,V002837,P00975,DR0081,I10,Hypertension,Unknown,Improving
+MR001454,V001521,P00033,DR0092,N39.0,"Urinary tract infection",Mild,Improving
+MR001455,V001353,P00001,DR0081,G43.9,Migraine,Unknown,Unknown
+MR001456,V000740,P00343,DR0023,J06.9,"Acute upper respiratory infection",Moderate,Unknown
+MR001457,V000715,P00595,DR0087,I10,Hypertension,Unknown,Stable
+MR001458,V002018,P00388,DR0032,J06.9,"Acute upper respiratory infection",Mild,Critical
+MR001459,V001901,P00270,DR0076,N39.0,"Urinary tract infection",Mild,Critical
+MR001460,V000400,P00135,DR0087,R51.9,Headache,Severe,Unknown
+MR001461,V000985,P00748,DR0070,S82.201,"Fracture of tibia",Unknown,Improving
+MR001462,V002049,P00885,DR0085,J18.9,Pneumonia,Unknown,Unknown
+MR001463,V002516,P00864,DR0097,R51.9,Headache,Unknown,Critical
+MR001464,V001427,P00945,DR0098,I25.10,"Coronary artery disease",Moderate,Unknown
+MR001465,V001940,P00668,DR0087,A09,Gastroenteritis,Moderate,Stable
+MR001466,V002839,P00046,DR0009,S82.201,"Fracture of tibia",Unknown,Critical
+MR001467,V001874,P00256,DR0099,S82.201,"Fracture of tibia",Mild,Critical
+MR001468,V001734,P00245,DR0027,S82.201,"Fracture of tibia",Unknown,Unknown
+MR001469,V002941,P00099,DR0007,S82.201,"Fracture of tibia",Mild,Critical
+MR001470,V001320,P00620,DR0097,R51.9,Headache,Mild,Unknown
+MR001471,V001853,P00922,DR0084,R51.9,Headache,Mild,Critical
+MR001472,V002011,P00376,DR0100,S82.201,"Fracture of tibia",Unknown,Critical
+MR001473,V002460,P00754,DR0035,J18.9,Pneumonia,Mild,Critical
+MR001474,V000069,P00693,DR0066,J06.9,"Acute upper respiratory infection",Unknown,Improving
+MR001475,V002569,P00949,DR0053,N39.0,"Urinary tract infection",Unknown,Stable
+MR001476,V002242,P00454,DR0023,G43.9,Migraine,Mild,Critical
+MR001477,V000490,P00343,DR0016,M54.5,"Low back pain",Moderate,Stable
+MR001478,V001834,P00778,DR0060,J18.9,Pneumonia,Unknown,Stable
+MR001479,V000122,P00879,DR0088,R51.9,Headache,Unknown,Stable
+MR001480,V001129,P00116,DR0028,S82.201,"Fracture of tibia",Moderate,Unknown
+MR001481,V002280,P00210,DR0049,M54.5,"Low back pain",Unknown,Critical
+MR001482,V000656,P00497,DR0060,N39.0,"Urinary tract infection",Mild,Unknown
+MR001483,V000539,P00908,DR0018,S82.201,"Fracture of tibia",Unknown,Stable
+MR001484,V001592,P00577,DR0087,J18.9,Pneumonia,Mild,Stable
+MR001485,V002146,P00661,DR0023,I10,Hypertension,Mild,Stable
+MR001486,V000696,P00729,DR0029,I10,Hypertension,Unknown,Improving
+MR001487,V002556,P00782,DR0034,I10,Hypertension,Unknown,Stable
+MR001488,V000450,P00343,DR0100,S82.201,"Fracture of tibia",Unknown,Critical
+MR001489,V001071,P00902,DR0025,S82.201,"Fracture of tibia",Unknown,Stable
+MR001490,V000838,P00489,DR0046,I25.10,"Coronary artery disease",Unknown,Stable
+MR001491,V003000,P00554,DR0095,I25.10,"Coronary artery disease",Unknown,Stable
+MR001492,V000463,P00575,DR0067,I10,Hypertension,Unknown,Stable
+MR001493,V002953,P00237,DR0030,E11.9,"Type 2 diabetes mellitus",Severe,Improving
+MR001494,V000828,P00097,DR0035,I25.10,"Coronary artery disease",Severe,Stable
+MR001495,V001812,P00013,DR0086,R51.9,Headache,Moderate,Stable
+MR001496,V001988,P00791,DR0078,N39.0,"Urinary tract infection",Moderate,Unknown
+MR001497,V002525,P00662,DR0006,G43.9,Migraine,Unknown,Improving
+MR001498,V000207,P00851,DR0065,J06.9,"Acute upper respiratory infection",Mild,Critical
+MR001499,V002127,P00301,DR0085,M54.5,"Low back pain",Mild,Unknown
+MR001500,V002110,P00795,DR0100,G43.9,Migraine,Severe,Unknown
+MR001501,V001949,P00115,DR0098,J18.9,Pneumonia,Moderate,Critical
+MR001502,V002422,P00018,DR0002,S82.201,"Fracture of tibia",Severe,Improving
+MR001503,V001127,P00784,DR0013,J06.9,"Acute upper respiratory infection",Unknown,Stable
+MR001504,V002677,P00850,DR0029,N39.0,"Urinary tract infection",Mild,Stable
+MR001505,V001130,P00215,DR0033,R51.9,Headache,Mild,Critical
+MR001506,V002735,P00485,DR0074,A09,Gastroenteritis,Unknown,Stable
+MR001507,V000915,P00229,DR0032,G43.9,Migraine,Mild,Improving
+MR001508,V002052,P00168,DR0098,K21.9,"Gastro-esophageal reflux disease",Mild,Critical
+MR001509,V002512,P00979,DR0089,J06.9,"Acute upper respiratory infection",Mild,Unknown
+MR001510,V001179,P00414,DR0023,J18.9,Pneumonia,Mild,Stable
+MR001511,V002597,P00055,DR0054,I10,Hypertension,Unknown,Improving
+MR001512,V000544,P00275,DR0002,E11.9,"Type 2 diabetes mellitus",Mild,Stable
+MR001513,V002946,P00652,DR0082,M54.5,"Low back pain",Moderate,Stable
+MR001514,V002356,P00131,DR0015,J06.9,"Acute upper respiratory infection",Severe,Stable
+MR001515,V000412,P00108,DR0031,R51.9,Headache,Unknown,Stable
+MR001516,V002821,P01003,DR0075,N39.0,"Urinary tract infection",Unknown,Improving
+MR001517,V000339,P00863,DR0068,S82.201,"Fracture of tibia",Unknown,Unknown
+MR001518,V001459,P00279,DR0086,M54.5,"Low back pain",Unknown,Stable
+MR001519,V001441,P00302,DR0060,J06.9,"Acute upper respiratory infection",Mild,Critical
+MR001520,V001027,P00806,DR0040,G43.9,Migraine,Mild,Stable
+MR001521,V001688,P00237,DR0073,J18.9,Pneumonia,Mild,Critical
+MR001522,V001334,P00104,DR0037,K21.9,"Gastro-esophageal reflux disease",Severe,Stable
+MR001523,V001488,P00497,DR0040,A09,Gastroenteritis,Unknown,Critical
+MR001524,V001299,P00138,DR0091,J06.9,"Acute upper respiratory infection",Mild,Critical
+MR001525,V002295,P00626,DR0030,I10,Hypertension,Moderate,Stable
+MR001526,V002286,P00301,DR0020,G43.9,Migraine,Unknown,Stable
+MR001527,V001790,P00720,DR0078,I25.10,"Coronary artery disease",Severe,Unknown
+MR001528,V002521,P00220,DR0063,I25.10,"Coronary artery disease",Moderate,Stable
+MR001529,V000500,P00371,DR0033,A09,Gastroenteritis,Severe,Stable
+MR001530,V001300,P00994,DR0098,J06.9,"Acute upper respiratory infection",Moderate,Unknown
+MR001531,V000863,P00282,DR0097,R51.9,Headache,Severe,Stable
+MR001532,V000740,P00236,DR0059,J06.9,"Acute upper respiratory infection",Mild,Critical
+MR001533,V002455,P00495,DR0045,E11.9,"Type 2 diabetes mellitus",Mild,Stable
+MR001534,V000968,P00166,DR0031,K21.9,"Gastro-esophageal reflux disease",Moderate,Improving
+MR001535,V000653,P00100,DR0001,J18.9,Pneumonia,Moderate,Stable
+MR001536,V001460,P00699,DR0070,J18.9,Pneumonia,Moderate,Improving
+MR001537,V002161,P00619,DR0036,E11.9,"Type 2 diabetes mellitus",Unknown,Stable
+MR001538,V002144,P00355,DR0098,N39.0,"Urinary tract infection",Mild,Stable
+MR001539,V002541,P00277,DR0024,S82.201,"Fracture of tibia",Unknown,Unknown
+MR001540,V001169,P00139,DR0100,I25.10,"Coronary artery disease",Severe,Improving
+MR001541,V002696,P00941,DR0076,I25.10,"Coronary artery disease",Moderate,Critical
+MR001542,V000769,P00291,DR0073,I25.10,"Coronary artery disease",Mild,Unknown
+MR001543,V000523,P00641,DR0002,G43.9,Migraine,Unknown,Improving
+MR001544,V001193,P00152,DR0036,J06.9,"Acute upper respiratory infection",Mild,Stable
+MR001545,V002643,P00083,DR0088,S82.201,"Fracture of tibia",Mild,Stable
+MR001546,V000908,P00137,DR0038,I25.10,"Coronary artery disease",Unknown,Unknown
+MR001547,V002724,P00510,DR0098,R51.9,Headache,Severe,Stable
+MR001548,V000980,P00860,DR0074,N39.0,"Urinary tract infection",Mild,Improving
+MR001549,V000685,P00375,DR0064,E11.9,"Type 2 diabetes mellitus",Mild,Stable
+MR001550,V001243,P00872,DR0015,J06.9,"Acute upper respiratory infection",Moderate,Critical
+MR001551,V002669,P00639,DR0047,M54.5,"Low back pain",Mild,Stable
+MR001552,V002388,P00644,DR0010,S82.201,"Fracture of tibia",Unknown,Improving
+MR001553,V000369,P00957,DR0100,E11.9,"Type 2 diabetes mellitus",Unknown,Unknown
+MR001554,V000438,P00437,DR0052,J18.9,Pneumonia,Mild,Unknown
+MR001555,V000216,P00382,DR0036,I10,Hypertension,Moderate,Stable
+MR001556,V001597,P00061,DR0015,G43.9,Migraine,Mild,Stable
+MR001557,V001391,P00864,DR0061,J06.9,"Acute upper respiratory infection",Mild,Stable
+MR001558,V000884,P00396,DR0053,I10,Hypertension,Severe,Improving
+MR001559,V001945,P00659,DR0031,S82.201,"Fracture of tibia",Unknown,Stable
+MR001560,V002840,P00560,DR0035,A09,Gastroenteritis,Mild,Stable
+MR001561,V000195,P00949,DR0023,I25.10,"Coronary artery disease",Unknown,Stable
+MR001562,V000652,P00197,DR0053,N39.0,"Urinary tract infection",Moderate,Critical
+MR001563,V000383,P00143,DR0077,E11.9,"Type 2 diabetes mellitus",Moderate,Stable
+MR001564,V000632,P00390,DR0020,I10,Hypertension,Mild,Critical
+MR001565,V001572,P00802,DR0059,I10,Hypertension,Unknown,Improving
+MR001566,V001436,P00164,DR0020,R51.9,Headache,Severe,Stable
+MR001567,V002884,P00689,DR0036,J18.9,Pneumonia,Moderate,Stable
+MR001568,V002466,P00095,DR0039,K21.9,"Gastro-esophageal reflux disease",Unknown,Stable
+MR001569,V001577,P00347,DR0029,I25.10,"Coronary artery disease",Severe,Improving
+MR001570,V001807,P00164,DR0033,I25.10,"Coronary artery disease",Mild,Stable
+MR001571,V000515,P00172,DR0053,A09,Gastroenteritis,Mild,Stable
+MR001572,V002638,P00451,DR0076,M54.5,"Low back pain",Severe,Critical
+MR001573,V000585,P00302,DR0093,J06.9,"Acute upper respiratory infection",Mild,Critical
+MR001574,V001749,P00267,DR0019,S82.201,"Fracture of tibia",Unknown,Stable
+MR001575,V000216,P00385,DR0035,N39.0,"Urinary tract infection",Mild,Unknown
+MR001576,V001631,P00041,DR0089,R51.9,Headache,Unknown,Unknown
+MR001577,V000910,P00071,DR0014,G43.9,Migraine,Mild,Critical
+MR001578,V001406,P00241,DR0073,K21.9,"Gastro-esophageal reflux disease",Mild,Stable
+MR001579,V002619,P00749,DR0088,A09,Gastroenteritis,Moderate,Critical
+MR001580,V000383,P00356,DR0003,I10,Hypertension,Unknown,Stable
+MR001581,V000250,P00721,DR0068,S82.201,"Fracture of tibia",Mild,Unknown
+MR001582,V000987,P00347,DR0068,N39.0,"Urinary tract infection",Unknown,Improving
+MR001583,V001069,P00329,DR0034,K21.9,"Gastro-esophageal reflux disease",Unknown,Stable
+MR001584,V002315,P00791,DR0098,S82.201,"Fracture of tibia",Moderate,Critical
+MR001585,V001198,P00945,DR0021,A09,Gastroenteritis,Severe,Improving
+MR001586,V002172,P00172,DR0062,K21.9,"Gastro-esophageal reflux disease",Unknown,Critical
+MR001587,V002027,P00908,DR0087,S82.201,"Fracture of tibia",Unknown,Stable
+MR001588,V002626,P00895,DR0056,N39.0,"Urinary tract infection",Severe,Improving
+MR001589,V002096,P00110,DR0043,I10,Hypertension,Mild,Stable
+MR001590,V002764,P00797,DR0077,N39.0,"Urinary tract infection",Mild,Stable
+MR001591,V000912,P00696,DR0021,S82.201,"Fracture of tibia",Mild,Stable
+MR001592,V002925,P00658,DR0073,R51.9,Headache,Severe,Improving
+MR001593,V001799,P00922,DR0014,I25.10,"Coronary artery disease",Unknown,Improving
+MR001594,V002551,P00985,DR0102,A09,Gastroenteritis,Unknown,Stable
+MR001595,V001304,P00076,DR0099,I25.10,"Coronary artery disease",Mild,Stable
+MR001596,V000836,P00835,DR0024,J18.9,Pneumonia,Unknown,Improving
+MR001597,V000313,P00227,DR0088,K21.9,"Gastro-esophageal reflux disease",Severe,Critical
+MR001598,V001121,P00810,DR0014,K21.9,"Gastro-esophageal reflux disease",Unknown,Unknown
+MR001599,V001184,P00073,DR0085,R51.9,Headache,Mild,Stable
+MR001600,V002174,P00976,DR0002,J18.9,Pneumonia,Unknown,Improving
+MR001601,V002905,P00748,DR0099,J06.9,"Acute upper respiratory infection",Mild,Stable
+MR001602,V000318,P00853,DR0025,G43.9,Migraine,Unknown,Stable
+MR001603,V002536,P00471,DR0013,I10,Hypertension,Mild,Unknown
+MR001604,V002261,P00477,DR0061,I10,Hypertension,Moderate,Stable
+MR001605,V002340,P00814,DR0019,K21.9,"Gastro-esophageal reflux disease",Unknown,Improving
+MR001606,V001268,P00424,DR0007,G43.9,Migraine,Mild,Stable
+MR001607,V002496,P00934,DR0084,R51.9,Headache,Severe,Stable
+MR001608,V002435,P00706,DR0060,I10,Hypertension,Unknown,Improving
+MR001609,V001518,P00645,DR0087,J06.9,"Acute upper respiratory infection",Unknown,Stable
+MR001610,V000036,P00387,DR0013,N39.0,"Urinary tract infection",Severe,Improving
+MR001611,V000168,P00007,DR0064,G43.9,Migraine,Mild,Stable
+MR001612,V000576,P00136,DR0093,J06.9,"Acute upper respiratory infection",Unknown,Stable
+MR001613,V000894,P00895,DR0079,N39.0,"Urinary tract infection",Mild,Stable
+MR001614,V000314,P00780,DR0070,E11.9,"Type 2 diabetes mellitus",Mild,Unknown
+MR001615,V001101,P00744,DR0076,I25.10,"Coronary artery disease",Mild,Stable
+MR001616,V002524,P00531,DR0062,K21.9,"Gastro-esophageal reflux disease",Mild,Critical
+MR001617,V001249,P00082,DR0011,S82.201,"Fracture of tibia",Moderate,Unknown
+MR001618,V000622,P00372,DR0015,J06.9,"Acute upper respiratory infection",Moderate,Unknown
+MR001619,V002077,P00647,DR0050,J18.9,Pneumonia,Mild,Improving
+MR001620,V000258,P00920,DR0063,E11.9,"Type 2 diabetes mellitus",Severe,Critical
+MR001621,V002438,P00400,DR0041,M54.5,"Low back pain",Moderate,Critical
+MR001622,V000642,P00923,DR0092,A09,Gastroenteritis,Unknown,Improving
+MR001623,V001079,P00652,DR0068,J18.9,Pneumonia,Unknown,Stable
+MR001624,V002531,P00858,DR0043,J18.9,Pneumonia,Severe,Improving
+MR001625,V002666,P00786,DR0018,M54.5,"Low back pain",Moderate,Critical
+MR001626,V000931,P00119,DR0085,J06.9,"Acute upper respiratory infection",Severe,Critical
+MR001627,V001814,P00510,DR0016,N39.0,"Urinary tract infection",Mild,Improving
+MR001628,V001641,P00093,DR0089,I10,Hypertension,Unknown,Improving
+MR001629,V000963,P00109,DR0100,I10,Hypertension,Mild,Stable
+MR001630,V001259,P00531,DR0022,M54.5,"Low back pain",Unknown,Stable
+MR001631,V000045,P00511,DR0025,N39.0,"Urinary tract infection",Severe,Unknown
+MR001632,V000944,P00033,DR0090,K21.9,"Gastro-esophageal reflux disease",Mild,Stable
+MR001633,V000716,P00582,DR0049,K21.9,"Gastro-esophageal reflux disease",Moderate,Unknown
+MR001634,V002666,P00320,DR0079,K21.9,"Gastro-esophageal reflux disease",Mild,Critical
+MR001635,V002019,P00126,DR0054,A09,Gastroenteritis,Severe,Critical
+MR001636,V002614,P00515,DR0034,J18.9,Pneumonia,Severe,Stable
+MR001637,V002937,P00970,DR0016,G43.9,Migraine,Unknown,Stable
+MR001638,V001412,P00203,DR0033,E11.9,"Type 2 diabetes mellitus",Unknown,Unknown
+MR001639,V002604,P00863,DR0023,I25.10,"Coronary artery disease",Moderate,Improving
+MR001640,V001547,P00437,DR0042,G43.9,Migraine,Unknown,Critical
+MR001641,V002047,P00882,DR0040,J06.9,"Acute upper respiratory infection",Unknown,Critical
+MR001642,V002573,P00282,DR0083,J18.9,Pneumonia,Unknown,Stable
+MR001643,V000115,P00160,DR0083,A09,Gastroenteritis,Moderate,Stable
+MR001644,V001337,P00775,DR0073,K21.9,"Gastro-esophageal reflux disease",Moderate,Unknown
+MR001645,V000706,P01002,DR0028,N39.0,"Urinary tract infection",Severe,Critical
+MR001646,V001003,P00224,DR0045,A09,Gastroenteritis,Unknown,Improving
+MR001647,V002146,P00614,DR0094,J06.9,"Acute upper respiratory infection",Mild,Critical
+MR001648,V002478,P00924,DR0082,M54.5,"Low back pain",Mild,Improving
+MR001649,V002519,P00561,DR0001,A09,Gastroenteritis,Moderate,Stable
+MR001650,V001625,P00075,DR0102,R51.9,Headache,Unknown,Stable
+MR001651,V000033,P00102,DR0040,G43.9,Migraine,Mild,Critical
+MR001652,V002165,P00111,DR0082,A09,Gastroenteritis,Moderate,Stable
+MR001653,V000997,P00625,DR0035,J18.9,Pneumonia,Mild,Stable
+MR001654,V002234,P00474,DR0093,J18.9,Pneumonia,Mild,Unknown
+MR001655,V001542,P00207,DR0077,E11.9,"Type 2 diabetes mellitus",Severe,Stable
+MR001656,V001799,P00840,DR0096,J18.9,Pneumonia,Severe,Stable
+MR001657,V002686,P00962,DR0078,I10,Hypertension,Mild,Unknown
+MR001658,V001208,P00227,DR0002,M54.5,"Low back pain",Mild,Stable
+MR001659,V000567,P00769,DR0002,I25.10,"Coronary artery disease",Mild,Unknown
+MR001660,V000599,P00458,DR0083,M54.5,"Low back pain",Moderate,Unknown
+MR001661,V002593,P00539,DR0023,I10,Hypertension,Moderate,Stable
+MR001662,V001709,P00755,DR0029,G43.9,Migraine,Severe,Improving
+MR001663,V000252,P00470,DR0044,E11.9,"Type 2 diabetes mellitus",Unknown,Stable
+MR001664,V001132,P00112,DR0035,E11.9,"Type 2 diabetes mellitus",Unknown,Critical
+MR001665,V002425,P00227,DR0004,J06.9,"Acute upper respiratory infection",Severe,Stable
+MR001666,V001153,P00964,DR0026,E11.9,"Type 2 diabetes mellitus",Unknown,Stable
+MR001667,V002037,P00308,DR0091,K21.9,"Gastro-esophageal reflux disease",Unknown,Unknown
+MR001668,V001273,P00894,DR0007,J18.9,Pneumonia,Severe,Stable
+MR001669,V001009,P00572,DR0102,M54.5,"Low back pain",Severe,Improving
+MR001670,V002415,P00496,DR0021,N39.0,"Urinary tract infection",Unknown,Stable
+MR001671,V002277,P00966,DR0076,S82.201,"Fracture of tibia",Severe,Critical
+MR001672,V002835,P00303,DR0004,J18.9,Pneumonia,Mild,Stable
+MR001673,V000462,P00308,DR0082,I10,Hypertension,Mild,Stable
+MR001674,V002158,P00330,DR0036,G43.9,Migraine,Unknown,Stable
+MR001675,V001419,P00451,DR0091,A09,Gastroenteritis,Moderate,Stable
+MR001676,V000724,P00870,DR0101,S82.201,"Fracture of tibia",Unknown,Critical
+MR001677,V002995,P00856,DR0002,I25.10,"Coronary artery disease",Unknown,Improving
+MR001678,V001419,P00756,DR0045,R51.9,Headache,Severe,Improving
+MR001679,V001513,P00410,DR0089,R51.9,Headache,Mild,Improving
+MR001680,V000720,P00837,DR0046,E11.9,"Type 2 diabetes mellitus",Severe,Unknown
+MR001681,V002005,P00827,DR0005,A09,Gastroenteritis,Mild,Stable
+MR001682,V001823,P00360,DR0016,E11.9,"Type 2 diabetes mellitus",Unknown,Improving
+MR001683,V002283,P00201,DR0053,J18.9,Pneumonia,Unknown,Improving
+MR001684,V001380,P00089,DR0044,E11.9,"Type 2 diabetes mellitus",Severe,Critical
+MR001685,V002266,P00508,DR0071,I25.10,"Coronary artery disease",Mild,Stable
+MR001686,V001326,P00974,DR0088,I25.10,"Coronary artery disease",Unknown,Unknown
+MR001687,V002395,P00086,DR0008,R51.9,Headache,Unknown,Improving
+MR001688,V001775,P00163,DR0093,J18.9,Pneumonia,Unknown,Stable
+MR001689,V000816,P00690,DR0100,M54.5,"Low back pain",Mild,Stable
+MR001690,V000001,P00660,DR0077,J06.9,"Acute upper respiratory infection",Mild,Unknown
+MR001691,V002959,P00721,DR0061,R51.9,Headache,Unknown,Stable
+MR001692,V001354,P00106,DR0041,G43.9,Migraine,Unknown,Stable
+MR001693,V000194,P00710,DR0076,J06.9,"Acute upper respiratory infection",Severe,Stable
+MR001694,V001539,P00631,DR0076,K21.9,"Gastro-esophageal reflux disease",Unknown,Improving
+MR001695,V002239,P00322,DR0095,A09,Gastroenteritis,Severe,Unknown
+MR001696,V001194,P00081,DR0054,M54.5,"Low back pain",Moderate,Improving
+MR001697,V000344,P00090,DR0041,E11.9,"Type 2 diabetes mellitus",Unknown,Unknown
+MR001698,V001279,P00988,DR0004,J18.9,Pneumonia,Unknown,Improving
+MR001699,V002122,P00043,DR0051,E11.9,"Type 2 diabetes mellitus",Moderate,Stable
+MR001700,V000696,P00237,DR0088,I25.10,"Coronary artery disease",Mild,Unknown
+MR001701,V000704,P00149,DR0077,J18.9,Pneumonia,Severe,Stable
+MR001702,V000817,P00712,DR0008,E11.9,"Type 2 diabetes mellitus",Moderate,Unknown
+MR001703,V001794,P00081,DR0083,N39.0,"Urinary tract infection",Severe,Critical
+MR001704,V001262,P00946,DR0026,M54.5,"Low back pain",Mild,Critical
+MR001705,V002767,P00782,DR0058,J18.9,Pneumonia,Severe,Stable
+MR001706,V001203,P00921,DR0054,R51.9,Headache,Unknown,Improving
+MR001707,V001645,P00251,DR0026,E11.9,"Type 2 diabetes mellitus",Moderate,Improving
+MR001708,V001776,P00202,DR0006,A09,Gastroenteritis,Unknown,Critical
+MR001709,V002817,P00518,DR0049,G43.9,Migraine,Mild,Stable
+MR001710,V001379,P00024,DR0059,J06.9,"Acute upper respiratory infection",Mild,Stable
+MR001711,V002358,P00657,DR0087,K21.9,"Gastro-esophageal reflux disease",Unknown,Critical
+MR001712,V000607,P00437,DR0011,A09,Gastroenteritis,Unknown,Unknown
+MR001713,V001526,P00355,DR0095,K21.9,"Gastro-esophageal reflux disease",Mild,Critical
+MR001714,V001111,P00887,DR0014,G43.9,Migraine,Moderate,Critical
+MR001715,V002763,P00771,DR0034,I10,Hypertension,Mild,Unknown
+MR001716,V002109,P00865,DR0027,M54.5,"Low back pain",Mild,Stable
+MR001717,V000022,P00904,DR0009,I10,Hypertension,Unknown,Stable
+MR001718,V001588,P00648,DR0028,E11.9,"Type 2 diabetes mellitus",Moderate,Unknown
+MR001719,V002626,P00149,DR0062,R51.9,Headache,Mild,Unknown
+MR001720,V002359,P00827,DR0029,S82.201,"Fracture of tibia",Unknown,Stable
+MR001721,V000527,P00099,DR0053,S82.201,"Fracture of tibia",Mild,Unknown
+MR001722,V001907,P00755,DR0047,E11.9,"Type 2 diabetes mellitus",Unknown,Stable
+MR001723,V002095,P00033,DR0067,E11.9,"Type 2 diabetes mellitus",Mild,Critical
+MR001724,V000513,P00130,DR0053,A09,Gastroenteritis,Unknown,Stable
+MR001725,V000528,P00703,DR0067,J18.9,Pneumonia,Unknown,Stable
+MR001726,V001788,P00346,DR0102,K21.9,"Gastro-esophageal reflux disease",Mild,Improving
+MR001727,V000845,P00086,DR0079,E11.9,"Type 2 diabetes mellitus",Unknown,Improving
+MR001728,V000981,P00334,DR0018,E11.9,"Type 2 diabetes mellitus",Mild,Improving
+MR001729,V001404,P00632,DR0032,J18.9,Pneumonia,Unknown,Critical
+MR001730,V000381,P00883,DR0067,E11.9,"Type 2 diabetes mellitus",Mild,Stable
+MR001731,V001383,P00113,DR0050,R51.9,Headache,Mild,Stable
+MR001732,V001921,P00098,DR0099,J06.9,"Acute upper respiratory infection",Unknown,Improving
+MR001733,V000706,P00548,DR0012,K21.9,"Gastro-esophageal reflux disease",Mild,Improving
+MR001734,V000097,P00193,DR0026,J18.9,Pneumonia,Mild,Stable
+MR001735,V002428,P00426,DR0082,M54.5,"Low back pain",Mild,Critical
+MR001736,V001212,P00439,DR0090,R51.9,Headache,Unknown,Critical
+MR001737,V000584,P00118,DR0066,N39.0,"Urinary tract infection",Unknown,Unknown
+MR001738,V000725,P00109,DR0098,R51.9,Headache,Severe,Unknown
+MR001739,V002006,P00982,DR0061,N39.0,"Urinary tract infection",Severe,Stable
+MR001740,V000267,P00349,DR0009,I25.10,"Coronary artery disease",Unknown,Stable
+MR001741,V000221,P00559,DR0091,J18.9,Pneumonia,Unknown,Stable
+MR001742,V002305,P00942,DR0055,S82.201,"Fracture of tibia",Mild,Critical
+MR001743,V001964,P00906,DR0063,M54.5,"Low back pain",Severe,Stable
+MR001744,V001391,P00763,DR0031,J06.9,"Acute upper respiratory infection",Mild,Stable
+MR001745,V001510,P00796,DR0059,K21.9,"Gastro-esophageal reflux disease",Unknown,Unknown
+MR001746,V001727,P00860,DR0049,G43.9,Migraine,Moderate,Stable
+MR001747,V002044,P00647,DR0007,K21.9,"Gastro-esophageal reflux disease",Moderate,Improving
+MR001748,V001805,P00876,DR0088,K21.9,"Gastro-esophageal reflux disease",Severe,Critical
+MR001749,V000138,P00884,DR0095,E11.9,"Type 2 diabetes mellitus",Unknown,Stable
+MR001750,V000459,P00533,DR0024,E11.9,"Type 2 diabetes mellitus",Moderate,Critical
+MR001751,V002549,P00754,DR0032,I10,Hypertension,Unknown,Improving
+MR001752,V002803,P00117,DR0063,G43.9,Migraine,Unknown,Improving
+MR001753,V000865,P00082,DR0086,I10,Hypertension,Mild,Stable
+MR001754,V001785,P00720,DR0047,M54.5,"Low back pain",Severe,Stable
+MR001755,V002082,P00511,DR0092,N39.0,"Urinary tract infection",Unknown,Unknown
+MR001756,V001433,P00875,DR0065,M54.5,"Low back pain",Unknown,Critical
+MR001757,V002870,P00595,DR0062,G43.9,Migraine,Severe,Unknown
+MR001758,V001877,P00940,DR0078,E11.9,"Type 2 diabetes mellitus",Mild,Unknown
+MR001759,V001539,P00604,DR0091,I10,Hypertension,Unknown,Unknown
+MR001760,V000395,P00022,DR0069,J18.9,Pneumonia,Mild,Unknown
+MR001761,V001608,P00533,DR0055,K21.9,"Gastro-esophageal reflux disease",Mild,Stable
+MR001762,V000768,P00965,DR0050,I25.10,"Coronary artery disease",Unknown,Improving
+MR001763,V001298,P00938,DR0018,I10,Hypertension,Mild,Critical
+MR001764,V000162,P00752,DR0057,J06.9,"Acute upper respiratory infection",Mild,Improving
+MR001765,V001382,P00183,DR0073,I25.10,"Coronary artery disease",Severe,Stable
+MR001766,V000218,P00255,DR0092,K21.9,"Gastro-esophageal reflux disease",Mild,Stable
+MR001767,V001108,P00806,DR0081,N39.0,"Urinary tract infection",Unknown,Stable
+MR001768,V001233,P00792,DR0041,I10,Hypertension,Mild,Unknown
+MR001769,V001632,P00072,DR0019,G43.9,Migraine,Mild,Stable
+MR001770,V000466,P00973,DR0082,J06.9,"Acute upper respiratory infection",Severe,Critical
+MR001771,V000280,P00288,DR0093,K21.9,"Gastro-esophageal reflux disease",Severe,Improving
+MR001772,V002098,P00642,DR0025,R51.9,Headache,Unknown,Unknown
+MR001773,V002922,P00887,DR0047,S82.201,"Fracture of tibia",Moderate,Stable
+MR001774,V002130,P00785,DR0043,I10,Hypertension,Mild,Stable
+MR001775,V001146,P00107,DR0087,J06.9,"Acute upper respiratory infection",Moderate,Stable
+MR001776,V001031,P00188,DR0032,A09,Gastroenteritis,Moderate,Improving
+MR001777,V000838,P00307,DR0082,E11.9,"Type 2 diabetes mellitus",Mild,Critical
+MR001778,V001802,P00127,DR0066,R51.9,Headache,Moderate,Stable
+MR001779,V001922,P00621,DR0085,G43.9,Migraine,Moderate,Unknown
+MR001780,V000404,P00036,DR0014,J06.9,"Acute upper respiratory infection",Mild,Critical
+MR001781,V000547,P00083,DR0091,N39.0,"Urinary tract infection",Mild,Critical
+MR001782,V002999,P00956,DR0063,I10,Hypertension,Mild,Improving
+MR001783,V001122,P00704,DR0008,J06.9,"Acute upper respiratory infection",Mild,Stable
+MR001784,V001720,P00716,DR0083,S82.201,"Fracture of tibia",Unknown,Stable
+MR001785,V000704,P00493,DR0012,K21.9,"Gastro-esophageal reflux disease",Mild,Stable
+MR001786,V001297,P00949,DR0089,K21.9,"Gastro-esophageal reflux disease",Mild,Improving
+MR001787,V001810,P00524,DR0048,I25.10,"Coronary artery disease",Mild,Stable
+MR001788,V000729,P00068,DR0074,E11.9,"Type 2 diabetes mellitus",Unknown,Unknown
+MR001789,V002018,P00389,DR0093,E11.9,"Type 2 diabetes mellitus",Unknown,Stable
+MR001790,V000047,P00002,DR0017,R51.9,Headache,Mild,Unknown
+MR001791,V000659,P00755,DR0036,K21.9,"Gastro-esophageal reflux disease",Moderate,Stable
+MR001792,V001189,P00972,DR0026,N39.0,"Urinary tract infection",Mild,Improving
+MR001793,V002233,P00509,DR0065,S82.201,"Fracture of tibia",Severe,Stable
+MR001794,V002311,P00315,DR0095,J18.9,Pneumonia,Unknown,Stable
+MR001795,V002645,P00751,DR0039,N39.0,"Urinary tract infection",Severe,Unknown
+MR001796,V000793,P00716,DR0023,A09,Gastroenteritis,Unknown,Unknown
+MR001797,V000684,P00388,DR0071,J06.9,"Acute upper respiratory infection",Mild,Stable
+MR001798,V002806,P00212,DR0061,R51.9,Headache,Unknown,Stable
+MR001799,V001508,P00805,DR0037,N39.0,"Urinary tract infection",Unknown,Stable
+MR001800,V000879,P00005,DR0075,J18.9,Pneumonia,Unknown,Stable
+MR001801,V000841,P00019,DR0065,M54.5,"Low back pain",Moderate,Improving
+MR001802,V001418,P01002,DR0059,J06.9,"Acute upper respiratory infection",Severe,Stable
+MR001803,V000671,P00432,DR0051,J06.9,"Acute upper respiratory infection",Unknown,Critical
+MR001804,V000013,P00586,DR0036,A09,Gastroenteritis,Unknown,Stable
+MR001805,V000402,P00294,DR0099,I25.10,"Coronary artery disease",Mild,Stable
+MR001806,V000596,P00828,DR0085,J06.9,"Acute upper respiratory infection",Mild,Stable
+MR001807,V000826,P01004,DR0072,I10,Hypertension,Unknown,Stable
+MR001808,V000288,P00063,DR0007,G43.9,Migraine,Severe,Unknown
+MR001809,V002164,P00694,DR0098,A09,Gastroenteritis,Mild,Stable
+MR001810,V002407,P00246,DR0077,R51.9,Headache,Mild,Unknown
+MR001811,V002696,P00895,DR0097,I25.10,"Coronary artery disease",Moderate,Improving
+MR001812,V000802,P00742,DR0026,N39.0,"Urinary tract infection",Unknown,Unknown
+MR001813,V002260,P00737,DR0102,I25.10,"Coronary artery disease",Unknown,Unknown
+MR001814,V001416,P00526,DR0016,J06.9,"Acute upper respiratory infection",Unknown,Stable
+MR001815,V000420,P00933,DR0049,N39.0,"Urinary tract infection",Unknown,Improving
+MR001816,V001363,P00039,DR0063,I25.10,"Coronary artery disease",Unknown,Stable
+MR001817,V002588,P00369,DR0018,I25.10,"Coronary artery disease",Unknown,Unknown
+MR001818,V001544,P00965,DR0067,I10,Hypertension,Mild,Stable
+MR001819,V000807,P00952,DR0027,R51.9,Headache,Unknown,Unknown
+MR001820,V001438,P00059,DR0070,A09,Gastroenteritis,Moderate,Improving
+MR001821,V002715,P00647,DR0056,K21.9,"Gastro-esophageal reflux disease",Mild,Stable
+MR001822,V001656,P00451,DR0059,G43.9,Migraine,Mild,Stable
+MR001823,V002917,P00235,DR0090,R51.9,Headache,Unknown,Stable
+MR001824,V000186,P00368,DR0084,S82.201,"Fracture of tibia",Mild,Unknown
+MR001825,V002329,P00234,DR0028,S82.201,"Fracture of tibia",Moderate,Stable
+MR001826,V000176,P00685,DR0055,M54.5,"Low back pain",Moderate,Stable
+MR001827,V000227,P00727,DR0031,E11.9,"Type 2 diabetes mellitus",Severe,Unknown
+MR001828,V001935,P00511,DR0025,A09,Gastroenteritis,Mild,Unknown
+MR001829,V001122,P00799,DR0078,N39.0,"Urinary tract infection",Unknown,Stable
+MR001830,V000333,P00217,DR0019,K21.9,"Gastro-esophageal reflux disease",Mild,Improving
+MR001831,V001936,P00187,DR0034,J18.9,Pneumonia,Moderate,Unknown
+MR001832,V001427,P00488,DR0098,N39.0,"Urinary tract infection",Unknown,Unknown
+MR001833,V000142,P00012,DR0060,J18.9,Pneumonia,Unknown,Critical
+MR001834,V002082,P00664,DR0092,I25.10,"Coronary artery disease",Mild,Stable
+MR001835,V002548,P00832,DR0076,S82.201,"Fracture of tibia",Unknown,Unknown
+MR001836,V002857,P01000,DR0035,J06.9,"Acute upper respiratory infection",Mild,Critical
+MR001837,V001095,P00632,DR0004,E11.9,"Type 2 diabetes mellitus",Mild,Improving
+MR001838,V002953,P00622,DR0063,J18.9,Pneumonia,Moderate,Critical
+MR001839,V000962,P00391,DR0038,J18.9,Pneumonia,Unknown,Stable
+MR001840,V002046,P00739,DR0074,G43.9,Migraine,Moderate,Improving
+MR001841,V000580,P00715,DR0055,J06.9,"Acute upper respiratory infection",Unknown,Stable
+MR001842,V000992,P00243,DR0005,J18.9,Pneumonia,Mild,Stable
+MR001843,V001886,P00794,DR0047,J06.9,"Acute upper respiratory infection",Mild,Unknown
+MR001844,V002839,P00448,DR0089,G43.9,Migraine,Unknown,Stable
+MR001845,V000444,P00259,DR0046,J18.9,Pneumonia,Mild,Unknown
+MR001846,V000041,P00120,DR0056,R51.9,Headache,Mild,Stable
+MR001847,V000027,P00056,DR0004,J18.9,Pneumonia,Unknown,Stable
+MR001848,V001499,P00543,DR0045,J18.9,Pneumonia,Unknown,Improving
+MR001849,V001059,P00263,DR0041,J06.9,"Acute upper respiratory infection",Severe,Improving
+MR001850,V000744,P00131,DR0013,I25.10,"Coronary artery disease",Unknown,Unknown
+MR001851,V001146,P00786,DR0011,M54.5,"Low back pain",Unknown,Unknown
+MR001852,V002687,P00088,DR0058,J18.9,Pneumonia,Unknown,Improving
+MR001853,V000213,P00245,DR0071,I25.10,"Coronary artery disease",Mild,Unknown
+MR001854,V002406,P00935,DR0006,J18.9,Pneumonia,Severe,Stable
+MR001855,V001513,P00726,DR0009,S82.201,"Fracture of tibia",Moderate,Stable
+MR001856,V002666,P00805,DR0009,E11.9,"Type 2 diabetes mellitus",Mild,Critical
+MR001857,V002888,P00827,DR0065,I10,Hypertension,Mild,Improving
+MR001858,V002814,P00385,DR0074,I10,Hypertension,Moderate,Stable
+MR001859,V001287,P00136,DR0070,M54.5,"Low back pain",Unknown,Unknown
+MR001860,V002315,P00407,DR0018,S82.201,"Fracture of tibia",Unknown,Improving
+MR001861,V001176,P00058,DR0047,N39.0,"Urinary tract infection",Unknown,Critical
+MR001862,V001313,P00393,DR0007,I10,Hypertension,Mild,Unknown
+MR001863,V000614,P00669,DR0053,E11.9,"Type 2 diabetes mellitus",Unknown,Unknown
+MR001864,V002164,P00581,DR0054,J18.9,Pneumonia,Unknown,Unknown
+MR001865,V002245,P00997,DR0035,E11.9,"Type 2 diabetes mellitus",Unknown,Improving
+MR001866,V001753,P00362,DR0040,N39.0,"Urinary tract infection",Unknown,Improving
+MR001867,V002628,P00865,DR0007,G43.9,Migraine,Unknown,Stable
+MR001868,V002169,P00484,DR0005,M54.5,"Low back pain",Mild,Improving
+MR001869,V000113,P00879,DR0101,I25.10,"Coronary artery disease",Mild,Stable
+MR001870,V002658,P00317,DR0035,S82.201,"Fracture of tibia",Severe,Stable
+MR001871,V000568,P00861,DR0100,E11.9,"Type 2 diabetes mellitus",Mild,Stable
+MR001872,V002574,P00384,DR0049,K21.9,"Gastro-esophageal reflux disease",Severe,Stable
+MR001873,V002530,P00022,DR0066,J18.9,Pneumonia,Severe,Stable
+MR001874,V001351,P00497,DR0069,K21.9,"Gastro-esophageal reflux disease",Unknown,Improving
+MR001875,V000395,P00949,DR0078,S82.201,"Fracture of tibia",Severe,Improving
+MR001876,V000623,P00898,DR0073,G43.9,Migraine,Moderate,Critical
+MR001877,V000339,P00711,DR0102,J06.9,"Acute upper respiratory infection",Unknown,Stable
+MR001878,V000566,P00467,DR0055,I10,Hypertension,Mild,Critical
+MR001879,V001029,P00692,DR0084,J06.9,"Acute upper respiratory infection",Mild,Stable
+MR001880,V002591,P00595,DR0007,E11.9,"Type 2 diabetes mellitus",Unknown,Stable
+MR001881,V000548,P00241,DR0063,R51.9,Headache,Unknown,Unknown
+MR001882,V000898,P00972,DR0101,E11.9,"Type 2 diabetes mellitus",Unknown,Unknown
+MR001883,V000401,P00270,DR0048,I25.10,"Coronary artery disease",Mild,Unknown
+MR001884,V000850,P00317,DR0050,I10,Hypertension,Unknown,Improving
+MR001885,V001815,P00271,DR0082,N39.0,"Urinary tract infection",Mild,Critical
+MR001886,V002263,P00403,DR0053,K21.9,"Gastro-esophageal reflux disease",Unknown,Critical
+MR001887,V000167,P00033,DR0007,N39.0,"Urinary tract infection",Unknown,Critical
+MR001888,V000882,P00558,DR0015,A09,Gastroenteritis,Severe,Stable
+MR001889,V001287,P00277,DR0029,E11.9,"Type 2 diabetes mellitus",Unknown,Stable
+MR001890,V002604,P00051,DR0062,N39.0,"Urinary tract infection",Unknown,Critical
+MR001891,V002966,P00942,DR0014,S82.201,"Fracture of tibia",Unknown,Stable
+MR001892,V002744,P00776,DR0082,J18.9,Pneumonia,Severe,Stable
+MR001893,V000380,P00910,DR0077,K21.9,"Gastro-esophageal reflux disease",Mild,Stable
+MR001894,V000146,P00004,DR0053,E11.9,"Type 2 diabetes mellitus",Moderate,Stable
+MR001895,V001754,P00550,DR0071,K21.9,"Gastro-esophageal reflux disease",Severe,Critical
+MR001896,V002597,P00702,DR0052,I25.10,"Coronary artery disease",Mild,Stable
+MR001897,V001477,P00619,DR0080,K21.9,"Gastro-esophageal reflux disease",Unknown,Stable
+MR001898,V002715,P00235,DR0036,J06.9,"Acute upper respiratory infection",Moderate,Unknown
+MR001899,V001753,P00186,DR0024,E11.9,"Type 2 diabetes mellitus",Severe,Unknown
+MR001900,V002515,P00662,DR0014,M54.5,"Low back pain",Severe,Stable
+MR001901,V002248,P00530,DR0030,J06.9,"Acute upper respiratory infection",Unknown,Critical
+MR001902,V000245,P00676,DR0048,N39.0,"Urinary tract infection",Mild,Critical
+MR001903,V002581,P00205,DR0010,E11.9,"Type 2 diabetes mellitus",Mild,Stable
+MR001904,V001820,P00919,DR0001,E11.9,"Type 2 diabetes mellitus",Unknown,Critical
+MR001905,V000769,P00305,DR0040,G43.9,Migraine,Moderate,Stable
+MR001906,V000720,P00233,DR0099,J06.9,"Acute upper respiratory infection",Mild,Stable
+MR001907,V002863,P00996,DR0053,S82.201,"Fracture of tibia",Severe,Unknown
+MR001908,V001398,P00683,DR0067,N39.0,"Urinary tract infection",Moderate,Stable
+MR001909,V002600,P00723,DR0097,I25.10,"Coronary artery disease",Unknown,Stable
+MR001910,V000062,P00541,DR0058,M54.5,"Low back pain",Severe,Stable
+MR001911,V000800,P00625,DR0062,G43.9,Migraine,Unknown,Stable
+MR001912,V001996,P00356,DR0053,E11.9,"Type 2 diabetes mellitus",Mild,Unknown
+MR001913,V000228,P00395,DR0016,S82.201,"Fracture of tibia",Severe,Critical
+MR001914,V001347,P00128,DR0012,J06.9,"Acute upper respiratory infection",Severe,Critical
+MR001915,V001283,P00080,DR0075,J18.9,Pneumonia,Mild,Critical
+MR001916,V002105,P00982,DR0056,J06.9,"Acute upper respiratory infection",Unknown,Critical
+MR001917,V000274,P00986,DR0055,I10,Hypertension,Mild,Stable
+MR001918,V002735,P00390,DR0033,R51.9,Headache,Severe,Critical
+MR001919,V001006,P00505,DR0089,I25.10,"Coronary artery disease",Mild,Stable
+MR001920,V001562,P00628,DR0013,J18.9,Pneumonia,Unknown,Stable
+MR001921,V002806,P00968,DR0039,K21.9,"Gastro-esophageal reflux disease",Mild,Improving
+MR001922,V001947,P00436,DR0067,I25.10,"Coronary artery disease",Unknown,Unknown
+MR001923,V000826,P00274,DR0010,E11.9,"Type 2 diabetes mellitus",Mild,Stable
+MR001924,V000024,P00499,DR0015,S82.201,"Fracture of tibia",Unknown,Stable
+MR001925,V001226,P00926,DR0045,R51.9,Headache,Unknown,Critical
+MR001926,V001146,P00597,DR0089,E11.9,"Type 2 diabetes mellitus",Unknown,Improving
+MR001927,V001993,P00879,DR0028,N39.0,"Urinary tract infection",Mild,Stable
+MR001928,V002437,P00404,DR0055,J06.9,"Acute upper respiratory infection",Mild,Unknown
+MR001929,V000989,P00917,DR0067,M54.5,"Low back pain",Unknown,Critical
+MR001930,V000574,P00879,DR0060,N39.0,"Urinary tract infection",Unknown,Stable
+MR001931,V002475,P00033,DR0059,S82.201,"Fracture of tibia",Unknown,Stable
+MR001932,V001028,P00349,DR0001,M54.5,"Low back pain",Unknown,Stable
+MR001933,V002751,P00003,DR0034,K21.9,"Gastro-esophageal reflux disease",Unknown,Stable
+MR001934,V002500,P00630,DR0007,R51.9,Headache,Mild,Improving
+MR001935,V000217,P00030,DR0023,I25.10,"Coronary artery disease",Mild,Improving
+MR001936,V000569,P00828,DR0059,A09,Gastroenteritis,Moderate,Stable
+MR001937,V001748,P00628,DR0042,I25.10,"Coronary artery disease",Moderate,Improving
+MR001938,V001581,P00912,DR0006,R51.9,Headache,Mild,Critical
+MR001939,V000958,P00366,DR0027,G43.9,Migraine,Moderate,Stable
+MR001940,V001500,P00267,DR0076,R51.9,Headache,Severe,Improving
+MR001941,V001918,P00910,DR0025,S82.201,"Fracture of tibia",Mild,Improving
+MR001942,V002698,P00356,DR0079,R51.9,Headache,Moderate,Stable
+MR001943,V002595,P00389,DR0008,I10,Hypertension,Unknown,Unknown
+MR001944,V001878,P00161,DR0060,A09,Gastroenteritis,Unknown,Critical
+MR001945,V001059,P00671,DR0090,E11.9,"Type 2 diabetes mellitus",Mild,Critical
+MR001946,V000283,P00623,DR0079,E11.9,"Type 2 diabetes mellitus",Moderate,Stable
+MR001947,V001720,P00318,DR0092,J18.9,Pneumonia,Moderate,Critical
+MR001948,V000710,P00439,DR0006,M54.5,"Low back pain",Moderate,Unknown
+MR001949,V002356,P00675,DR0024,R51.9,Headache,Unknown,Critical
+MR001950,V001475,P00872,DR0060,I25.10,"Coronary artery disease",Unknown,Unknown
+MR001951,V002348,P00308,DR0048,J18.9,Pneumonia,Severe,Stable
+MR001952,V001977,P00286,DR0063,R51.9,Headache,Unknown,Critical
+MR001953,V001824,P00470,DR0046,S82.201,"Fracture of tibia",Severe,Stable
+MR001954,V002110,P00867,DR0100,J06.9,"Acute upper respiratory infection",Moderate,Unknown
+MR001955,V001754,P00503,DR0053,I25.10,"Coronary artery disease",Mild,Stable
+MR001956,V000329,P00753,DR0001,I25.10,"Coronary artery disease",Moderate,Stable
+MR001957,V000920,P00660,DR0098,I25.10,"Coronary artery disease",Moderate,Critical
+MR001958,V000302,P00309,DR0037,J06.9,"Acute upper respiratory infection",Severe,Critical
+MR001959,V001182,P00578,DR0065,G43.9,Migraine,Mild,Unknown
+MR001960,V002302,P00710,DR0017,I25.10,"Coronary artery disease",Severe,Critical
+MR001961,V000148,P00639,DR0025,I25.10,"Coronary artery disease",Moderate,Critical
+MR001962,V000263,P00361,DR0009,J06.9,"Acute upper respiratory infection",Unknown,Critical
+MR001963,V001721,P00969,DR0003,K21.9,"Gastro-esophageal reflux disease",Unknown,Unknown
+MR001964,V002315,P00829,DR0092,R51.9,Headache,Severe,Stable
+MR001965,V001467,P00488,DR0100,E11.9,"Type 2 diabetes mellitus",Mild,Stable
+MR001966,V000191,P00681,DR0010,N39.0,"Urinary tract infection",Mild,Improving
+MR001967,V000421,P00733,DR0018,J06.9,"Acute upper respiratory infection",Severe,Critical
+MR001968,V000733,P00099,DR0054,E11.9,"Type 2 diabetes mellitus",Moderate,Improving
+MR001969,V001455,P00934,DR0034,N39.0,"Urinary tract infection",Moderate,Improving
+MR001970,V000945,P00643,DR0018,K21.9,"Gastro-esophageal reflux disease",Unknown,Improving
+MR001971,V001209,P00271,DR0041,E11.9,"Type 2 diabetes mellitus",Mild,Critical
+MR001972,V000149,P00274,DR0042,R51.9,Headache,Mild,Stable
+MR001973,V001805,P00506,DR0071,N39.0,"Urinary tract infection",Unknown,Stable
+MR001974,V001446,P00780,DR0078,R51.9,Headache,Moderate,Stable
+MR001975,V001223,P00191,DR0026,N39.0,"Urinary tract infection",Unknown,Stable
+MR001976,V001384,P00364,DR0102,I25.10,"Coronary artery disease",Unknown,Stable
+MR001977,V000788,P00735,DR0050,I25.10,"Coronary artery disease",Mild,Critical
+MR001978,V000340,P00582,DR0059,G43.9,Migraine,Moderate,Unknown
+MR001979,V001451,P00301,DR0044,E11.9,"Type 2 diabetes mellitus",Mild,Unknown
+MR001980,V001923,P00448,DR0082,A09,Gastroenteritis,Mild,Stable
+MR001981,V000882,P00338,DR0055,J06.9,"Acute upper respiratory infection",Unknown,Unknown
+MR001982,V000060,P00638,DR0079,I25.10,"Coronary artery disease",Unknown,Stable
+MR001983,V002967,P00383,DR0002,S82.201,"Fracture of tibia",Unknown,Stable
+MR001984,V002331,P00402,DR0073,G43.9,Migraine,Unknown,Stable
+MR001985,V002647,P00127,DR0081,S82.201,"Fracture of tibia",Unknown,Stable
+MR001986,V001593,P00121,DR0023,M54.5,"Low back pain",Mild,Unknown
+MR001987,V002713,P00009,DR0005,A09,Gastroenteritis,Mild,Critical
+MR001988,V000464,P00507,DR0042,J18.9,Pneumonia,Mild,Improving
+MR001989,V000838,P00208,DR0022,J18.9,Pneumonia,Moderate,Unknown
+MR001990,V002477,P00412,DR0053,S82.201,"Fracture of tibia",Mild,Unknown
+MR001991,V002210,P00854,DR0096,J18.9,Pneumonia,Mild,Stable
+MR001992,V000662,P00936,DR0009,K21.9,"Gastro-esophageal reflux disease",Unknown,Stable
+MR001993,V000346,P00313,DR0090,J18.9,Pneumonia,Moderate,Unknown
+MR001994,V001490,P00701,DR0102,K21.9,"Gastro-esophageal reflux disease",Moderate,Stable
+MR001995,V001393,P00363,DR0057,I10,Hypertension,Unknown,Stable
+MR001996,V002787,P00057,DR0085,I25.10,"Coronary artery disease",Severe,Unknown
+MR001997,V000170,P00571,DR0081,K21.9,"Gastro-esophageal reflux disease",Mild,Unknown
+MR001998,V002490,P00194,DR0043,G43.9,Migraine,Severe,Improving
+MR001999,V000409,P00269,DR0073,I25.10,"Coronary artery disease",Moderate,Stable
+MR002000,V001416,P00725,DR0071,J06.9,"Acute upper respiratory infection",Mild,Improving
+MR002001,V000021,P00775,DR0080,R51.9,Headache,Mild,Critical
+MR002002,V002676,P00589,DR0093,I10,Hypertension,Mild,Critical
+MR002003,V000426,P00299,DR0001,A09,Gastroenteritis,Unknown,Critical
+MR002004,V002725,P00082,DR0091,I10,Hypertension,Severe,Stable
+MR002005,V001118,P00733,DR0021,R51.9,Headache,Mild,Critical
+MR002006,V000749,P00176,DR0053,E11.9,"Type 2 diabetes mellitus",Moderate,Critical
+MR002007,V001094,P00706,DR0029,A09,Gastroenteritis,Severe,Improving
+MR002008,V002966,P00408,DR0002,S82.201,"Fracture of tibia",Severe,Stable
+MR002009,V000343,P00465,DR0037,N39.0,"Urinary tract infection",Severe,Improving
+MR002010,V002865,P00719,DR0094,S82.201,"Fracture of tibia",Unknown,Critical
+MR002011,V000761,P00464,DR0102,R51.9,Headache,Moderate,Stable
+MR002012,V000401,P00562,DR0083,S82.201,"Fracture of tibia",Moderate,Critical
+MR002013,V001597,P00126,DR0034,K21.9,"Gastro-esophageal reflux disease",Mild,Unknown
+MR002014,V000007,P00166,DR0002,G43.9,Migraine,Unknown,Stable
+MR002015,V001784,P00691,DR0032,S82.201,"Fracture of tibia",Unknown,Critical
+MR002016,V000318,P00077,DR0061,S82.201,"Fracture of tibia",Moderate,Improving
+MR002017,V001802,P00057,DR0018,E11.9,"Type 2 diabetes mellitus",Moderate,Stable
+MR002018,V001942,P00002,DR0069,S82.201,"Fracture of tibia",Severe,Improving
+MR002019,V001961,P00944,DR0045,G43.9,Migraine,Severe,Improving
+MR002020,V000354,P00505,DR0018,G43.9,Migraine,Mild,Critical
+MR002021,V000984,P00233,DR0004,I25.10,"Coronary artery disease",Moderate,Critical
+MR002022,V002357,P00935,DR0054,K21.9,"Gastro-esophageal reflux disease",Severe,Stable
+MR002023,V000967,P00072,DR0013,I25.10,"Coronary artery disease",Unknown,Stable
+MR002024,V000929,P00625,DR0038,N39.0,"Urinary tract infection",Moderate,Stable
+MR002025,V001771,P00203,DR0012,R51.9,Headache,Moderate,Stable
+MR002026,V002519,P00031,DR0027,S82.201,"Fracture of tibia",Unknown,Stable
+MR002027,V000312,P00365,DR0049,I25.10,"Coronary artery disease",Unknown,Stable
+MR002028,V002033,P00091,DR0027,K21.9,"Gastro-esophageal reflux disease",Mild,Improving
+MR002029,V000342,P00765,DR0039,J18.9,Pneumonia,Moderate,Unknown
+MR002030,V000556,P00218,DR0018,R51.9,Headache,Moderate,Critical
+MR002031,V002704,P00329,DR0093,N39.0,"Urinary tract infection",Unknown,Stable
+MR002032,V002328,P00217,DR0092,S82.201,"Fracture of tibia",Mild,Critical
+MR002033,V001869,P00323,DR0071,G43.9,Migraine,Moderate,Critical
+MR002034,V000489,P00686,DR0078,J06.9,"Acute upper respiratory infection",Unknown,Stable
+MR002035,V000027,P00978,DR0056,M54.5,"Low back pain",Moderate,Improving
+MR002036,V002625,P00079,DR0042,A09,Gastroenteritis,Moderate,Critical
+MR002037,V001886,P00516,DR0027,M54.5,"Low back pain",Severe,Stable
+MR002038,V001638,P00202,DR0019,E11.9,"Type 2 diabetes mellitus",Mild,Improving
+MR002039,V001104,P00585,DR0015,R51.9,Headache,Mild,Critical
+MR002040,V001559,P00972,DR0078,J06.9,"Acute upper respiratory infection",Mild,Critical
+MR002041,V001903,P00955,DR0020,J06.9,"Acute upper respiratory infection",Mild,Critical
+MR002042,V001284,P00964,DR0037,R51.9,Headache,Mild,Stable
+MR002043,V002654,P00968,DR0099,N39.0,"Urinary tract infection",Mild,Stable
+MR002044,V001253,P00400,DR0062,R51.9,Headache,Unknown,Unknown
+MR002045,V002906,P00200,DR0001,K21.9,"Gastro-esophageal reflux disease",Moderate,Improving
+MR002046,V000544,P00500,DR0079,I25.10,"Coronary artery disease",Mild,Stable
+MR002047,V002626,P00973,DR0054,J06.9,"Acute upper respiratory infection",Unknown,Unknown
+MR002048,V000289,P00304,DR0078,K21.9,"Gastro-esophageal reflux disease",Mild,Unknown
+MR002049,V000490,P00316,DR0095,J18.9,Pneumonia,Mild,Stable
+MR002050,V000171,P00816,DR0027,K21.9,"Gastro-esophageal reflux disease",Severe,Improving
+MR002051,V000120,P00839,DR0054,K21.9,"Gastro-esophageal reflux disease",Unknown,Stable
+MR002052,V001284,P00728,DR0052,S82.201,"Fracture of tibia",Mild,Stable
+MR002053,V001558,P00392,DR0009,S82.201,"Fracture of tibia",Moderate,Unknown
+MR002054,V000648,P00750,DR0044,I25.10,"Coronary artery disease",Unknown,Stable
+MR002055,V002068,P00344,DR0102,N39.0,"Urinary tract infection",Unknown,Stable
+MR002056,V000225,P00834,DR0091,I25.10,"Coronary artery disease",Unknown,Stable
+MR002057,V002987,P00984,DR0098,A09,Gastroenteritis,Moderate,Stable
+MR002058,V001921,P00218,DR0004,J06.9,"Acute upper respiratory infection",Unknown,Critical
+MR002059,V002349,P00853,DR0043,R51.9,Headache,Unknown,Improving
+MR002060,V002565,P00158,DR0005,S82.201,"Fracture of tibia",Moderate,Improving
+MR002061,V000839,P00249,DR0048,I10,Hypertension,Moderate,Unknown
+MR002062,V002529,P00692,DR0046,N39.0,"Urinary tract infection",Unknown,Stable
+MR002063,V002567,P00783,DR0080,I25.10,"Coronary artery disease",Mild,Improving
+MR002064,V002710,P00469,DR0078,N39.0,"Urinary tract infection",Unknown,Stable
+MR002065,V001793,P00965,DR0069,K21.9,"Gastro-esophageal reflux disease",Mild,Stable
+MR002066,V002259,P00732,DR0038,R51.9,Headache,Unknown,Stable
+MR002067,V001348,P00107,DR0039,K21.9,"Gastro-esophageal reflux disease",Severe,Unknown
+MR002068,V001388,P00471,DR0035,K21.9,"Gastro-esophageal reflux disease",Mild,Improving
+MR002069,V001566,P00541,DR0009,I10,Hypertension,Unknown,Unknown
+MR002070,V001224,P00829,DR0073,R51.9,Headache,Unknown,Stable
+MR002071,V000207,P00178,DR0076,J06.9,"Acute upper respiratory infection",Moderate,Stable
+MR002072,V002121,P00279,DR0031,I10,Hypertension,Mild,Critical
+MR002073,V002373,P00723,DR0071,E11.9,"Type 2 diabetes mellitus",Unknown,Stable
+MR002074,V001681,P00256,DR0025,S82.201,"Fracture of tibia",Severe,Stable
+MR002075,V001146,P00586,DR0044,G43.9,Migraine,Severe,Improving
+MR002076,V001807,P00100,DR0076,J06.9,"Acute upper respiratory infection",Unknown,Stable
+MR002077,V002893,P00533,DR0036,J06.9,"Acute upper respiratory infection",Mild,Stable
+MR002078,V001548,P00607,DR0028,R51.9,Headache,Severe,Stable
+MR002079,V002156,P00786,DR0043,N39.0,"Urinary tract infection",Unknown,Stable
+MR002080,V000544,P00247,DR0065,I25.10,"Coronary artery disease",Mild,Stable
+MR002081,V001312,P00495,DR0092,A09,Gastroenteritis,Mild,Improving
+MR002082,V001684,P00950,DR0021,G43.9,Migraine,Unknown,Critical
+MR002083,V001097,P00126,DR0092,S82.201,"Fracture of tibia",Severe,Unknown
+MR002084,V002157,P00359,DR0011,I25.10,"Coronary artery disease",Severe,Stable
+MR002085,V000301,P00819,DR0016,N39.0,"Urinary tract infection",Severe,Stable
+MR002086,V002050,P00282,DR0062,K21.9,"Gastro-esophageal reflux disease",Moderate,Unknown
+MR002087,V000412,P00795,DR0008,I10,Hypertension,Unknown,Stable
+MR002088,V002136,P00791,DR0087,J18.9,Pneumonia,Mild,Stable
+MR002089,V001506,P00539,DR0011,N39.0,"Urinary tract infection",Mild,Critical
+MR002090,V000187,P00135,DR0025,K21.9,"Gastro-esophageal reflux disease",Severe,Unknown
+MR002091,V002087,P00167,DR0066,K21.9,"Gastro-esophageal reflux disease",Severe,Stable
+MR002092,V000466,P00870,DR0018,N39.0,"Urinary tract infection",Mild,Improving
+MR002093,V001635,P00508,DR0049,E11.9,"Type 2 diabetes mellitus",Moderate,Stable
+MR002094,V001627,P00575,DR0075,E11.9,"Type 2 diabetes mellitus",Unknown,Unknown
+MR002095,V001125,P00892,DR0060,N39.0,"Urinary tract infection",Unknown,Stable
+MR002096,V000815,P00865,DR0069,S82.201,"Fracture of tibia",Mild,Stable
+MR002097,V000188,P00357,DR0012,A09,Gastroenteritis,Unknown,Critical
+MR002098,V000953,P00002,DR0081,G43.9,Migraine,Unknown,Improving
+MR002099,V000883,P00117,DR0091,E11.9,"Type 2 diabetes mellitus",Severe,Unknown
+MR002100,V001275,P00645,DR0012,J06.9,"Acute upper respiratory infection",Moderate,Stable
+MR002101,V001211,P00317,DR0049,M54.5,"Low back pain",Unknown,Unknown
+MR002102,V000601,P00816,DR0042,M54.5,"Low back pain",Severe,Unknown
+MR002103,V000088,P00953,DR0012,I10,Hypertension,Unknown,Unknown
+MR002104,V001011,P00284,DR0047,I25.10,"Coronary artery disease",Severe,Stable
+MR002105,V001492,P00092,DR0086,S82.201,"Fracture of tibia",Unknown,Stable
+MR002106,V000108,P00454,DR0100,I25.10,"Coronary artery disease",Mild,Stable
+MR002107,V001586,P00720,DR0014,I10,Hypertension,Unknown,Stable
+MR002108,V001097,P00876,DR0053,N39.0,"Urinary tract infection",Unknown,Improving
+MR002109,V000127,P00954,DR0077,R51.9,Headache,Unknown,Critical
+MR002110,V000291,P00525,DR0014,N39.0,"Urinary tract infection",Mild,Unknown
+MR002111,V000928,P00800,DR0036,J06.9,"Acute upper respiratory infection",Mild,Critical
+MR002112,V001802,P00146,DR0040,J18.9,Pneumonia,Moderate,Stable
+MR002113,V002338,P00420,DR0026,I25.10,"Coronary artery disease",Mild,Unknown
+MR002114,V001672,P00008,DR0085,E11.9,"Type 2 diabetes mellitus",Unknown,Critical
+MR002115,V001955,P00754,DR0090,E11.9,"Type 2 diabetes mellitus",Mild,Unknown
+MR002116,V000257,P00450,DR0008,I10,Hypertension,Unknown,Stable
+MR002117,V001794,P00138,DR0013,I25.10,"Coronary artery disease",Unknown,Improving
+MR002118,V002104,P00964,DR0033,J18.9,Pneumonia,Mild,Stable
+MR002119,V002842,P00468,DR0012,J18.9,Pneumonia,Severe,Stable
+MR002120,V001574,P00878,DR0089,J18.9,Pneumonia,Unknown,Stable
+MR002121,V001619,P00400,DR0054,J18.9,Pneumonia,Severe,Stable
+MR002122,V000341,P00842,DR0016,E11.9,"Type 2 diabetes mellitus",Mild,Stable
+MR002123,V002140,P00706,DR0085,E11.9,"Type 2 diabetes mellitus",Severe,Unknown
+MR002124,V000786,P00784,DR0048,S82.201,"Fracture of tibia",Unknown,Unknown
+MR002125,V001677,P00187,DR0047,J06.9,"Acute upper respiratory infection",Severe,Stable
+MR002126,V000321,P00358,DR0004,K21.9,"Gastro-esophageal reflux disease",Severe,Unknown
+MR002127,V002103,P00662,DR0034,R51.9,Headache,Mild,Stable
+MR002128,V001766,P00689,DR0098,N39.0,"Urinary tract infection",Severe,Improving
+MR002129,V000595,P00165,DR0076,M54.5,"Low back pain",Severe,Improving
+MR002130,V000508,P00708,DR0089,J06.9,"Acute upper respiratory infection",Unknown,Improving
+MR002131,V002388,P00558,DR0073,I25.10,"Coronary artery disease",Unknown,Stable
+MR002132,V000031,P00049,DR0032,M54.5,"Low back pain",Severe,Unknown
+MR002133,V002689,P00581,DR0085,M54.5,"Low back pain",Severe,Stable
+MR002134,V001773,P00341,DR0095,J18.9,Pneumonia,Severe,Stable
+MR002135,V002001,P00039,DR0087,N39.0,"Urinary tract infection",Severe,Unknown
+MR002136,V000586,P00699,DR0060,I10,Hypertension,Mild,Improving
+MR002137,V002477,P00880,DR0009,K21.9,"Gastro-esophageal reflux disease",Moderate,Unknown
+MR002138,V001093,P00544,DR0097,K21.9,"Gastro-esophageal reflux disease",Moderate,Stable
+MR002139,V001699,P00082,DR0053,S82.201,"Fracture of tibia",Mild,Stable
+MR002140,V001866,P00940,DR0091,E11.9,"Type 2 diabetes mellitus",Moderate,Unknown
+MR002141,V002933,P00946,DR0088,K21.9,"Gastro-esophageal reflux disease",Moderate,Stable
+MR002142,V000407,P00367,DR0035,S82.201,"Fracture of tibia",Unknown,Stable
+MR002143,V002608,P00272,DR0013,R51.9,Headache,Severe,Improving
+MR002144,V001935,P00037,DR0047,G43.9,Migraine,Mild,Critical
+MR002145,V000168,P00330,DR0056,J18.9,Pneumonia,Severe,Unknown
+MR002146,V002227,P00761,DR0096,E11.9,"Type 2 diabetes mellitus",Unknown,Unknown
+MR002147,V001508,P00885,DR0004,A09,Gastroenteritis,Unknown,Stable
+MR002148,V000823,P00539,DR0060,S82.201,"Fracture of tibia",Severe,Stable
+MR002149,V000690,P00023,DR0013,M54.5,"Low back pain",Unknown,Unknown
+MR002150,V000868,P00566,DR0096,M54.5,"Low back pain",Unknown,Stable
+MR002151,V000069,P00300,DR0050,M54.5,"Low back pain",Mild,Unknown
+MR002152,V002816,P00746,DR0026,K21.9,"Gastro-esophageal reflux disease",Moderate,Improving
+MR002153,V002717,P00167,DR0062,K21.9,"Gastro-esophageal reflux disease",Mild,Unknown
+MR002154,V002337,P00012,DR0031,R51.9,Headache,Severe,Critical
+MR002155,V002685,P00513,DR0037,K21.9,"Gastro-esophageal reflux disease",Mild,Stable
+MR002156,V001319,P00304,DR0077,S82.201,"Fracture of tibia",Mild,Stable
+MR002157,V001887,P00822,DR0092,G43.9,Migraine,Mild,Unknown
+MR002158,V002347,P00636,DR0010,I10,Hypertension,Mild,Stable
+MR002159,V001907,P00020,DR0077,E11.9,"Type 2 diabetes mellitus",Mild,Stable
+MR002160,V002928,P00861,DR0045,I25.10,"Coronary artery disease",Moderate,Critical
+MR002161,V002840,P00408,DR0018,G43.9,Migraine,Unknown,Unknown
+MR002162,V000584,P00540,DR0004,I10,Hypertension,Unknown,Critical
+MR002163,V000096,P00025,DR0008,J18.9,Pneumonia,Severe,Stable
+MR002164,V001747,P00872,DR0099,J18.9,Pneumonia,Moderate,Stable
+MR002165,V002979,P00460,DR0021,J18.9,Pneumonia,Mild,Improving
+MR002166,V000090,P00168,DR0015,J06.9,"Acute upper respiratory infection",Unknown,Unknown
+MR002167,V002300,P00218,DR0073,J06.9,"Acute upper respiratory infection",Moderate,Stable
+MR002168,V000482,P00763,DR0030,I10,Hypertension,Mild,Stable
+MR002169,V001870,P00190,DR0001,R51.9,Headache,Unknown,Critical
+MR002170,V002490,P00198,DR0100,N39.0,"Urinary tract infection",Unknown,Stable
+MR002171,V001498,P00431,DR0063,G43.9,Migraine,Severe,Stable
+MR002172,V002234,P00333,DR0027,K21.9,"Gastro-esophageal reflux disease",Mild,Critical
+MR002173,V001159,P00160,DR0054,N39.0,"Urinary tract infection",Mild,Critical
+MR002174,V002596,P00958,DR0037,G43.9,Migraine,Unknown,Critical
+MR002175,V001799,P00563,DR0048,R51.9,Headache,Severe,Stable
+MR002176,V002383,P00184,DR0036,A09,Gastroenteritis,Unknown,Improving
+MR002177,V001581,P00552,DR0088,M54.5,"Low back pain",Unknown,Unknown
+MR002178,V000374,P00409,DR0045,J18.9,Pneumonia,Unknown,Unknown
+MR002179,V000852,P00335,DR0014,G43.9,Migraine,Mild,Stable
+MR002180,V001611,P00247,DR0034,N39.0,"Urinary tract infection",Severe,Unknown
+MR002181,V002725,P00497,DR0057,G43.9,Migraine,Mild,Improving
+MR002182,V001826,P00675,DR0093,S82.201,"Fracture of tibia",Moderate,Stable
+MR002183,V002200,P00450,DR0100,N39.0,"Urinary tract infection",Mild,Unknown
+MR002184,V000225,P00896,DR0053,K21.9,"Gastro-esophageal reflux disease",Unknown,Critical
+MR002185,V000716,P00975,DR0002,A09,Gastroenteritis,Unknown,Stable
+MR002186,V001329,P00482,DR0069,R51.9,Headache,Moderate,Improving
+MR002187,V001660,P00215,DR0034,E11.9,"Type 2 diabetes mellitus",Mild,Unknown
+MR002188,V001658,P00879,DR0041,A09,Gastroenteritis,Moderate,Stable
+MR002189,V000261,P00301,DR0010,J06.9,"Acute upper respiratory infection",Unknown,Improving
+MR002190,V002523,P00514,DR0083,R51.9,Headache,Mild,Unknown
+MR002191,V002998,P00441,DR0085,A09,Gastroenteritis,Mild,Critical
+MR002192,V001679,P00828,DR0007,K21.9,"Gastro-esophageal reflux disease",Mild,Critical
+MR002193,V000971,P00629,DR0054,S82.201,"Fracture of tibia",Mild,Critical
+MR002194,V002835,P00888,DR0022,J18.9,Pneumonia,Severe,Stable
+MR002195,V000548,P00270,DR0050,A09,Gastroenteritis,Moderate,Unknown
+MR002196,V002943,P00498,DR0072,J18.9,Pneumonia,Severe,Stable
+MR002197,V002225,P00245,DR0018,K21.9,"Gastro-esophageal reflux disease",Moderate,Stable
+MR002198,V000510,P00085,DR0028,A09,Gastroenteritis,Mild,Stable
+MR002199,V000337,P00765,DR0036,J06.9,"Acute upper respiratory infection",Unknown,Unknown
+MR002200,V001814,P00998,DR0088,M54.5,"Low back pain",Severe,Stable
+MR002201,V001991,P00253,DR0038,R51.9,Headache,Unknown,Improving
+MR002202,V002484,P00070,DR0025,I25.10,"Coronary artery disease",Unknown,Stable
+MR002203,V002600,P00247,DR0054,N39.0,"Urinary tract infection",Unknown,Critical
+MR002204,V002120,P00255,DR0046,S82.201,"Fracture of tibia",Severe,Stable
+MR002205,V002114,P00833,DR0097,S82.201,"Fracture of tibia",Moderate,Unknown
+MR002206,V001293,P00523,DR0035,G43.9,Migraine,Moderate,Stable
+MR002207,V002654,P00195,DR0060,E11.9,"Type 2 diabetes mellitus",Moderate,Critical
+MR002208,V001608,P00870,DR0079,M54.5,"Low back pain",Unknown,Unknown
+MR002209,V002975,P00030,DR0078,S82.201,"Fracture of tibia",Mild,Stable
+MR002210,V001217,P00479,DR0068,S82.201,"Fracture of tibia",Mild,Improving
+MR002211,V001192,P00416,DR0093,K21.9,"Gastro-esophageal reflux disease",Unknown,Unknown
+MR002212,V002267,P00512,DR0023,S82.201,"Fracture of tibia",Severe,Stable
+MR002213,V000337,P00146,DR0094,I25.10,"Coronary artery disease",Unknown,Stable
+MR002214,V000708,P00470,DR0040,S82.201,"Fracture of tibia",Unknown,Stable
+MR002215,V002113,P00095,DR0088,S82.201,"Fracture of tibia",Moderate,Stable
+MR002216,V000304,P00350,DR0084,J06.9,"Acute upper respiratory infection",Unknown,Unknown
+MR002217,V000321,P00216,DR0050,J18.9,Pneumonia,Severe,Critical
+MR002218,V002929,P00398,DR0086,E11.9,"Type 2 diabetes mellitus",Moderate,Stable
+MR002219,V000006,P00785,DR0069,I10,Hypertension,Mild,Critical
+MR002220,V002517,P00056,DR0097,E11.9,"Type 2 diabetes mellitus",Moderate,Improving
+MR002221,V001766,P00028,DR0061,A09,Gastroenteritis,Mild,Unknown
+MR002222,V001176,P00246,DR0021,A09,Gastroenteritis,Severe,Unknown
+MR002223,V001730,P00279,DR0082,M54.5,"Low back pain",Mild,Improving
+MR002224,V000895,P00238,DR0070,J06.9,"Acute upper respiratory infection",Moderate,Stable
+MR002225,V001781,P00982,DR0062,A09,Gastroenteritis,Unknown,Critical
+MR002226,V001405,P00551,DR0023,N39.0,"Urinary tract infection",Mild,Critical
+MR002227,V002468,P00983,DR0079,J18.9,Pneumonia,Moderate,Improving
+MR002228,V000844,P00096,DR0018,M54.5,"Low back pain",Severe,Critical
+MR002229,V002056,P00629,DR0067,N39.0,"Urinary tract infection",Unknown,Improving
+MR002230,V000844,P00022,DR0062,A09,Gastroenteritis,Mild,Improving
+MR002231,V001915,P00022,DR0085,J18.9,Pneumonia,Mild,Stable
+MR002232,V002539,P00721,DR0087,G43.9,Migraine,Severe,Critical
+MR002233,V001921,P00334,DR0084,M54.5,"Low back pain",Mild,Improving
+MR002234,V001532,P00828,DR0097,E11.9,"Type 2 diabetes mellitus",Mild,Improving
+MR002235,V002760,P00043,DR0017,E11.9,"Type 2 diabetes mellitus",Mild,Critical
+MR002236,V002464,P00743,DR0055,J18.9,Pneumonia,Severe,Stable
+MR002237,V001175,P00381,DR0066,N39.0,"Urinary tract infection",Mild,Stable
+MR002238,V000060,P00197,DR0045,S82.201,"Fracture of tibia",Unknown,Stable
+MR002239,V001549,P00195,DR0088,J06.9,"Acute upper respiratory infection",Mild,Critical
+MR002240,V000768,P00503,DR0082,I10,Hypertension,Moderate,Stable
+MR002241,V000755,P00114,DR0096,M54.5,"Low back pain",Moderate,Unknown
+MR002242,V000666,P00952,DR0067,G43.9,Migraine,Moderate,Stable
+MR002243,V002925,P00653,DR0040,K21.9,"Gastro-esophageal reflux disease",Mild,Unknown
+MR002244,V002371,P00728,DR0080,J18.9,Pneumonia,Unknown,Stable
+MR002245,V001658,P00679,DR0081,S82.201,"Fracture of tibia",Unknown,Improving
+MR002246,V001696,P00147,DR0025,J18.9,Pneumonia,Moderate,Stable
+MR002247,V000495,P00904,DR0066,E11.9,"Type 2 diabetes mellitus",Unknown,Stable
+MR002248,V000165,P00551,DR0018,I10,Hypertension,Mild,Critical
+MR002249,V000538,P00768,DR0022,I25.10,"Coronary artery disease",Unknown,Improving
+MR002250,V002943,P00368,DR0050,S82.201,"Fracture of tibia",Unknown,Unknown
+MR002251,V001194,P00435,DR0050,I10,Hypertension,Mild,Stable
+MR002252,V001172,P00482,DR0069,E11.9,"Type 2 diabetes mellitus",Mild,Critical
+MR002253,V002515,P00739,DR0013,S82.201,"Fracture of tibia",Moderate,Unknown
+MR002254,V001607,P00429,DR0042,I10,Hypertension,Mild,Unknown
+MR002255,V002579,P00746,DR0065,N39.0,"Urinary tract infection",Unknown,Stable
+MR002256,V000749,P00477,DR0026,I10,Hypertension,Mild,Improving
+MR002257,V000218,P00158,DR0089,J18.9,Pneumonia,Mild,Stable
+MR002258,V000519,P00760,DR0060,I25.10,"Coronary artery disease",Unknown,Critical
+MR002259,V001128,P00937,DR0012,J06.9,"Acute upper respiratory infection",Severe,Critical
+MR002260,V001228,P00391,DR0069,K21.9,"Gastro-esophageal reflux disease",Mild,Stable
+MR002261,V002704,P00750,DR0092,R51.9,Headache,Unknown,Stable
+MR002262,V000680,P00732,DR0065,M54.5,"Low back pain",Mild,Stable
+MR002263,V002858,P00113,DR0028,I10,Hypertension,Moderate,Stable
+MR002264,V001111,P00501,DR0094,N39.0,"Urinary tract infection",Mild,Improving
+MR002265,V000731,P00196,DR0024,N39.0,"Urinary tract infection",Unknown,Unknown
+MR002266,V000914,P00229,DR0062,A09,Gastroenteritis,Unknown,Improving
+MR002267,V002952,P00241,DR0035,I25.10,"Coronary artery disease",Mild,Critical
+MR002268,V000486,P00483,DR0064,M54.5,"Low back pain",Mild,Unknown
+MR002269,V001791,P00081,DR0006,K21.9,"Gastro-esophageal reflux disease",Mild,Critical
+MR002270,V000354,P00873,DR0016,S82.201,"Fracture of tibia",Unknown,Critical
+MR002271,V002492,P00771,DR0031,G43.9,Migraine,Moderate,Critical
+MR002272,V002723,P00592,DR0011,N39.0,"Urinary tract infection",Moderate,Stable
+MR002273,V002631,P00692,DR0050,S82.201,"Fracture of tibia",Severe,Critical
+MR002274,V001438,P00693,DR0068,R51.9,Headache,Mild,Unknown
+MR002275,V001518,P00511,DR0099,G43.9,Migraine,Severe,Stable
+MR002276,V000869,P00113,DR0066,A09,Gastroenteritis,Unknown,Unknown
+MR002277,V000789,P00503,DR0007,J06.9,"Acute upper respiratory infection",Severe,Stable
+MR002278,V002615,P00328,DR0003,N39.0,"Urinary tract infection",Moderate,Unknown
+MR002279,V001002,P00519,DR0047,E11.9,"Type 2 diabetes mellitus",Unknown,Critical
+MR002280,V002524,P00232,DR0021,J06.9,"Acute upper respiratory infection",Severe,Critical
+MR002281,V000189,P00068,DR0061,G43.9,Migraine,Moderate,Stable
+MR002282,V000156,P00069,DR0007,R51.9,Headache,Moderate,Stable
+MR002283,V001418,P00302,DR0102,I10,Hypertension,Moderate,Stable
+MR002284,V000955,P00081,DR0081,S82.201,"Fracture of tibia",Moderate,Stable
+MR002285,V002652,P00664,DR0062,J06.9,"Acute upper respiratory infection",Mild,Unknown
+MR002286,V002883,P00629,DR0096,S82.201,"Fracture of tibia",Unknown,Stable
+MR002287,V000475,P00518,DR0056,M54.5,"Low back pain",Unknown,Critical
+MR002288,V001651,P00885,DR0013,K21.9,"Gastro-esophageal reflux disease",Unknown,Improving
+MR002289,V002365,P00133,DR0012,N39.0,"Urinary tract infection",Severe,Unknown
+MR002290,V001247,P00225,DR0047,K21.9,"Gastro-esophageal reflux disease",Unknown,Stable
+MR002291,V000915,P00203,DR0089,J18.9,Pneumonia,Mild,Critical
+MR002292,V000552,P00514,DR0081,S82.201,"Fracture of tibia",Mild,Unknown
+MR002293,V001656,P00123,DR0085,R51.9,Headache,Unknown,Stable
+MR002294,V001770,P00224,DR0033,N39.0,"Urinary tract infection",Severe,Unknown
+MR002295,V001146,P00684,DR0088,K21.9,"Gastro-esophageal reflux disease",Mild,Stable
+MR002296,V002349,P00681,DR0020,S82.201,"Fracture of tibia",Unknown,Improving
+MR002297,V000045,P00203,DR0045,I10,Hypertension,Unknown,Unknown
+MR002298,V001509,P00416,DR0081,G43.9,Migraine,Unknown,Critical
+MR002299,V000397,P00737,DR0006,S82.201,"Fracture of tibia",Severe,Unknown
+MR002300,V000984,P00944,DR0011,N39.0,"Urinary tract infection",Unknown,Improving
+MR002301,V001813,P00519,DR0101,G43.9,Migraine,Mild,Stable
+MR002302,V002809,P00642,DR0025,S82.201,"Fracture of tibia",Mild,Unknown
+MR002303,V001582,P00679,DR0061,E11.9,"Type 2 diabetes mellitus",Mild,Stable
+MR002304,V000028,P00232,DR0037,E11.9,"Type 2 diabetes mellitus",Mild,Stable
+MR002305,V001789,P00068,DR0064,I25.10,"Coronary artery disease",Mild,Critical
+MR002306,V001941,P00642,DR0079,E11.9,"Type 2 diabetes mellitus",Severe,Unknown
+MR002307,V000074,P00812,DR0008,I10,Hypertension,Mild,Improving
+MR002308,V000242,P00854,DR0088,I25.10,"Coronary artery disease",Mild,Critical
+MR002309,V002412,P00019,DR0033,N39.0,"Urinary tract infection",Mild,Improving
+MR002310,V002338,P00166,DR0014,R51.9,Headache,Unknown,Unknown
+MR002311,V000320,P00595,DR0020,A09,Gastroenteritis,Moderate,Critical
+MR002312,V001024,P00661,DR0058,M54.5,"Low back pain",Severe,Stable
+MR002313,V002121,P00749,DR0095,E11.9,"Type 2 diabetes mellitus",Unknown,Unknown
+MR002314,V001530,P00926,DR0089,E11.9,"Type 2 diabetes mellitus",Mild,Critical
+MR002315,V001816,P00317,DR0063,S82.201,"Fracture of tibia",Unknown,Stable
+MR002316,V002111,P00473,DR0095,M54.5,"Low back pain",Moderate,Unknown
+MR002317,V002093,P00808,DR0029,I10,Hypertension,Moderate,Stable
+MR002318,V001729,P00125,DR0073,J18.9,Pneumonia,Unknown,Unknown
+MR002319,V002226,P00909,DR0010,K21.9,"Gastro-esophageal reflux disease",Mild,Stable
+MR002320,V002528,P00595,DR0016,R51.9,Headache,Unknown,Unknown
+MR002321,V002985,P00735,DR0059,J06.9,"Acute upper respiratory infection",Mild,Unknown
+MR002322,V001739,P00713,DR0101,R51.9,Headache,Mild,Critical
+MR002323,V001738,P00381,DR0077,N39.0,"Urinary tract infection",Unknown,Critical
+MR002324,V001901,P00503,DR0056,S82.201,"Fracture of tibia",Unknown,Unknown
+MR002325,V000161,P00925,DR0060,I10,Hypertension,Unknown,Stable
+MR002326,V000546,P00197,DR0084,N39.0,"Urinary tract infection",Moderate,Improving
+MR002327,V000979,P00286,DR0060,S82.201,"Fracture of tibia",Mild,Improving
+MR002328,V002043,P00576,DR0065,K21.9,"Gastro-esophageal reflux disease",Mild,Stable
+MR002329,V001008,P00661,DR0070,G43.9,Migraine,Mild,Stable
+MR002330,V001473,P00160,DR0011,A09,Gastroenteritis,Moderate,Stable
+MR002331,V000893,P00004,DR0082,I25.10,"Coronary artery disease",Mild,Unknown
+MR002332,V000686,P00819,DR0081,S82.201,"Fracture of tibia",Unknown,Improving
+MR002333,V002690,P00837,DR0045,S82.201,"Fracture of tibia",Mild,Unknown
+MR002334,V000226,P00525,DR0067,I25.10,"Coronary artery disease",Unknown,Stable
+MR002335,V002452,P00750,DR0075,G43.9,Migraine,Unknown,Unknown
+MR002336,V000042,P00428,DR0017,A09,Gastroenteritis,Unknown,Stable
+MR002337,V001156,P00231,DR0099,J18.9,Pneumonia,Unknown,Stable
+MR002338,V002016,P00318,DR0059,S82.201,"Fracture of tibia",Unknown,Critical
+MR002339,V001627,P00500,DR0016,N39.0,"Urinary tract infection",Mild,Improving
+MR002340,V002498,P00542,DR0081,M54.5,"Low back pain",Mild,Improving
+MR002341,V000828,P00433,DR0048,M54.5,"Low back pain",Severe,Stable
+MR002342,V000579,P00647,DR0090,K21.9,"Gastro-esophageal reflux disease",Moderate,Critical
+MR002343,V002071,P00622,DR0049,I10,Hypertension,Unknown,Stable
+MR002344,V000342,P00912,DR0092,I10,Hypertension,Mild,Critical
+MR002345,V001737,P00460,DR0008,K21.9,"Gastro-esophageal reflux disease",Unknown,Stable
+MR002346,V001906,P00122,DR0060,N39.0,"Urinary tract infection",Severe,Critical
+MR002347,V002500,P00587,DR0077,A09,Gastroenteritis,Mild,Stable
+MR002348,V002113,P00888,DR0078,E11.9,"Type 2 diabetes mellitus",Moderate,Stable
+MR002349,V000429,P00569,DR0075,I25.10,"Coronary artery disease",Severe,Stable
+MR002350,V001280,P00395,DR0014,I25.10,"Coronary artery disease",Moderate,Critical
+MR002351,V001977,P00921,DR0091,E11.9,"Type 2 diabetes mellitus",Severe,Stable
+MR002352,V001492,P00308,DR0042,J18.9,Pneumonia,Moderate,Improving
+MR002353,V001492,P00602,DR0010,J18.9,Pneumonia,Unknown,Unknown
+MR002354,V001430,P00672,DR0053,E11.9,"Type 2 diabetes mellitus",Mild,Improving
+MR002355,V000819,P00239,DR0066,K21.9,"Gastro-esophageal reflux disease",Severe,Unknown
+MR002356,V001364,P00020,DR0007,K21.9,"Gastro-esophageal reflux disease",Severe,Improving
+MR002357,V000735,P00921,DR0041,J18.9,Pneumonia,Unknown,Stable
+MR002358,V001499,P00237,DR0051,K21.9,"Gastro-esophageal reflux disease",Mild,Stable
+MR002359,V001783,P00629,DR0055,R51.9,Headache,Unknown,Stable
+MR002360,V001085,P00067,DR0040,I25.10,"Coronary artery disease",Severe,Critical
+MR002361,V001775,P00282,DR0099,N39.0,"Urinary tract infection",Severe,Improving
+MR002362,V000101,P00585,DR0003,J18.9,Pneumonia,Severe,Stable
+MR002363,V001136,P00041,DR0049,N39.0,"Urinary tract infection",Moderate,Unknown
+MR002364,V001055,P00653,DR0094,A09,Gastroenteritis,Mild,Improving
+MR002365,V001867,P00088,DR0007,J06.9,"Acute upper respiratory infection",Unknown,Unknown
+MR002366,V000709,P00440,DR0099,E11.9,"Type 2 diabetes mellitus",Unknown,Critical
+MR002367,V002914,P00027,DR0094,G43.9,Migraine,Moderate,Stable
+MR002368,V000200,P00953,DR0078,J18.9,Pneumonia,Moderate,Improving
+MR002369,V002770,P00753,DR0020,S82.201,"Fracture of tibia",Moderate,Critical
+MR002370,V000902,P00138,DR0071,S82.201,"Fracture of tibia",Mild,Stable
+MR002371,V002845,P00884,DR0078,E11.9,"Type 2 diabetes mellitus",Severe,Unknown
+MR002372,V000443,P00144,DR0066,A09,Gastroenteritis,Mild,Stable
+MR002373,V000979,P00777,DR0069,J06.9,"Acute upper respiratory infection",Moderate,Unknown
+MR002374,V001099,P00373,DR0015,J06.9,"Acute upper respiratory infection",Unknown,Stable
+MR002375,V001844,P00410,DR0016,G43.9,Migraine,Mild,Unknown
+MR002376,V000389,P00484,DR0019,E11.9,"Type 2 diabetes mellitus",Moderate,Critical
+MR002377,V000504,P00255,DR0094,S82.201,"Fracture of tibia",Moderate,Stable
+MR002378,V001013,P00361,DR0056,J18.9,Pneumonia,Unknown,Stable
+MR002379,V000563,P00736,DR0040,A09,Gastroenteritis,Unknown,Stable
+MR002380,V002944,P00952,DR0089,M54.5,"Low back pain",Severe,Stable
+MR002381,V001829,P00682,DR0064,M54.5,"Low back pain",Unknown,Improving
+MR002382,V002729,P00625,DR0069,N39.0,"Urinary tract infection",Unknown,Improving
+MR002383,V001170,P00396,DR0071,M54.5,"Low back pain",Mild,Improving
+MR002384,V000534,P00613,DR0063,K21.9,"Gastro-esophageal reflux disease",Unknown,Stable
+MR002385,V001167,P00660,DR0090,R51.9,Headache,Moderate,Improving
+MR002386,V000570,P00981,DR0018,I25.10,"Coronary artery disease",Mild,Improving
+MR002387,V002279,P00743,DR0028,G43.9,Migraine,Unknown,Stable
+MR002388,V001395,P00258,DR0014,J06.9,"Acute upper respiratory infection",Moderate,Unknown
+MR002389,V002218,P00287,DR0062,G43.9,Migraine,Mild,Critical
+MR002390,V001908,P00290,DR0090,M54.5,"Low back pain",Mild,Critical
+MR002391,V001119,P00276,DR0010,I25.10,"Coronary artery disease",Mild,Unknown
+MR002392,V002736,P00750,DR0005,M54.5,"Low back pain",Severe,Improving
+MR002393,V000889,P00181,DR0075,J18.9,Pneumonia,Moderate,Critical
+MR002394,V001101,P00679,DR0069,M54.5,"Low back pain",Unknown,Critical
+MR002395,V002363,P00974,DR0076,E11.9,"Type 2 diabetes mellitus",Mild,Unknown
+MR002396,V002857,P00619,DR0058,R51.9,Headache,Severe,Stable
+MR002397,V002937,P00557,DR0101,J06.9,"Acute upper respiratory infection",Severe,Stable
+MR002398,V001753,P00434,DR0023,I10,Hypertension,Mild,Stable
+MR002399,V001757,P00962,DR0023,A09,Gastroenteritis,Severe,Improving
+MR002400,V001838,P00455,DR0016,R51.9,Headache,Severe,Unknown
+MR002401,V000676,P00289,DR0067,G43.9,Migraine,Moderate,Stable
+MR002402,V001428,P00177,DR0067,E11.9,"Type 2 diabetes mellitus",Severe,Stable
+MR002403,V000547,P00746,DR0007,N39.0,"Urinary tract infection",Moderate,Stable
+MR002404,V001942,P00657,DR0065,A09,Gastroenteritis,Unknown,Unknown
+MR002405,V000701,P00037,DR0075,J06.9,"Acute upper respiratory infection",Moderate,Stable
+MR002406,V002650,P00721,DR0076,I10,Hypertension,Moderate,Critical
+MR002407,V001062,P00503,DR0073,R51.9,Headache,Mild,Improving
+MR002408,V002380,P00134,DR0076,G43.9,Migraine,Severe,Stable
+MR002409,V000064,P00815,DR0087,I10,Hypertension,Mild,Unknown
+MR002410,V000558,P00865,DR0047,N39.0,"Urinary tract infection",Unknown,Unknown
+MR002411,V001015,P00341,DR0101,N39.0,"Urinary tract infection",Moderate,Stable
+MR002412,V000951,P00183,DR0022,I10,Hypertension,Unknown,Stable
+MR002413,V001917,P00485,DR0083,R51.9,Headache,Moderate,Stable
+MR002414,V000427,P00503,DR0014,N39.0,"Urinary tract infection",Mild,Unknown
+MR002415,V000608,P00301,DR0049,J18.9,Pneumonia,Unknown,Unknown
+MR002416,V001513,P00842,DR0074,S82.201,"Fracture of tibia",Mild,Unknown
+MR002417,V000480,P00969,DR0046,J18.9,Pneumonia,Moderate,Unknown
+MR002418,V001570,P00986,DR0006,K21.9,"Gastro-esophageal reflux disease",Unknown,Unknown
+MR002419,V001871,P00990,DR0089,A09,Gastroenteritis,Severe,Stable
+MR002420,V001811,P00113,DR0048,E11.9,"Type 2 diabetes mellitus",Mild,Critical
+MR002421,V002952,P00501,DR0032,N39.0,"Urinary tract infection",Unknown,Critical
+MR002422,V002758,P00821,DR0085,S82.201,"Fracture of tibia",Moderate,Critical
+MR002423,V002359,P00437,DR0065,S82.201,"Fracture of tibia",Unknown,Improving
+MR002424,V000940,P00716,DR0018,M54.5,"Low back pain",Unknown,Stable
+MR002425,V002009,P00077,DR0043,R51.9,Headache,Moderate,Unknown
+MR002426,V001392,P00690,DR0080,A09,Gastroenteritis,Mild,Unknown
+MR002427,V001800,P00688,DR0084,M54.5,"Low back pain",Mild,Stable
+MR002428,V002459,P00832,DR0011,E11.9,"Type 2 diabetes mellitus",Severe,Improving
+MR002429,V001646,P00835,DR0029,I25.10,"Coronary artery disease",Moderate,Stable
+MR002430,V001926,P00184,DR0026,R51.9,Headache,Severe,Stable
+MR002431,V001313,P00546,DR0093,J18.9,Pneumonia,Moderate,Stable
+MR002432,V002659,P00279,DR0086,R51.9,Headache,Mild,Stable
+MR002433,V000451,P00066,DR0044,K21.9,"Gastro-esophageal reflux disease",Mild,Stable
+MR002434,V002138,P00779,DR0065,A09,Gastroenteritis,Severe,Unknown
+MR002435,V000470,P00639,DR0019,A09,Gastroenteritis,Unknown,Unknown
+MR002436,V000482,P00488,DR0027,J18.9,Pneumonia,Unknown,Stable
+MR002437,V001252,P00562,DR0016,K21.9,"Gastro-esophageal reflux disease",Mild,Improving
+MR002438,V001081,P00024,DR0098,G43.9,Migraine,Mild,Unknown
+MR002439,V000238,P00912,DR0015,N39.0,"Urinary tract infection",Mild,Improving
+MR002440,V000675,P00186,DR0036,N39.0,"Urinary tract infection",Moderate,Stable
+MR002441,V001088,P00989,DR0073,J18.9,Pneumonia,Unknown,Unknown
+MR002442,V002562,P00673,DR0065,S82.201,"Fracture of tibia",Unknown,Stable
+MR002443,V002679,P00680,DR0043,N39.0,"Urinary tract infection",Mild,Unknown
+MR002444,V001419,P00292,DR0031,E11.9,"Type 2 diabetes mellitus",Unknown,Stable
+MR002445,V000875,P00277,DR0047,R51.9,Headache,Unknown,Improving
+MR002446,V001162,P00632,DR0035,I10,Hypertension,Mild,Unknown
+MR002447,V000138,P00979,DR0001,E11.9,"Type 2 diabetes mellitus",Severe,Stable
+MR002448,V002216,P00096,DR0078,S82.201,"Fracture of tibia",Moderate,Stable
+MR002449,V001928,P00604,DR0098,K21.9,"Gastro-esophageal reflux disease",Mild,Critical
+MR002450,V002868,P00244,DR0091,I10,Hypertension,Severe,Stable
+MR002451,V002310,P00839,DR0074,J18.9,Pneumonia,Mild,Critical
+MR002452,V002114,P00119,DR0008,I10,Hypertension,Mild,Stable
+MR002453,V000429,P00453,DR0080,S82.201,"Fracture of tibia",Mild,Stable
+MR002454,V002480,P00167,DR0004,J18.9,Pneumonia,Moderate,Stable
+MR002455,V002373,P00279,DR0046,M54.5,"Low back pain",Unknown,Improving
+MR002456,V000771,P00088,DR0068,S82.201,"Fracture of tibia",Mild,Stable
+MR002457,V002937,P00341,DR0033,A09,Gastroenteritis,Mild,Unknown
+MR002458,V000606,P00788,DR0053,E11.9,"Type 2 diabetes mellitus",Mild,Unknown
+MR002459,V002888,P00643,DR0086,K21.9,"Gastro-esophageal reflux disease",Mild,Stable
+MR002460,V001902,P00041,DR0081,S82.201,"Fracture of tibia",Mild,Unknown
+MR002461,V001902,P00757,DR0055,E11.9,"Type 2 diabetes mellitus",Unknown,Improving
+MR002462,V001374,P00940,DR0068,J18.9,Pneumonia,Unknown,Unknown
+MR002463,V000477,P00170,DR0095,R51.9,Headache,Mild,Stable
+MR002464,V000391,P00559,DR0004,J18.9,Pneumonia,Severe,Critical
+MR002465,V001079,P00399,DR0060,J06.9,"Acute upper respiratory infection",Mild,Stable
+MR002466,V002698,P00966,DR0018,M54.5,"Low back pain",Mild,Stable
+MR002467,V002036,P00095,DR0024,J18.9,Pneumonia,Severe,Critical
+MR002468,V001235,P00817,DR0057,N39.0,"Urinary tract infection",Unknown,Stable
+MR002469,V001042,P00588,DR0079,E11.9,"Type 2 diabetes mellitus",Unknown,Critical
+MR002470,V002838,P00900,DR0076,I10,Hypertension,Severe,Critical
+MR002471,V002341,P00433,DR0022,M54.5,"Low back pain",Mild,Stable
+MR002472,V001009,P00565,DR0079,J18.9,Pneumonia,Moderate,Unknown
+MR002473,V000198,P00469,DR0052,R51.9,Headache,Mild,Stable
+MR002474,V002874,P00156,DR0033,J18.9,Pneumonia,Mild,Improving
+MR002475,V001314,P00493,DR0076,E11.9,"Type 2 diabetes mellitus",Mild,Critical
+MR002476,V000270,P00105,DR0017,N39.0,"Urinary tract infection",Mild,Stable
+MR002477,V002256,P00240,DR0056,G43.9,Migraine,Mild,Unknown
+MR002478,V002096,P00050,DR0014,K21.9,"Gastro-esophageal reflux disease",Mild,Stable
+MR002479,V001701,P00176,DR0027,K21.9,"Gastro-esophageal reflux disease",Moderate,Stable
+MR002480,V000348,P00473,DR0081,I10,Hypertension,Mild,Critical
+MR002481,V002069,P00069,DR0027,J18.9,Pneumonia,Mild,Improving
+MR002482,V002686,P00814,DR0034,J18.9,Pneumonia,Mild,Stable
+MR002483,V002257,P00132,DR0028,R51.9,Headache,Moderate,Stable
+MR002484,V000681,P00333,DR0088,I10,Hypertension,Severe,Stable
+MR002485,V001266,P00018,DR0100,G43.9,Migraine,Unknown,Critical
+MR002486,V000953,P00116,DR0098,I25.10,"Coronary artery disease",Mild,Critical
+MR002487,V002078,P00226,DR0042,A09,Gastroenteritis,Unknown,Unknown
+MR002488,V001391,P00198,DR0088,G43.9,Migraine,Severe,Unknown
+MR002489,V000974,P00388,DR0037,I25.10,"Coronary artery disease",Severe,Improving
+MR002490,V002405,P00425,DR0033,A09,Gastroenteritis,Mild,Stable
+MR002491,V001573,P00199,DR0084,K21.9,"Gastro-esophageal reflux disease",Mild,Improving
+MR002492,V000660,P00099,DR0056,J06.9,"Acute upper respiratory infection",Mild,Stable
+MR002493,V000639,P00891,DR0011,N39.0,"Urinary tract infection",Mild,Critical
+MR002494,V000359,P00920,DR0018,R51.9,Headache,Moderate,Stable
+MR002495,V002238,P00196,DR0089,N39.0,"Urinary tract infection",Mild,Stable
+MR002496,V002356,P00731,DR0010,G43.9,Migraine,Unknown,Critical
+MR002497,V001498,P00904,DR0061,R51.9,Headache,Mild,Unknown
+MR002498,V001544,P00155,DR0045,A09,Gastroenteritis,Mild,Stable
+MR002499,V001989,P00126,DR0096,E11.9,"Type 2 diabetes mellitus",Moderate,Critical
+MR002500,V002827,P00995,DR0062,J18.9,Pneumonia,Unknown,Stable
+MR002501,V001560,P00353,DR0080,J18.9,Pneumonia,Mild,Stable
+MR002502,V000758,P00300,DR0023,J06.9,"Acute upper respiratory infection",Mild,Stable
+MR002503,V001578,P00319,DR0030,K21.9,"Gastro-esophageal reflux disease",Unknown,Improving
+MR002504,V002842,P00365,DR0011,A09,Gastroenteritis,Unknown,Improving
+MR002505,V000271,P00071,DR0041,E11.9,"Type 2 diabetes mellitus",Moderate,Stable
+MR002506,V002522,P00954,DR0088,I10,Hypertension,Mild,Stable
+MR002507,V001758,P00646,DR0033,G43.9,Migraine,Unknown,Stable
+MR002508,V000383,P00511,DR0098,A09,Gastroenteritis,Mild,Stable
+MR002509,V002510,P00890,DR0015,I10,Hypertension,Severe,Stable
+MR002510,V000197,P00841,DR0043,I10,Hypertension,Mild,Critical
+MR002511,V001395,P00848,DR0050,S82.201,"Fracture of tibia",Mild,Critical
+MR002512,V000086,P00206,DR0071,E11.9,"Type 2 diabetes mellitus",Mild,Improving
+MR002513,V001882,P00792,DR0091,J06.9,"Acute upper respiratory infection",Moderate,Unknown
+MR002514,V000683,P00349,DR0102,I10,Hypertension,Severe,Critical
+MR002515,V002228,P00558,DR0003,N39.0,"Urinary tract infection",Unknown,Stable
+MR002516,V001896,P00485,DR0102,J18.9,Pneumonia,Severe,Improving
+MR002517,V001444,P00986,DR0077,S82.201,"Fracture of tibia",Unknown,Stable
+MR002518,V001736,P00242,DR0098,M54.5,"Low back pain",Unknown,Critical
+MR002519,V002801,P00243,DR0034,J18.9,Pneumonia,Unknown,Stable
+MR002520,V001664,P00035,DR0094,E11.9,"Type 2 diabetes mellitus",Mild,Unknown
+MR002521,V000494,P00572,DR0021,R51.9,Headache,Moderate,Critical
+MR002522,V001111,P00650,DR0074,R51.9,Headache,Mild,Critical
+MR002523,V001245,P00538,DR0046,N39.0,"Urinary tract infection",Unknown,Critical
+MR002524,V001346,P00083,DR0090,M54.5,"Low back pain",Mild,Critical
+MR002525,V000576,P00636,DR0096,G43.9,Migraine,Moderate,Stable
+MR002526,V000228,P00492,DR0009,A09,Gastroenteritis,Unknown,Stable
+MR002527,V000960,P00926,DR0069,M54.5,"Low back pain",Mild,Critical
+MR002528,V001625,P00119,DR0099,R51.9,Headache,Unknown,Unknown
+MR002529,V001322,P00271,DR0047,J18.9,Pneumonia,Unknown,Unknown
+MR002530,V000852,P00453,DR0023,E11.9,"Type 2 diabetes mellitus",Mild,Stable
+MR002531,V002733,P00223,DR0008,R51.9,Headache,Mild,Improving
+MR002532,V002507,P00743,DR0028,S82.201,"Fracture of tibia",Unknown,Stable
+MR002533,V000209,P00732,DR0062,J06.9,"Acute upper respiratory infection",Unknown,Stable
+MR002534,V000358,P00780,DR0085,S82.201,"Fracture of tibia",Moderate,Unknown
+MR002535,V002312,P00843,DR0011,R51.9,Headache,Severe,Stable
+MR002536,V000968,P00638,DR0065,G43.9,Migraine,Unknown,Critical
+MR002537,V000045,P00372,DR0005,J18.9,Pneumonia,Mild,Critical
+MR002538,V002805,P00089,DR0034,E11.9,"Type 2 diabetes mellitus",Mild,Unknown
+MR002539,V001620,P00789,DR0082,J18.9,Pneumonia,Mild,Stable
+MR002540,V001609,P00949,DR0021,A09,Gastroenteritis,Moderate,Critical
+MR002541,V002071,P00849,DR0016,I25.10,"Coronary artery disease",Severe,Stable
+MR002542,V000342,P00727,DR0035,J18.9,Pneumonia,Moderate,Stable
+MR002543,V001213,P00266,DR0050,E11.9,"Type 2 diabetes mellitus",Unknown,Critical
+MR002544,V001329,P00291,DR0043,J18.9,Pneumonia,Moderate,Improving
+MR002545,V000301,P00930,DR0079,J06.9,"Acute upper respiratory infection",Mild,Improving
+MR002546,V000525,P00996,DR0007,E11.9,"Type 2 diabetes mellitus",Moderate,Stable
+MR002547,V002351,P00533,DR0080,N39.0,"Urinary tract infection",Unknown,Improving
+MR002548,V000760,P00156,DR0092,R51.9,Headache,Unknown,Critical
+MR002549,V002048,P00437,DR0053,E11.9,"Type 2 diabetes mellitus",Unknown,Stable
+MR002550,V000825,P00714,DR0071,N39.0,"Urinary tract infection",Moderate,Stable
+MR002551,V001675,P00460,DR0038,A09,Gastroenteritis,Mild,Stable
+MR002552,V002717,P00493,DR0063,S82.201,"Fracture of tibia",Unknown,Critical
+MR002553,V002698,P00420,DR0024,S82.201,"Fracture of tibia",Unknown,Critical
+MR002554,V000075,P00749,DR0015,S82.201,"Fracture of tibia",Moderate,Critical
+MR002555,V000774,P00054,DR0016,J18.9,Pneumonia,Moderate,Critical
+MR002556,V000814,P00443,DR0094,R51.9,Headache,Mild,Unknown
+MR002557,V001905,P00064,DR0055,I25.10,"Coronary artery disease",Severe,Stable
+MR002558,V001190,P00024,DR0027,M54.5,"Low back pain",Unknown,Improving
+MR002559,V000490,P00076,DR0080,J06.9,"Acute upper respiratory infection",Unknown,Stable
+MR002560,V000078,P00912,DR0045,J06.9,"Acute upper respiratory infection",Moderate,Improving
+MR002561,V001625,P00830,DR0095,E11.9,"Type 2 diabetes mellitus",Severe,Stable
+MR002562,V001588,P00844,DR0077,J06.9,"Acute upper respiratory infection",Mild,Critical
+MR002563,V000855,P00745,DR0051,N39.0,"Urinary tract infection",Moderate,Improving
+MR002564,V002060,P00289,DR0101,N39.0,"Urinary tract infection",Moderate,Unknown
+MR002565,V002290,P00749,DR0092,R51.9,Headache,Unknown,Unknown
+MR002566,V000060,P00101,DR0004,N39.0,"Urinary tract infection",Unknown,Critical
+MR002567,V000738,P00543,DR0045,A09,Gastroenteritis,Unknown,Improving
+MR002568,V001287,P00179,DR0085,I10,Hypertension,Mild,Stable
+MR002569,V000392,P00443,DR0101,M54.5,"Low back pain",Mild,Stable
+MR002570,V002614,P00166,DR0064,G43.9,Migraine,Moderate,Stable
+MR002571,V002699,P00908,DR0082,I10,Hypertension,Moderate,Unknown
+MR002572,V000020,P00908,DR0057,M54.5,"Low back pain",Mild,Stable
+MR002573,V002298,P00525,DR0011,A09,Gastroenteritis,Unknown,Critical
+MR002574,V000411,P00961,DR0045,S82.201,"Fracture of tibia",Severe,Critical
+MR002575,V001213,P00570,DR0097,J06.9,"Acute upper respiratory infection",Severe,Stable
+MR002576,V000430,P00787,DR0040,M54.5,"Low back pain",Severe,Stable
+MR002577,V002099,P00881,DR0097,R51.9,Headache,Unknown,Critical
+MR002578,V001325,P00715,DR0052,E11.9,"Type 2 diabetes mellitus",Unknown,Stable
+MR002579,V000818,P00468,DR0081,R51.9,Headache,Mild,Stable
+MR002580,V002145,P00289,DR0087,N39.0,"Urinary tract infection",Unknown,Stable
+MR002581,V002825,P00242,DR0030,K21.9,"Gastro-esophageal reflux disease",Unknown,Unknown
+MR002582,V001929,P00794,DR0083,M54.5,"Low back pain",Mild,Critical
+MR002583,V002362,P00191,DR0099,R51.9,Headache,Mild,Stable
+MR002584,V001871,P00285,DR0014,G43.9,Migraine,Moderate,Stable
+MR002585,V001672,P00753,DR0049,M54.5,"Low back pain",Severe,Stable
+MR002586,V002802,P00454,DR0013,I25.10,"Coronary artery disease",Moderate,Stable
+MR002587,V002675,P00723,DR0015,E11.9,"Type 2 diabetes mellitus",Unknown,Critical
+MR002588,V001522,P00900,DR0018,S82.201,"Fracture of tibia",Mild,Stable
+MR002589,V002139,P00506,DR0039,K21.9,"Gastro-esophageal reflux disease",Moderate,Critical
+MR002590,V002614,P00254,DR0035,K21.9,"Gastro-esophageal reflux disease",Severe,Stable
+MR002591,V000503,P00873,DR0011,I10,Hypertension,Unknown,Unknown
+MR002592,V000832,P00711,DR0016,N39.0,"Urinary tract infection",Unknown,Stable
+MR002593,V000314,P00055,DR0011,M54.5,"Low back pain",Moderate,Stable
+MR002594,V002650,P00465,DR0040,E11.9,"Type 2 diabetes mellitus",Unknown,Unknown
+MR002595,V001284,P00704,DR0061,E11.9,"Type 2 diabetes mellitus",Unknown,Critical
+MR002596,V000774,P00798,DR0065,J06.9,"Acute upper respiratory infection",Unknown,Stable
+MR002597,V001055,P00330,DR0089,J06.9,"Acute upper respiratory infection",Mild,Stable
+MR002598,V000103,P00768,DR0064,N39.0,"Urinary tract infection",Moderate,Stable
+MR002599,V002637,P00806,DR0047,N39.0,"Urinary tract infection",Unknown,Improving
+MR002600,V002843,P00296,DR0021,K21.9,"Gastro-esophageal reflux disease",Moderate,Critical

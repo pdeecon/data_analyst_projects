@@ -1,0 +1,102 @@
+physician_id,physician_name,credentials,speciality,department_id,status,phone,salary
+DR0001,"Elena Ramos MD","Doctor of Medicine","Internal Medicine",D003,Active,N/a,150000
+DR0002,"Dr. Patrick Cruz",Doctor,"Obstetrics & Gynecology",D007,Active,09868773997,150000
+DR0003,"Elena Cruz MD","Doctor of Medicine","Obstetrics & Gynecology",D007,Active,N/a,50000
+DR0004,"Robert Castillo MD","Doctor of Medicine","Internal Medicine",D003,Inactive,09987821046,0
+DR0005,"Dr. Samantha Gonzales",Doctor,Emergency,D004,Active,09325577036,129282
+DR0006,"Dr. Elena Rivera",Doctor,Orthopedics,D005,Inactive,09455085560,0
+DR0007,"Nicole Mendoza MD","Doctor of Medicine","Internal Medicine",D003,Active,09498170855,73751
+DR0008,"Anthony Navarro MD","Doctor of Medicine","General Surgery",D008,Inactive,09949578072,0
+DR0009,"Dr. Nicole Mendoza",Doctor,Emergency,D004,Active,09327270384,92235
+DR0010,"Dr. Anthony Bautista",Doctor,"Internal Medicine",D003,Active,09730494069,75068
+DR0011,"Dr. Patrick Bautista",Doctor,"Internal Medicine",D003,Active,09288320743,144236
+DR0012,"Dr. Samantha Garcia",Doctor,Emergency,D004,Active,09991690443,216099
+DR0013,"Dr. Samantha Cruz",Doctor,Emergency,D004,Active,09490369928,177720
+DR0014,"Samantha Ramos MD","Doctor of Medicine",Pediatrics,D002,Active,09986061476,181782
+DR0015,"Anthony Castillo MD","Doctor of Medicine",Emergency,D004,Active,09754054587,174796
+DR0016,"Jose Navarro MD","Doctor of Medicine","Internal Medicine",D003,Active,N/a,185770
+DR0017,"Elena Santos MD","Doctor of Medicine",Pediatrics,D002,Active,N/a,142116
+DR0018,"Catherine Santos MD","Doctor of Medicine",Orthopedics,D005,Inactive,09967680826,0
+DR0019,"Dr. Nicole Castillo",Doctor,Orthopedics,D005,Inactive,09628939617,0
+DR0020,"Dr. Patrick Cruz",Doctor,Orthopedics,D005,Active,09827894399,132061
+DR0021,"Elena Santos MD","Doctor of Medicine",Cardiology,D001,Active,09973150290,140056.76
+DR0022,"Dr. Jose Castillo",Doctor,Pediatrics,D002,Active,09995615203,119327
+DR0023,"Jose Castillo MD","Doctor of Medicine",Orthopedics,D005,Active,09606627266,89207
+DR0024,"Nicole Garcia MD","Doctor of Medicine","Internal Medicine",D003,Inactive,09963182430,0
+DR0025,"Nicole Torres MD","Doctor of Medicine","General Surgery",D008,Active,N/a,185050
+DR0026,"Anthony Bautista MD","Doctor of Medicine",Neurology,D006,Active,N/a,163018
+DR0027,"Dr. Nicole Gonzales",Doctor,"Obstetrics & Gynecology",D007,Active,N/a,124386
+DR0028,"Anthony Dela Cruz MD","Doctor of Medicine",Orthopedics,D005,Active,N/a,191641
+DR0029,"Robert Bautista MD","Doctor of Medicine","General Surgery",D008,Inactive,09361036913,0
+DR0030,"Dr. Elena Navarro",Doctor,"Obstetrics & Gynecology",D007,Active,09368270238,130946
+DR0031,"Dr. Jose Dela Cruz",Doctor,Neurology,D006,Inactive,09405195367,0
+DR0032,"Dr. Samantha Castillo",Doctor,"Internal Medicine",D003,Active,N/a,96358
+DR0033,"Dr. Catherine Bautista",Doctor,Cardiology,D001,Active,09943862673,74741
+DR0034,"Elena Navarro MD","Doctor of Medicine",Neurology,D006,Active,09971848024,148733
+DR0035,"Anthony Mendoza MD","Doctor of Medicine",Pediatrics,D002,Active,09558843089,202062.41
+DR0036,"Dr. Patrick Dela Cruz",Doctor,"Obstetrics & Gynecology",D007,Active,09948492545,70210
+DR0037,"Nicole Bautista MD","Doctor of Medicine",Pediatrics,D002,Active,09670975568,197326.23
+DR0038,"Dr. Nicole Rivera",Doctor,Pediatrics,D002,Active,09947160179,192420.06
+DR0039,"Samantha Santos MD","Doctor of Medicine","General Surgery",D008,Active,09123067767,104281.29
+DR0040,"Dr. Nicole Flores",Doctor,Cardiology,D001,Active,09967331055,161066
+DR0041,"Dr. Nicole Torres",Doctor,Emergency,D004,Active,09987424312,86436
+DR0042,"Catherine Mendoza MD","Doctor of Medicine",Cardiology,D001,Inactive,09936942259,0
+DR0043,"Dr. Samantha Flores",Doctor,Emergency,D004,Active,09931916266,172083
+DR0044,"Dr. Catherine Castillo",Doctor,"Internal Medicine",D003,Active,09960346941,116724
+DR0045,"Dr. Robert Dela Cruz",Doctor,"Obstetrics & Gynecology",D007,Active,09320795960,70867
+DR0046,"Rafael Ramos MD","Doctor of Medicine",Emergency,D004,Inactive,N/a,0
+DR0047,"Catherine Garcia MD","Doctor of Medicine","General Surgery",D008,Active,09646250322,131309.41
+DR0048,"Dr. Robert Castillo",Doctor,Pediatrics,D002,Inactive,N/a,0
+DR0049,"Anthony Garcia MD","Doctor of Medicine","General Surgery",D008,Active,09996887136,168467
+DR0050,"Catherine Reyes MD","Doctor of Medicine","Internal Medicine",D003,Active,09846325953,184541.17
+DR0051,"Nicole Castillo MD","Doctor of Medicine",Neurology,D006,Active,09931136969,181583
+DR0052,"Patrick Reyes MD","Doctor of Medicine",Pediatrics,D002,Active,N/a,91142
+DR0053,"Dr. Samantha Rivera",Doctor,Cardiology,D001,Active,09913824787,118224
+DR0054,"Dr. Robert Dela Cruz",Doctor,"Internal Medicine",D003,Active,N/a,134675
+DR0055,"Dr. Jose Santos",Doctor,"Obstetrics & Gynecology",D007,Inactive,09969110121,0
+DR0056,"Dr. Elena Cruz",Doctor,Neurology,D006,Inactive,N/a,0
+DR0057,"Elena Navarro MD","Doctor of Medicine",Emergency,D004,Inactive,09964842647,0
+DR0058,"Robert Mendoza MD","Doctor of Medicine",Emergency,D004,Active,N/a,84686
+DR0059,"Dr. Nicole Ramos",Doctor,Neurology,D006,Inactive,N/a,0
+DR0060,"Maria Castillo MD","Doctor of Medicine",Cardiology,D001,Active,09914578708,169287
+DR0061,"Robert Bautista MD","Doctor of Medicine","General Surgery",D008,Active,N/a,207604.15
+DR0062,"Dr. Catherine Cruz",Doctor,Pediatrics,D002,Active,09979053800,179161
+DR0063,"Dr. Anthony Bautista",Doctor,Pediatrics,D002,Active,09382220589,118662
+DR0064,"Robert Torres MD","Doctor of Medicine",Pediatrics,D002,Inactive,09924916551,0
+DR0065,"Dr. Samantha Mendoza",Doctor,Pediatrics,D002,Active,09978572457,125736
+DR0066,"Dr. Maria Garcia",Doctor,Cardiology,D001,Active,09940926924,112132
+DR0067,"Samantha Reyes MD","Doctor of Medicine",Emergency,D004,Active,09555243922,204885
+DR0068,"Dr. Maria Gonzales",Doctor,"Obstetrics & Gynecology",D007,Active,09602515629,119273
+DR0069,"Dr. Jose Mendoza",Doctor,Pediatrics,D002,Active,N/a,72214
+DR0070,"Rafael Castillo MD","Doctor of Medicine","Internal Medicine",D003,Active,09307651703,135128
+DR0071,"Dr. Jose Garcia",Doctor,"Obstetrics & Gynecology",D007,Inactive,09988642156,0
+DR0072,"Dr. Elena Reyes",Doctor,Cardiology,D001,Inactive,N/a,0
+DR0073,"Dr. Catherine Torres",Doctor,Pediatrics,D002,Inactive,09909867273,0
+DR0074,"Dr. Maria Gonzales",Doctor,"General Surgery",D008,Active,09862091756,80787
+DR0075,"Catherine Ramos MD","Doctor of Medicine",Neurology,D006,Active,N/a,169836.12
+DR0076,"Maria Torres MD","Doctor of Medicine",Orthopedics,D005,Active,09453080404,136112
+DR0077,"Samantha Santos MD","Doctor of Medicine","General Surgery",D008,Active,09337782774,112831
+DR0078,"Dr. Jose Castillo",Doctor,"Obstetrics & Gynecology",D007,Active,09746029988,96305.91
+DR0079,"Jose Castillo MD","Doctor of Medicine","Obstetrics & Gynecology",D007,Active,N/a,150319
+DR0080,"Nicole Flores MD","Doctor of Medicine","Obstetrics & Gynecology",D007,Inactive,09294014050,0
+DR0081,"Dr. Jose Mendoza",Doctor,"General Surgery",D008,Active,09478351725,210448
+DR0082,"Elena Castillo MD","Doctor of Medicine","General Surgery",D008,Active,N/a,129944
+DR0083,"Samantha Castillo MD","Doctor of Medicine",Pediatrics,D002,Inactive,09677948180,0
+DR0084,"Anthony Santos MD","Doctor of Medicine",Neurology,D006,Active,09934990286,193228.78
+DR0085,"Dr. Anthony Flores",Doctor,Neurology,D006,Active,09488118171,160762
+DR0086,"Dr. Jose Garcia",Doctor,"Internal Medicine",D003,Inactive,09764078159,0
+DR0087,"Dr. Nicole Rivera",Doctor,"Internal Medicine",D003,Inactive,N/a,0
+DR0088,"Dr. Jose Flores",Doctor,Neurology,D006,Active,09364036006,109978
+DR0089,"Maria Cruz MD","Doctor of Medicine",Emergency,D004,Inactive,09996959001,0
+DR0090,"Maria Mendoza MD","Doctor of Medicine","General Surgery",D008,Active,N/a,193161
+DR0091,"Dr. Rafael Flores",Doctor,Orthopedics,D005,Active,09563172114,129634
+DR0092,"Dr. Catherine Bautista",Doctor,"Internal Medicine",D003,Active,09988465406,188762
+DR0093,"Dr. Patrick Navarro",Doctor,Pediatrics,D002,Active,N/a,194670
+DR0094,"Anthony Aquino MD","Doctor of Medicine","General Surgery",D008,Active,09734648986,121996.46
+DR0095,"Patrick Cruz MD","Doctor of Medicine","General Surgery",D008,Inactive,09170256320,0
+DR0096,"Dr. Maria Navarro",Doctor,"Internal Medicine",D003,Active,09585461980,106132
+DR0097,"Dr. Samantha Garcia",Doctor,Neurology,D006,Inactive,09754547044,0
+DR0098,"Jose Aquino MD","Doctor of Medicine","Internal Medicine",D003,Active,09990735381,169199
+DR0099,"Dr. Maria Torres",Doctor,Neurology,D006,Active,N/a,161881.18
+DR0100,"Dr. Robert Navarro",Doctor,Neurology,D006,Active,N/a,82360
+DR0101,"Maria Reyes MD","Doctor of Medicine",Cardiology,D001,Active,09171234567,91985.76

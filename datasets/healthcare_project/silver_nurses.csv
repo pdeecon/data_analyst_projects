@@ -1,0 +1,151 @@
+nurse_id,nurse_name,credentials,department_id,shift,phone,salary
+N0001,"Janet Cruz","Registered Nurse",D003,Rotating,09531029772,45000
+N0002,"Karen Cruz","Registered Nurse",D005,Day,09698219923,45000
+N0003,"Christine Reyes","Registered Nurse",D001,Day,09428814639,30000
+N0004,"Christine Reyes","Registered Nurse",D008,Night,09939309642,46604.15
+N0005,"Helen Bautista","Registered Nurse",D008,Night,09644740074,0
+N0006,"Helen Dela Cruz","Registered Nurse",D005,Rotating,09956849237,56365
+N0007,"Christine Cruz","Registered Nurse",D003,Night,N/a,32011
+N0008,"Christine Torres","Registered Nurse",D006,Night,09928975887,54204
+N0009,"Monica Dela Cruz","Registered Nurse",D001,Day,09970705148,0
+N0010,"Karen Rivera",Unknown,D004,Rotating,09580943225,57492.2
+N0011,"Monica Gonzales",Unknown,D007,Day,09627427501,56437
+N0012,"Joy Cruz",Unknown,D005,Day,09944347580,29222
+N0013,"Rose Santos","Registered Nurse",D003,Rotating,09893771221,62874.97
+N0014,"Janet Gonzales","Registered Nurse",D006,Night,09968224195,0
+N0015,"Joy Bautista","Registered Nurse",D004,Day,09590951003,64344
+N0016,"Rose Cruz","Registered Nurse",D001,Day,09840229517,27080
+N0017,"Anna Rivera","Registered Nurse",D006,Night,09518668865,33972
+N0018,"Michelle Reyes","Registered Nurse",D005,Day,09986576546,49699
+N0019,"Janet Gonzales","Registered Nurse",D007,Day,09303491909,34411.23
+N0020,"Helen Dela Cruz",Unknown,D001,Day,09238392700,41493
+N0021,"Christine Santos","Registered Nurse",D008,Day,09451538079,58029
+N0022,"Monica Mendoza","Registered Nurse",D005,Night,N/a,32226
+N0023,"Rose Santos",Unknown,D004,Night,09656440452,58885
+N0024,"Christine Garcia","Registered Nurse",D007,Night,09359583140,0
+N0025,"Leah Navarro","Registered Nurse",D008,Night,09915509893,33759.51
+N0026,"Rose Navarro","Registered Nurse",D001,Night,09930496460,54382
+N0027,"Karen Cruz","Registered Nurse",D001,Day,09508058768,64674.58
+N0028,"Rose Reyes","Registered Nurse",D006,Day,09174451234,0
+N0029,"Joy Reyes","Registered Nurse",D006,Day,09219578115,39999
+N0030,"Helen Navarro","Registered Nurse",D006,Rotating,09141263927,71256
+N0031,"Monica Dela Cruz","Registered Nurse",D007,Night,09228464715,74484.72
+N0032,"Anna Torres",Unknown,D007,Rotating,09992684709,54053.74
+N0033,"Leah Aquino","Registered Nurse",D006,Day,09930553823,47351.12
+N0034,"Michelle Mendoza","Registered Nurse",D007,Rotating,N/a,42343
+N0035,"Janet Reyes","Registered Nurse",D008,Day,09982678701,55622
+N0036,"Karen Garcia",Unknown,D007,Day,N/a,54545.4
+N0037,"Karen Bautista","Registered Nurse",D007,Night,09981126909,39737.49
+N0038,"Rose Aquino","Registered Nurse",D006,Day,09964788762,26140
+N0039,"Monica Reyes",Unknown,D002,Night,09800334617,32574
+N0040,"Rose Garcia","Registered Nurse",D003,Day,09655662313,0
+N0041,"Rose Gonzales","Registered Nurse",D005,Night,09930918595,45907
+N0042,"Michelle Gonzales","Registered Nurse",D008,Night,09918891652,49115.29
+N0043,"Helen Rivera","Registered Nurse",D002,Day,09109318850,48355.02
+N0044,"Christine Bautista","Registered Nurse",D004,Night,09170870891,64136.56
+N0045,"Helen Rivera",Unknown,D008,Rotating,09855488200,28247
+N0046,"Joy Reyes","Registered Nurse",D003,Day,09981444791,0
+N0047,"Joy Ramos",Unknown,D005,Night,09221719840,38792.14
+N0048,"Anna Reyes",Unknown,D008,Day,09923713347,49332
+N0049,"Leah Aquino","Registered Nurse",D008,Day,09628030831,0
+N0050,"Karen Santos","Registered Nurse",D003,Night,09962830211,49535
+N0051,"Karen Mendoza","Registered Nurse",D006,Night,09976404207,47058
+N0052,"Karen Flores","Registered Nurse",D004,Night,09125192142,71891.6
+N0053,"Michelle Dela Cruz","Registered Nurse",D005,Rotating,09462416787,33050
+N0054,"Leah Torres","Registered Nurse",D006,Night,09133687368,53586.8
+N0055,"Janet Gonzales","Registered Nurse",D008,Day,N/a,52112
+N0056,"Karen Bautista",Unknown,D007,Rotating,09956471424,48674
+N0057,"Leah Mendoza","Registered Nurse",D002,Day,09821348271,0
+N0058,"Anna Castillo","Registered Nurse",D002,Night,09933770928,0
+N0059,"Helen Castillo","Registered Nurse",D002,Day,09110356496,72688.11
+N0060,"Michelle Aquino",Unknown,D006,Day,09926371663,41578
+N0061,"Christine Reyes","Registered Nurse",D002,Day,09564897319,52250
+N0062,"Monica Bautista","Registered Nurse",D008,Night,N/a,51033.8
+N0063,"Janet Navarro","Registered Nurse",D008,Night,09910847369,67488
+N0064,"Janet Reyes","Registered Nurse",D002,Day,09935105164,46945
+N0065,"Monica Torres","Registered Nurse",D007,Night,09334381558,39227
+N0066,"Karen Navarro","Registered Nurse",D001,Rotating,09402203708,26080
+N0067,"Leah Bautista","Registered Nurse",D007,Day,09112824802,0
+N0068,"Helen Castillo","Registered Nurse",D002,Night,N/a,0
+N0069,"Karen Cruz","Registered Nurse",D008,Rotating,09686173802,25495.6
+N0070,"Karen Gonzales",Unknown,D008,Rotating,N/a,69808.41
+N0071,"Michelle Reyes",Unknown,D007,Day,N/a,52141
+N0072,"Karen Dela Cruz",Unknown,D003,Night,09736661428,32012
+N0073,"Monica Cruz","Registered Nurse",D005,Rotating,09912909930,40108.65
+N0074,"Janet Flores","Registered Nurse",D004,Night,N/a,52701
+N0075,"Monica Flores","Registered Nurse",D008,Day,N/a,40784.45
+N0076,"Helen Mendoza","Registered Nurse",D004,Night,09630677125,30428.25
+N0077,"Janet Torres","Registered Nurse",D006,Rotating,09993011005,58299
+N0078,"Joy Mendoza","Registered Nurse",D006,Night,09496820123,58612
+N0079,"Leah Bautista",Unknown,D004,Night,09435589891,30943.82
+N0080,"Joy Bautista","Registered Nurse",D004,Night,09994917104,0
+N0081,"Rose Cruz",Unknown,D001,Rotating,09512434889,37193.07
+N0082,"Christine Ramos",Unknown,D008,Night,N/a,57971
+N0083,"Rose Castillo","Registered Nurse",D003,Rotating,09917921698,61514
+N0084,"Anna Bautista","Registered Nurse",D008,Night,09443691318,61349
+N0085,"Helen Rivera","Registered Nurse",D004,Night,09926154770,71938
+N0086,"Joy Castillo","Registered Nurse",D004,Day,09911464854,63432
+N0087,"Michelle Mendoza","Registered Nurse",D001,Day,N/a,41033
+N0088,"Monica Ramos","Registered Nurse",D008,Rotating,09946715535,30387.31
+N0089,"Helen Cruz","Registered Nurse",D003,Night,09238014139,55732.92
+N0090,"Karen Ramos",Unknown,D006,Night,N/a,70800
+N0091,"Karen Gonzales","Registered Nurse",D006,Night,09791057464,73757
+N0092,"Helen Castillo","Registered Nurse",D001,Night,09918573546,36510
+N0093,"Christine Ramos","Registered Nurse",D004,Day,09910309537,36822
+N0094,"Monica Bautista","Registered Nurse",D008,Day,N/a,26870
+N0095,"Michelle Ramos","Registered Nurse",D004,Day,09925468478,32063
+N0096,"Rose Dela Cruz","Registered Nurse",D001,Night,09915690138,52742
+N0097,"Michelle Flores","Registered Nurse",D006,Rotating,09516102081,52340
+N0098,"Joy Castillo","Registered Nurse",D008,Day,09819022698,43546
+N0099,"Rose Aquino","Registered Nurse",D004,Night,09725711439,40497
+N0100,"Helen Rivera","Registered Nurse",D003,Day,09675711233,66489
+N0101,"Janet Ramos","Registered Nurse",D007,Night,09909752996,0
+N0102,"Rose Bautista","Registered Nurse",D007,Day,N/a,65412
+N0103,"Helen Torres",Unknown,D004,Night,09915591522,73160
+N0104,"Rose Castillo","Registered Nurse",D004,Night,09978170803,40856
+N0105,"Rose Aquino","Registered Nurse",D004,Night,09951594284,35136.59
+N0106,"Karen Garcia",Unknown,D007,Rotating,N/a,72644
+N0107,"Leah Ramos","Registered Nurse",D004,Day,09761822587,56741
+N0108,"Anna Mendoza","Registered Nurse",D005,Day,09509547590,0
+N0109,"Karen Garcia","Registered Nurse",D007,Rotating,09548213757,56092.32
+N0110,"Anna Rivera","Registered Nurse",D005,Night,09382099523,50752
+N0111,"Anna Rivera",Unknown,D003,Day,N/a,70276.88
+N0112,"Helen Navarro","Registered Nurse",D005,Day,09985595538,37798
+N0113,"Rose Santos",Unknown,D007,Day,N/a,0
+N0114,"Michelle Dela Cruz","Registered Nurse",D002,Rotating,09947791498,71802.04
+N0115,"Janet Dela Cruz","Registered Nurse",D004,Night,09840533109,34035
+N0116,"Helen Flores",Unknown,D008,Night,09868336705,33230
+N0117,"Helen Bautista",Unknown,D008,Night,09960099110,51657.25
+N0118,"Karen Navarro","Registered Nurse",D007,Night,09499588430,27245
+N0119,"Janet Reyes",Unknown,D007,Rotating,09921602526,0
+N0120,"Karen Rivera","Registered Nurse",D008,Day,09909282771,46754
+N0121,"Karen Ramos","Registered Nurse",D006,Night,09931398059,73468.05
+N0122,"Monica Santos",Unknown,D002,Night,09684112050,74618
+N0123,"Janet Rivera","Registered Nurse",D004,Rotating,N/a,32576
+N0124,"Joy Torres",Unknown,D004,Night,09964760624,69583
+N0125,"Leah Reyes","Registered Nurse",D001,Night,09958923889,29546.1
+N0126,"Janet Garcia",Unknown,D005,Night,09681932510,62430
+N0127,"Anna Dela Cruz","Registered Nurse",D002,Night,N/a,67282
+N0128,"Christine Gonzales","Registered Nurse",D007,Day,N/a,69539.05
+N0129,"Karen Garcia","Registered Nurse",D007,Night,N/a,36170
+N0130,"Anna Cruz","Registered Nurse",D006,Day,09374644018,69672.1
+N0131,"Monica Navarro","Registered Nurse",D008,Day,N/a,30799.9
+N0132,"Janet Ramos","Registered Nurse",D002,Night,N/a,50942.98
+N0133,"Karen Garcia",Unknown,D001,Rotating,09984172174,48477
+N0134,"Helen Gonzales","Registered Nurse",D001,Night,09737189607,40796.78
+N0135,"Joy Reyes",Unknown,D005,Night,09801918173,0
+N0136,"Helen Santos",Unknown,D003,Day,09142758702,0
+N0137,"Monica Santos","Registered Nurse",D002,Night,N/a,0
+N0138,"Michelle Castillo",Unknown,D001,Rotating,09939987280,0
+N0139,"Leah Castillo","Registered Nurse",D002,Night,N/a,0
+N0140,"Leah Bautista",Unknown,D001,Night,N/a,43682
+N0141,"Leah Dela Cruz","Registered Nurse",D007,Night,09853818040,69314.51
+N0142,"Janet Rivera","Registered Nurse",D008,Day,09644509042,29723
+N0143,"Michelle Santos","Registered Nurse",D004,Day,N/a,61830.46
+N0144,"Christine Castillo","Registered Nurse",D007,Day,09915335928,62339.39
+N0145,"Janet Reyes",Unknown,D001,Rotating,09164418051,0
+N0146,"Joy Torres","Registered Nurse",D001,Rotating,N/a,0
+N0147,"Rose Garcia",Unknown,D008,Day,09329912272,25265
+N0148,"Michelle Torres","Registered Nurse",D003,Day,09978905312,71840
+N0149,"Monica Flores","Registered Nurse",D004,Rotating,09536359513,72386
+N0150,"Karen Castillo",Unknown,D001,Night,09960154780,37048

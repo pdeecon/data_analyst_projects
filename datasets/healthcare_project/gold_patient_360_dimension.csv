@@ -1,0 +1,1004 @@
+patient_id,patient_name,gender,date_of_birth,age,city,country,patient_status,total_visits,completed_visits,cancelled_visits,total_amount,total_paid_amount,outstanding_amount,total_prescriptions,total_diagnosis,first_visit_date,last_visit_date
+P00001,"Ana Dela Cruz",Female,1964-09-03,59,"Manila City",Philippines,Active,3,0,1,388531.57,256591.89,131939.68,1,2,2023-06-10,2024-06-06
+P00002,"Sofia Garcia",Male,1994-01-03,31,"Caloocan City",Philippines,Active,10,3,2,357575.61,275308.96,82266.65,4,5,2023-01-15,2025-11-13
+P00003,"Liza Bautista",Male,1953-12-12,71,"San Fernando City",Philippines,Active,6,1,0,229870.62,160548.76,69321.86,0,3,2023-10-23,2025-09-08
+P00004,"Grace Ramos",Male,1973-12-16,51,"Manila City",Philippines,Inactive,2,0,0,221937.79,108856.92,113080.87,0,7,2023-09-12,2025-03-18
+P00005,"Jose Flores",Female,2017-09-25,7,"Pasig City",Philippines,Active,4,2,0,247407.56,139882.02,107525.54,3,3,2023-09-29,2025-04-07
+P00006,"Thomas Torres",Female,1987-12-02,37,"Manila City",Philippines,Active,3,1,0,292193.36,103805.30,188388.06,3,2,2024-11-02,2025-08-25
+P00007,"John Gonzales",Male,1945-12-08,78,"Makati City",Philippines,Active,3,0,0,213642.58,213642.58,0.00,3,2,2023-09-27,2024-05-24
+P00008,"Daniel Navarro",Male,1988-05-09,36,"Meycauayan City",Philippines,Active,3,0,0,266001.04,128299.10,137701.94,1,2,2023-03-12,2025-02-08
+P00009,"Maria Flores",Male,1953-09-17,71,"Malolos City",Philippines,Active,3,3,0,160114.01,146581.67,13532.34,3,2,2023-06-06,2025-05-11
+P00010,"Ana Torres",Male,2007-05-13,17,"Malolos City",Philippines,Inactive,3,1,1,430607.82,337527.20,93080.62,4,0,2023-08-01,2025-03-01
+P00011,"Andrea Castillo",Female,1985-07-18,39,"Makati City",Philippines,Inactive,5,0,1,228437.53,207881.79,20555.74,1,0,2023-07-16,2025-04-13
+P00012,"Kevin Dela Cruz",Male,1972-07-25,53,"Quezon  City",Philippines,Active,5,2,0,53349.55,0.00,53349.55,1,3,2023-04-14,2025-09-18
+P00013,"Kevin Ramos",Female,1963-10-12,59,"Malolos City",Philippines,Active,2,0,1,38318.48,38318.48,0.00,4,1,2023-04-01,2023-04-13
+P00014,"Daniel Garcia",Male,1970-05-01,53,"Pasig City",Philippines,Active,2,0,0,37964.30,37964.30,0.00,4,0,2023-07-08,2023-08-26
+P00015,"John Santos",Male,1961-05-08,64,"Angeles City",Philippines,Active,2,2,0,358863.94,321860.27,37003.67,3,1,2023-06-17,2025-05-09
+P00016,"Ana Torres",Female,1971-10-14,53,"San Fernando City",Philippines,Active,5,2,0,74215.59,74215.59,0.00,2,1,2023-05-30,2025-08-07
+P00017,"Sofia Garcia",Male,1980-03-31,43,"Malolos City",Philippines,Active,1,1,0,262676.63,199716.58,62960.05,5,1,2023-07-20,2023-07-20
+P00018,"Luis Flores",Male,1948-05-14,77,"Manila City",Philippines,Unknown,3,1,0,133142.55,86322.36,46820.19,4,4,2024-12-06,2025-06-16
+P00019,"Juan Gonzales",Male,2010-05-05,15,"Pasig City",Philippines,Active,3,1,0,475770.96,192995.22,282775.74,3,2,2023-05-05,2025-05-11
+P00020,"John Dela Cruz",Male,1992-05-29,33,"Quezon  City",Philippines,Active,3,0,1,341703.86,221584.68,120119.18,2,4,2023-10-08,2025-06-09
+P00021,"Ramon Santos",Male,1962-02-01,63,"Malolos City",Philippines,Inactive,7,3,1,61978.81,47329.13,14649.68,2,2,2023-09-12,2025-11-13
+P00022,"Sofia Torres",Female,1968-03-09,57,"Manila City",Philippines,Active,3,0,0,228466.61,180264.81,48201.80,6,4,2023-01-28,2025-04-06
+P00023,"Jose Ramos",Female,1985-05-20,39,"Malolos City",Philippines,Active,5,1,1,124837.34,68048.79,56788.55,4,2,2024-04-29,2025-01-22
+P00024,"Luis Mendoza",Female,1949-04-17,76,"Pasig City",Philippines,Active,5,1,1,55488.64,0.00,55488.64,1,3,2023-04-01,2025-07-13
+P00025,"Angela Ramos",Female,1962-07-12,62,"Makati City",Philippines,Active,1,0,0,389534.53,318504.51,71030.02,2,3,2024-10-08,2024-10-08
+P00026,"Grace Ramos",Female,1978-05-15,46,"Malolos City",Philippines,Unknown,5,1,0,278992.66,278992.66,0.00,4,2,2023-04-04,2025-02-17
+P00027,"Carlos Dela Cruz",Male,1972-09-17,50,"Angeles City",Philippines,Active,2,1,1,207375.26,207375.26,0.00,4,4,2023-01-27,2023-06-03
+P00028,"Miguel Castillo",Unknown,1955-11-19,67,"Caloocan City",Philippines,Active,2,0,2,227777.60,200106.36,27671.24,3,2,2023-03-16,2023-03-21
+P00029,"Ramon Flores",Male,2017-01-10,8,"Pasig City",Philippines,Active,3,1,1,133055.88,114977.83,18078.05,3,0,2024-07-21,2025-10-19
+P00030,"Ramon Bautista",Male,2017-07-18,8,"San Fernando City",Philippines,Active,2,1,0,469571.06,424050.69,45520.37,3,2,2024-10-14,2025-08-09
+P00031,"Angela Reyes",Male,1963-10-25,61,"Meycauayan City",Philippines,Unknown,3,1,1,278338.62,278338.62,0.00,3,5,2024-05-02,2025-06-08
+P00032,"Bea Garcia",Male,1943-12-25,81,"San Fernando City",Philippines,Active,5,1,0,353180.28,260298.75,92881.53,0,1,2023-12-11,2025-05-08
+P00033,"Mark Ramos",Male,1999-10-30,25,"Angeles City",Philippines,Inactive,4,0,1,181648.89,159241.94,22406.95,4,6,2023-11-07,2025-08-30
+P00034,"Ramon Ramos",Unknown,1940-01-14,84,"Pasig City",Philippines,Active,1,0,0,266016.15,155552.02,110464.13,3,2,2024-11-22,2024-11-22
+P00035,"Jose Mendoza",Male,1999-07-23,25,"Makati City",Philippines,Active,2,0,0,566915.17,503922.32,62992.85,2,2,2025-03-05,2025-04-19
+P00036,"Daniel Cruz",Male,2016-03-26,9,"Pasig City",Philippines,Active,1,0,0,139672.75,120759.04,18913.71,1,2,2025-09-18,2025-09-18
+P00037,"Ana Castillo",Female,1959-08-19,66,"Malolos City",Philippines,Unknown,2,1,0,151573.48,41012.98,110560.50,3,5,2025-07-12,2025-09-08
+P00038,"Andrea Ramos",Male,1968-06-19,56,"Malolos City",Philippines,Active,2,0,0,454087.28,355126.56,98960.72,0,1,2023-07-12,2025-04-17
+P00039,"Angela Castillo",Unknown,1986-10-07,39,"Pasig City",Philippines,Inactive,4,1,0,39340.89,29505.67,9835.22,2,4,2024-01-21,2025-12-25
+P00040,"John Rivera",Male,1947-03-25,77,"Angeles City",Philippines,Unknown,5,2,1,0.00,0.00,0.00,1,0,2023-07-17,2024-11-07
+P00041,"Liza Dela Cruz",Female,2014-09-21,9,"San Fernando City",Philippines,Unknown,4,2,0,336886.26,252314.19,84572.07,4,5,2023-01-25,2024-06-19
+P00042,"Liza Ramos",Female,2005-11-27,18,"Malolos City",Philippines,Unknown,3,0,0,344206.45,319037.54,25168.91,4,0,2023-01-04,2023-12-16
+P00043,"John Torres",Female,2011-08-09,14,"Malolos City",Philippines,Active,3,1,0,46829.29,28766.59,18062.70,3,3,2023-04-03,2025-09-16
+P00044,"Liza Reyes",Unknown,1981-06-02,43,"San Fernando City",Philippines,Inactive,3,2,0,164153.40,113117.05,51036.35,1,2,2024-05-15,2024-10-26
+P00045,"Liza Mendoza",Unknown,1947-05-07,78,"Manila City",Philippines,Active,5,3,0,20036.02,20036.02,0.00,1,1,2023-10-06,2025-12-28
+P00046,"Sofia Flores",Male,1995-09-28,29,"San Fernando City",Philippines,Active,2,0,2,164689.67,164689.67,0.00,3,7,2023-12-24,2024-12-27
+P00047,"Miguel Mendoza",Male,1991-12-01,34,"Quezon  City",Philippines,Active,7,3,1,319517.52,173640.75,145876.77,0,2,2023-05-05,2025-12-15
+P00048,"Mark Flores",Female,1993-11-12,30,"San Fernando City",Philippines,Inactive,4,0,0,0.00,0.00,0.00,4,0,2023-02-13,2024-09-01
+P00049,"Juan Flores",Female,2013-10-10,11,"Meycauayan City",Philippines,Unknown,2,0,0,468897.59,136914.49,331983.10,1,2,2024-01-13,2025-07-15
+P00050,"Grace Gonzales",Unknown,2005-08-01,20,"Pasig City",Philippines,Unknown,4,1,0,260368.23,137436.46,122931.77,2,2,2023-06-24,2025-09-14
+P00051,"John Dela Cruz",Female,2016-05-05,9,"Malolos City",Philippines,Active,2,0,1,0.00,0.00,0.00,1,3,2023-04-14,2025-12-28
+P00052,"Andrea Garcia",Male,1961-08-26,63,"Malolos City",Philippines,Active,2,0,0,57047.60,50757.80,6289.80,2,2,2024-01-10,2025-04-22
+P00053,"Mark Garcia",Female,2002-01-23,23,"San Fernando City",Philippines,Inactive,1,1,0,35550.92,21892.91,13658.01,3,2,2025-03-21,2025-03-21
+P00054,"Patricia Navarro",Female,1964-04-21,59,"Makati City",Philippines,Active,2,2,0,24702.06,24702.06,0.00,2,2,2023-09-29,2024-02-29
+P00055,"Kevin Mendoza",Female,1992-11-22,32,"Makati City",Philippines,Active,7,1,2,130401.04,44992.39,85408.65,2,6,2023-07-06,2025-05-17
+P00056,"Luis Reyes",Male,1944-01-31,79,"Malolos City",Philippines,Unknown,2,0,0,60712.42,0.00,60712.42,2,3,2023-05-30,2023-11-28
+P00057,"Kevin Cruz",Male,1956-07-16,68,"Malolos City",Philippines,Active,4,2,0,298531.98,262016.40,36515.58,1,4,2023-03-21,2024-07-25
+P00058,"Carlos Castillo",Male,1967-04-05,58,"Angeles City",Philippines,Unknown,2,0,1,0.00,0.00,0.00,3,4,2025-07-04,2025-08-20
+P00059,"Mark Flores",Male,1978-06-21,46,"Caloocan City",Philippines,Active,3,1,1,165278.98,32001.04,133277.94,1,2,2023-07-03,2025-06-18
+P00060,"Daniel Reyes",Male,1946-09-25,NULL,"Caloocan City",Philippines,Unknown,0,0,0,147835.86,147835.86,0.00,1,2,NULL,NULL
+P00061,"Jose Torres",Female,1963-09-25,61,"Caloocan City",Philippines,Active,5,2,1,243122.41,144569.19,98553.22,2,5,2023-03-08,2025-04-19
+P00062,"Maria Reyes",Unknown,1967-08-06,58,"Angeles City",Philippines,Unknown,5,3,0,386696.10,299387.74,87308.36,1,2,2024-06-18,2025-10-30
+P00063,"Grace Santos",Male,1943-07-30,81,"Malolos City",Philippines,Inactive,2,0,1,46707.08,46707.08,0.00,3,3,2023-05-06,2024-10-27
+P00064,"Bea Dela Cruz",Unknown,2007-11-06,15,"Angeles City",Philippines,Active,1,1,0,264707.92,264341.25,366.67,2,1,2023-07-21,2023-07-21
+P00065,"Kevin Bautista",Female,1969-11-25,56,"Caloocan City",Philippines,Active,3,1,0,128283.58,128283.58,0.00,1,2,2023-02-06,2025-12-20
+P00066,"Grace Santos",Male,1962-08-23,62,"Pasig City",Philippines,Unknown,2,2,0,281873.00,141661.62,140211.38,4,1,2023-10-01,2025-01-23
+P00067,"Grace Castillo",Male,1958-04-06,66,"Malolos City",Philippines,Active,1,1,0,0.00,0.00,0.00,3,3,2024-04-27,2024-04-27
+P00068,"Mark Ramos",Male,1989-07-18,35,"Malolos City",Philippines,Inactive,3,0,2,286613.71,223622.77,62990.94,4,6,2024-09-02,2025-03-21
+P00069,"Liza Flores",Female,1982-05-13,43,"Meycauayan City",Philippines,Active,6,1,3,137046.92,124701.24,12345.68,2,3,2023-01-31,2025-10-19
+P00070,"Angela Castillo",Unknown,2016-08-26,8,"Malolos City",Philippines,Active,3,1,0,195551.29,46680.17,148871.12,2,3,2023-08-30,2024-10-08
+P00071,"Grace Ramos",Female,1970-12-18,53,"Pasig City",Philippines,Active,2,0,1,559765.69,418323.22,141442.47,2,4,2023-04-17,2024-06-06
+P00072,"Liza Dela Cruz",Male,2006-10-23,18,"Makati City",Philippines,Active,4,2,0,190218.83,0.00,190218.83,4,3,2023-03-15,2025-06-15
+P00073,"Grace Santos",Male,2021-09-05,3,"San Fernando City",Philippines,Active,1,0,0,277032.99,190191.62,86841.37,1,3,2024-12-20,2024-12-20
+P00074,"John Flores",Female,2017-02-03,7,"Pasig City",Philippines,Active,3,0,1,84546.83,84546.83,0.00,3,2,2024-08-30,2025-01-18
+P00075,"Jose Gonzales",Male,2008-03-19,17,"Manila City",Philippines,Inactive,6,2,1,0.00,0.00,0.00,2,1,2023-12-10,2025-12-06
+P00076,"Patricia Gonzales",Female,1961-11-27,63,"Malolos City",Philippines,Active,2,0,0,415187.29,263920.46,151266.83,1,5,2024-12-12,2025-08-29
+P00077,"Kevin Rivera",Male,1952-11-02,72,"Malolos City",Philippines,Active,5,1,0,272839.45,223082.26,49757.19,3,6,2023-06-02,2025-09-23
+P00078,"Jose Cruz",Male,1992-09-17,32,"Pasig City",Philippines,Unknown,2,1,0,547747.29,361335.96,186411.33,2,1,2023-11-13,2025-04-01
+P00079,"Ana Garcia",Female,1991-04-23,32,"Caloocan City",Philippines,Active,4,0,0,203863.03,118625.82,85237.21,5,2,2023-01-01,2024-03-31
+P00080,"Thomas Navarro",Female,2014-09-19,NULL,"Malolos City",Philippines,Active,0,0,0,429658.46,260423.50,169234.96,2,4,NULL,NULL
+P00081,"Ana Rivera",Female,1997-12-26,26,"San Fernando City",Philippines,Active,2,1,1,178869.14,145578.42,33290.72,2,5,2023-02-09,2024-07-31
+P00082,"Sofia Reyes",Unknown,1988-05-23,36,"Caloocan City",Philippines,Active,4,3,1,297486.30,297486.30,0.00,5,4,2023-01-30,2024-11-18
+P00083,"Grace Santos",Female,2007-08-29,18,"Manila City",Philippines,Active,3,1,0,426559.02,293468.43,133090.59,3,3,2023-01-14,2025-12-30
+P00084,"Grace Bautista",Female,2007-03-13,18,"Malolos City",Philippines,Inactive,3,2,1,22171.51,11085.75,11085.76,4,1,2023-10-25,2025-09-19
+P00085,"Thomas Garcia",Female,1945-09-02,80,"Manila City",Philippines,Unknown,2,1,1,411020.50,400192.64,10827.86,1,3,2025-03-22,2025-10-06
+P00086,"Ana Santos",Female,2019-08-07,4,"Angeles City",Philippines,Unknown,3,0,1,358948.26,116507.52,242440.74,2,2,2023-10-16,2024-03-21
+P00087,"Thomas Gonzales",Male,1942-12-08,82,"Meycauayan City",Philippines,Active,2,0,0,334002.85,294343.59,39659.26,2,1,2024-08-12,2025-02-11
+P00088,"Ramon Mendoza",Female,1950-12-16,74,"Pasig City",Philippines,Active,4,2,0,313335.02,210641.91,102693.11,1,6,2023-02-03,2025-07-05
+P00089,"Jose Flores",Unknown,1989-09-20,35,"Malolos City",Philippines,Inactive,6,2,0,307251.68,225559.85,81691.83,4,3,2023-05-18,2025-08-07
+P00090,"Carlos Reyes",Male,1962-06-27,62,"Malolos City",Philippines,Active,2,1,1,412451.24,289500.13,122951.11,3,2,2024-11-11,2025-01-17
+P00091,"Miguel Mendoza",Male,1951-05-16,72,"Meycauayan City",Philippines,Unknown,2,2,0,218611.93,189965.57,28646.36,2,1,2024-01-11,2024-02-07
+P00092,"Andrea Garcia",Male,1943-11-21,81,"Angeles City",Philippines,Unknown,3,1,1,451027.57,263514.86,187512.71,0,3,2023-04-12,2025-02-22
+P00093,"Grace Santos",Male,1968-11-23,55,"Meycauayan City",Philippines,Unknown,4,1,0,141538.61,70769.30,70769.31,3,4,2023-02-15,2024-01-05
+P00094,"Andrea Aquino",Female,1948-11-23,75,"Angeles City",Philippines,Unknown,1,0,1,232945.79,76596.98,156348.81,1,0,2024-11-01,2024-11-01
+P00095,"Ramon Gonzales",Female,1948-07-12,77,"Malolos City",Philippines,Active,5,3,0,83293.72,79844.34,3449.38,1,3,2023-06-22,2025-08-20
+P00096,"Jose Santos",Female,1948-08-30,77,"Angeles City",Philippines,Unknown,6,2,0,313468.09,148721.24,164746.85,4,2,2023-01-10,2025-12-20
+P00097,"Maria Mendoza",Male,1968-01-12,57,"Pasig City",Philippines,Inactive,6,1,1,291628.05,71611.79,220016.26,2,2,2023-01-21,2025-07-04
+P00098,"Luis Bautista",Male,2008-06-01,17,"Manila City",Philippines,Inactive,4,1,1,153534.67,118636.09,34898.58,4,1,2023-10-18,2025-09-26
+P00099,"Mark Rivera",Male,1971-06-29,54,"Quezon  City",Philippines,Unknown,1,1,0,0.00,0.00,0.00,2,5,2025-08-16,2025-08-16
+P00100,"Liza Cruz",Male,1954-02-13,71,"Malolos City",Philippines,Active,3,1,0,305403.58,188412.94,116990.64,1,3,2023-02-25,2025-12-10
+P00101,"Angela Cruz",Female,1978-01-15,47,"Quezon  City",Philippines,Unknown,1,1,0,315458.62,278486.88,36971.74,1,1,2025-11-27,2025-11-27
+P00102,"Ana Mendoza",Female,2000-11-13,22,"Malolos City",Philippines,Active,1,0,0,282722.78,177354.21,105368.57,1,3,2023-02-07,2023-02-07
+P00103,"Sofia Mendoza",Female,2008-11-03,15,"Angeles City",Philippines,Active,1,0,0,78412.04,0.00,78412.04,0,1,2024-08-31,2024-08-31
+P00104,"Ramon Ramos",Female,1960-08-23,65,"Angeles City",Philippines,Unknown,3,1,0,279845.48,203191.54,76653.94,5,1,2023-06-30,2025-10-26
+P00105,"Jose Flores",Male,1991-08-27,33,"Manila City",Philippines,Active,3,1,1,0.00,0.00,0.00,3,2,2024-12-04,2025-03-10
+P00106,"Thomas Cruz",Unknown,2001-11-13,23,"Meycauayan City",Philippines,Unknown,2,0,1,129416.68,85367.41,44049.27,3,4,2024-06-17,2025-01-07
+P00107,"Mark Navarro",Male,1959-11-17,65,"Pasig City",Philippines,Inactive,4,0,0,0.00,0.00,0.00,2,4,2023-02-17,2025-03-30
+P00108,"Carlos Garcia",Male,1953-02-19,72,"Malolos City",Philippines,Inactive,3,0,2,365938.47,270660.33,95278.14,3,4,2023-02-14,2025-11-14
+P00109,"John Reyes",Female,1946-02-15,79,"Quezon  City",Philippines,Unknown,3,1,0,135836.52,67918.26,67918.26,3,3,2023-09-27,2025-11-28
+P00110,"Grace Dela Cruz",Male,1973-01-29,51,"Meycauayan City",Philippines,Unknown,5,2,1,321858.92,276511.83,45347.09,3,2,2023-04-09,2024-12-26
+P00111,"Bea Torres",Female,1968-11-04,57,"Quezon  City",Philippines,Active,5,1,2,518524.49,490562.35,27962.14,5,2,2023-06-10,2026-01-04
+P00112,"Daniel Navarro",Female,1979-06-03,43,"Angeles City",Philippines,Inactive,1,0,0,68137.51,51103.13,17034.38,3,2,2023-03-28,2023-03-28
+P00113,"Thomas Dela Cruz",Unknown,1996-08-06,27,"Makati City",Philippines,Active,3,1,1,291030.45,228791.40,62239.05,3,4,2023-04-15,2024-02-16
+P00114,"Bea Torres",Female,1971-05-20,52,"Angeles City",Philippines,Active,1,1,0,493859.06,417361.29,76497.77,3,1,2024-01-11,2024-01-11
+P00115,"Andrea Santos",Female,2000-02-24,25,"San Fernando City",Philippines,Active,1,0,0,304376.05,189976.48,114399.57,2,3,2025-08-29,2025-08-29
+P00116,"Daniel Reyes",Female,1946-12-03,78,"Malolos City",Philippines,Unknown,4,0,0,264526.65,136966.48,127560.17,2,2,2023-03-13,2025-05-18
+P00117,"Carlos Reyes",Female,2014-08-01,9,"Pasig City",Philippines,Inactive,2,1,0,247550.69,178017.57,69533.12,6,4,2023-04-05,2023-11-19
+P00118,"Grace Garcia",Male,1961-06-16,64,"Malolos City",Philippines,Inactive,4,0,0,22923.76,16012.92,6910.84,2,3,2023-06-19,2025-09-30
+P00119,"Ramon Ramos",Male,1977-07-23,47,"San Fernando City",Philippines,Active,1,0,0,305189.21,125133.85,180055.36,2,4,2024-08-17,2024-08-17
+P00120,"Mark Santos",Unknown,1954-05-20,70,"Malolos City",Philippines,Active,2,0,0,154169.71,119612.01,34557.70,1,3,2023-10-08,2024-07-17
+P00121,"Liza Dela Cruz",Female,1985-01-13,38,"Quezon  City",Philippines,Active,1,0,0,333215.95,333215.95,0.00,3,4,2023-10-03,2023-10-03
+P00122,"Carlos Dela Cruz",Male,2014-06-10,11,"Quezon  City",Philippines,Inactive,4,0,0,219784.38,93341.33,126443.05,1,3,2023-09-06,2025-08-14
+P00123,"Sofia Flores",Female,1989-03-27,35,"Manila City",Philippines,Unknown,3,1,0,236312.52,166578.02,69734.50,2,3,2023-05-03,2024-10-09
+P00124,"Thomas Cruz",Male,1949-12-11,75,"Caloocan City",Philippines,Active,2,0,0,158060.53,141193.14,16867.39,1,2,2024-01-06,2025-05-21
+P00125,"Thomas Bautista",Female,1991-03-13,34,"Meycauayan City",Philippines,Unknown,4,0,1,293501.71,293501.71,0.00,5,2,2023-03-09,2025-10-24
+P00126,"Kevin Dela Cruz",Female,1974-09-16,49,"Malolos City",Philippines,Active,1,1,0,592183.78,150345.73,441838.05,6,5,2023-11-27,2023-11-27
+P00127,"Maria Bautista",Male,1970-05-16,54,"Quezon  City",Philippines,Active,2,1,0,136035.38,72176.25,63859.13,1,4,2024-09-26,2025-03-22
+P00128,"Mark Garcia",Male,2010-12-22,14,"Malolos City",Philippines,Active,3,0,0,79817.48,79817.48,0.00,3,1,2023-12-27,2025-10-09
+P00129,"Sofia Mendoza",Male,2017-05-06,7,"Malolos City",Philippines,Inactive,1,0,0,107380.96,107380.96,0.00,1,3,2024-06-18,2024-06-18
+P00130,"Miguel Cruz",Female,1984-08-19,41,"Malolos City",Philippines,Inactive,8,2,0,296027.52,90693.42,205334.10,3,2,2023-06-23,2025-10-27
+P00131,"John Santos",Male,1969-06-02,54,"San Fernando City",Philippines,Active,1,0,0,390120.75,306869.78,83250.97,2,2,2024-03-24,2024-03-24
+P00132,"Patricia Aquino",Female,1964-08-18,60,"Makati City",Philippines,Active,3,2,0,253645.27,253645.27,0.00,2,5,2023-10-15,2024-11-03
+P00133,"Carlos Santos",Female,2009-11-04,15,"San Fernando City",Philippines,Unknown,4,0,1,398068.29,309939.43,88128.86,1,2,2023-03-18,2025-07-14
+P00134,"Jose Aquino",Female,1987-07-02,37,"Manila City",Philippines,Unknown,2,0,0,35216.55,35216.55,0.00,2,2,2024-06-01,2025-05-16
+P00135,"Andrea Gonzales",Male,1950-07-25,73,"Malolos City",Philippines,Active,1,0,0,86816.57,55977.52,30839.05,9,3,2024-03-19,2024-03-19
+P00136,"Carlos Flores",Male,1980-07-21,45,"Meycauayan City",Philippines,Inactive,6,1,2,236020.16,146778.36,89241.80,3,3,2023-05-03,2026-01-05
+P00137,"Miguel Navarro",Female,2002-10-26,22,"Pasig City",Philippines,Active,2,2,0,247662.68,63222.68,184440.00,4,2,2024-06-19,2025-01-13
+P00138,"Patricia Ramos",Male,1973-02-04,52,"Malolos City",Philippines,Unknown,3,0,0,167068.20,167068.20,0.00,3,5,2024-04-30,2025-08-29
+P00139,"Bea Santos",Female,1968-06-10,57,"Malolos City",Philippines,Active,4,1,2,210095.09,210095.09,0.00,1,1,2024-01-22,2025-10-28
+P00140,"Liza Ramos",Unknown,1944-12-20,79,"San Fernando City",Philippines,Active,4,2,1,257434.39,133505.16,123929.23,3,0,2023-10-10,2024-11-27
+P00141,"Angela Garcia",Female,1989-06-01,NULL,"Malolos City",Philippines,Active,0,0,0,177018.13,54740.50,122277.63,2,2,NULL,NULL
+P00142,"Thomas Navarro",Male,1970-04-16,54,"Malolos City",Philippines,Active,3,0,1,214576.75,52430.20,162146.55,1,3,2024-06-21,2024-11-05
+P00143,"Kevin Rivera",Female,1988-12-11,36,"Quezon  City",Philippines,Active,4,1,1,9562.87,4781.44,4781.43,3,5,2023-08-11,2025-02-27
+P00144,"Grace Gonzales",Female,1981-08-31,43,"Angeles City",Philippines,Inactive,3,2,1,123812.84,70407.65,53405.19,1,2,2023-02-12,2025-06-08
+P00145,"Andrea Ramos",Male,1968-08-17,55,"Manila City",Philippines,Unknown,2,0,1,393410.97,372998.94,20412.03,6,1,2023-11-02,2024-06-25
+P00146,"Thomas Gonzales",Female,2017-08-18,7,"Malolos City",Philippines,Unknown,3,0,0,0.00,0.00,0.00,1,5,2023-07-14,2025-06-15
+P00147,"Mark Cruz",Male,1948-01-29,NULL,"Caloocan City",Philippines,Unknown,0,0,0,113968.10,113968.10,0.00,3,1,NULL,NULL
+P00148,"Mark Ramos",Male,2016-01-02,9,"Angeles City",Philippines,Active,2,2,0,102648.33,39924.26,62724.07,2,2,2023-10-03,2025-01-23
+P00149,"Patricia Ramos",Male,1946-08-06,77,"Angeles City",Philippines,Inactive,1,0,0,46351.86,46351.86,0.00,2,3,2024-02-16,2024-02-16
+P00150,"Luis Bautista",Unknown,1952-12-10,71,"Makati City",Philippines,Unknown,3,2,1,259202.16,130909.40,128292.76,1,2,2023-02-02,2024-03-10
+P00151,"Andrea Cruz",Female,1994-05-22,31,"Caloocan City",Philippines,Unknown,4,1,0,379636.59,284491.58,95145.01,2,1,2023-11-04,2025-08-13
+P00152,"Bea Mendoza",Female,2013-03-08,12,"Manila City",Philippines,Inactive,5,1,0,0.00,0.00,0.00,4,2,2023-03-23,2025-07-06
+P00153,"Bea Aquino",Female,2004-09-19,19,"Manila City",Philippines,Active,2,1,1,289294.86,258015.88,31278.98,6,1,2023-09-07,2023-10-23
+P00154,"Juan Cruz",Male,1977-07-27,46,"Makati City",Philippines,Inactive,2,0,1,526932.44,434450.35,92482.09,5,0,2023-09-25,2023-10-17
+P00155,"Kevin Ramos",Female,1968-02-24,57,"Pasig City",Philippines,Inactive,5,1,2,139781.31,139781.31,0.00,4,2,2023-03-20,2025-05-04
+P00156,"Luis Mendoza",Female,1966-09-13,59,"Meycauayan City",Philippines,Inactive,5,0,1,184992.46,50793.79,134198.67,4,4,2023-02-05,2025-10-28
+P00157,"Ana Aquino",Female,1988-09-24,NULL,"Quezon  City",Philippines,Unknown,0,0,0,375062.09,131759.12,243302.97,1,0,NULL,NULL
+P00158,"Angela Navarro",Female,1959-03-13,65,"Malolos City",Philippines,Active,4,0,2,357084.88,130043.15,227041.73,0,7,2023-01-08,2024-10-27
+P00159,"Maria Torres",Male,1960-03-30,64,"Manila City",Philippines,Unknown,2,1,1,154364.68,120813.66,33551.02,6,0,2023-01-11,2024-12-15
+P00160,"Kevin Cruz",Female,1957-11-22,67,"Pasig City",Philippines,Active,3,1,0,364382.90,251478.99,112903.91,2,7,2023-08-09,2025-04-04
+P00161,"Liza Rivera",Unknown,1955-10-09,69,"Manila City",Philippines,Inactive,4,1,0,346311.61,73348.54,272963.07,2,1,2024-01-02,2025-08-30
+P00162,"Bea Aquino",Male,1970-01-21,55,"Meycauayan City",Philippines,Inactive,5,2,1,206537.82,0.00,206537.82,4,1,2023-05-02,2025-03-13
+P00163,"Sofia Castillo",Male,1969-08-31,55,"Caloocan City",Philippines,Active,4,1,1,286502.85,262811.57,23691.28,1,3,2023-08-07,2024-12-06
+P00164,"Thomas Flores",Female,2020-06-23,5,"Makati City",Philippines,Unknown,3,0,1,277971.27,250398.12,27573.15,4,4,2023-05-01,2025-12-10
+P00165,"John Rivera",Female,1940-08-11,84,"Malolos City",Philippines,Inactive,1,0,0,344421.13,177729.66,166691.47,0,2,2025-07-12,2025-07-12
+P00166,"Patricia Navarro",Female,1945-07-28,80,"Caloocan City",Philippines,Active,2,1,0,135240.71,67620.35,67620.36,3,4,2023-07-04,2025-10-06
+P00167,"Daniel Reyes",Female,1953-09-28,71,"Pasig City",Philippines,Active,2,0,1,295509.41,240618.38,54891.03,1,4,2023-06-29,2024-12-14
+P00168,"Andrea Cruz",Male,2003-02-20,22,"Makati City",Philippines,Inactive,7,1,2,57982.59,47299.86,10682.73,2,5,2023-07-25,2025-07-19
+P00169,"Andrea Cruz",Male,2001-01-11,24,"Malolos City",Philippines,Unknown,3,3,0,156738.14,102438.07,54300.07,1,2,2023-03-31,2025-06-09
+P00170,"Grace Aquino",Male,1990-02-17,34,"Pasig City",Philippines,Active,3,1,1,147470.09,116523.38,30946.71,1,1,2023-06-13,2024-11-15
+P00171,"Liza Bautista",Female,1945-09-20,77,"Makati City",Philippines,Inactive,1,1,0,129004.15,64502.07,64502.08,1,4,2023-05-06,2023-05-06
+P00172,"Ramon Cruz",Unknown,2021-05-07,2,"Meycauayan City",Philippines,Active,2,0,0,277304.14,228430.90,48873.24,2,3,2023-03-02,2023-12-30
+P00173,"Daniel Flores",Male,2007-11-03,18,"Pasig City",Philippines,Inactive,9,3,1,17661.22,17661.22,0.00,4,1,2023-02-02,2025-11-18
+P00174,"Carlos Mendoza",Female,2018-07-08,5,"Quezon  City",Philippines,Unknown,1,0,0,302216.63,242859.69,59356.94,3,1,2023-09-08,2023-09-08
+P00175,"Thomas Torres",Female,2018-04-01,7,"Manila City",Philippines,Inactive,2,1,0,222274.04,218897.84,3376.20,2,1,2024-06-13,2025-05-05
+P00176,"Daniel Flores",Female,1991-09-07,33,"Meycauayan City",Philippines,Unknown,3,2,0,108192.61,108192.61,0.00,0,2,2023-07-20,2024-09-22
+P00177,"Mark Mendoza",Male,1989-12-11,35,"Angeles City",Philippines,Unknown,3,3,0,0.00,0.00,0.00,1,2,2023-09-24,2025-10-08
+P00178,"Liza Reyes",Male,1973-10-09,51,"Malolos City",Philippines,Unknown,5,5,0,320967.34,284301.06,36666.28,4,2,2023-03-12,2025-01-11
+P00179,"Liza Ramos",Male,1952-01-11,73,"San Fernando City",Philippines,Active,3,1,0,184725.55,184725.55,0.00,2,3,2023-02-28,2025-12-31
+P00180,"Maria Mendoza",Female,2000-06-08,25,"San Fernando City",Philippines,Active,3,1,1,88059.43,66044.57,22014.86,1,1,2023-05-29,2025-12-13
+P00181,"Sofia Rivera",Female,2006-07-09,19,"Meycauayan City",Philippines,Inactive,3,0,0,530227.43,463615.85,66611.58,3,2,2023-07-08,2025-12-09
+P00182,"Ramon Cruz",Male,1998-03-14,26,"Malolos City",Philippines,Active,3,0,1,149235.01,61519.31,87715.70,0,0,2023-03-29,2024-08-03
+P00183,"Patricia Bautista",Female,1944-02-07,80,"Pasig City",Philippines,Active,1,0,0,219180.61,190006.27,29174.34,5,3,2024-10-11,2024-10-11
+P00184,"Ramon Aquino",Unknown,1962-01-17,63,"Malolos City",Philippines,Active,5,0,0,474234.08,474234.08,0.00,0,4,2023-07-01,2025-12-24
+P00185,"Patricia Reyes",Female,2004-08-15,21,"Manila City",Philippines,Unknown,2,0,0,356951.86,313442.97,43508.89,5,2,2025-03-28,2025-10-17
+P00186,"Carlos Flores",Female,1960-10-05,64,"Malolos City",Philippines,Unknown,5,2,1,637804.25,379369.09,258435.16,2,3,2023-07-20,2024-12-06
+P00187,"Juan Dela Cruz",Male,1989-06-28,36,"Angeles City",Philippines,Active,3,0,1,104154.73,70890.41,33264.32,0,2,2023-04-29,2025-06-29
+P00188,"Ana Ramos",Female,1961-08-14,63,"Quezon  City",Philippines,Unknown,4,3,0,549652.85,299746.64,249906.21,5,4,2023-04-28,2025-04-13
+P00189,"Grace Aquino",Female,2002-07-21,22,"Angeles City",Philippines,Active,4,1,2,502150.76,431363.78,70786.98,3,1,2023-08-21,2025-05-18
+P00190,"Juan Navarro",Female,1947-06-02,76,"Manila City",Philippines,Active,2,0,0,280488.29,239265.19,41223.10,2,2,2023-06-29,2023-09-22
+P00191,"Bea Cruz",Male,1944-03-05,80,"Manila City",Philippines,Active,2,0,1,162308.13,149481.38,12826.75,1,2,2024-03-19,2024-12-23
+P00192,"Ramon Rivera",Male,1966-11-06,NULL,"Quezon  City",Philippines,Active,0,0,0,309900.09,211865.81,98034.28,1,1,NULL,NULL
+P00193,"Ana Gonzales",Female,2015-03-29,8,"Malolos City",Philippines,Active,4,0,0,660838.10,393692.82,267145.28,3,3,2023-03-27,2023-11-06
+P00194,"Patricia Ramos",Female,1978-09-28,47,"Caloocan City",Philippines,Active,4,0,2,104165.45,52082.72,52082.73,1,3,2023-01-13,2025-12-29
+P00195,"Jose Mendoza",Female,1974-02-02,50,"Caloocan City",Philippines,Inactive,3,0,1,511512.25,314645.96,196866.29,4,4,2023-06-02,2024-06-23
+P00196,"Angela Santos",Female,1947-10-31,77,"Quezon  City",Philippines,Active,3,2,0,295316.95,295316.95,0.00,4,8,2023-02-14,2025-09-20
+P00197,"Thomas Aquino",Unknown,1969-02-07,NULL,"Pasig City",Philippines,Unknown,0,0,0,274244.52,253637.79,20606.73,4,4,NULL,NULL
+P00198,"Miguel Reyes",Male,1967-01-06,56,"Caloocan City",Philippines,Active,4,0,0,58134.11,58134.11,0.00,1,4,2023-04-16,2023-12-02
+P00199,"Patricia Mendoza",Female,2004-09-03,20,"Manila City",Philippines,Inactive,4,3,0,375481.69,375481.69,0.00,2,1,2023-03-02,2024-12-22
+P00200,"Thomas Gonzales",Unknown,2017-05-08,7,"Pasig City",Philippines,Inactive,2,0,0,392623.47,325544.53,67078.94,2,2,2023-10-13,2025-04-12
+P00201,"Miguel Gonzales",Male,1966-02-23,58,"San Fernando City",Philippines,Active,3,1,1,401021.83,168620.58,232401.25,3,1,2023-01-03,2024-08-28
+P00202,"Bea Ramos",Female,2001-02-27,23,"Quezon  City",Philippines,Unknown,2,1,0,511455.04,429475.01,81980.03,3,5,2023-05-24,2024-09-24
+P00203,"Carlos Torres",Male,1961-09-17,62,"Malolos City",Philippines,Unknown,2,0,1,402916.14,214277.73,188638.41,2,6,2024-01-27,2024-02-06
+P00204,"Luis Ramos",Unknown,2002-01-20,21,"San Fernando City",Philippines,Active,2,0,0,273940.17,191617.37,82322.80,2,0,2023-01-12,2023-07-09
+P00205,"Bea Torres",Female,1998-01-08,27,"Caloocan City",Philippines,Active,2,0,1,237342.32,162176.83,75165.49,2,1,2024-11-03,2025-06-30
+P00206,"Grace Bautista",Female,1981-07-17,43,"Caloocan City",Philippines,Active,2,0,1,745083.69,532665.18,212418.51,5,2,2024-08-14,2024-08-24
+P00207,"Ana Flores",Female,1952-09-16,72,"Quezon  City",Philippines,Unknown,2,1,1,257338.55,104302.67,153035.88,5,4,2025-06-03,2025-09-03
+P00208,"John Santos",Male,1944-01-04,79,"Meycauayan City",Philippines,Active,1,1,0,108040.89,54020.44,54020.45,3,3,2023-11-12,2023-11-12
+P00209,"John Ramos",Female,1981-06-14,42,"Angeles City",Philippines,Active,3,1,0,186691.38,186691.38,0.00,3,0,2023-05-21,2023-11-23
+P00210,"Grace Aquino",Female,1974-11-19,48,"Meycauayan City",Philippines,Inactive,3,1,1,256409.48,256409.48,0.00,3,2,2023-03-28,2023-10-17
+P00211,"John Garcia",Female,1950-03-23,75,"Malolos City",Philippines,Inactive,4,2,0,0.00,0.00,0.00,2,1,2023-12-05,2025-06-23
+P00212,"Patricia Flores",Female,1995-05-21,29,"Pasig City",Philippines,Active,2,1,0,271463.67,222913.68,48549.99,2,1,2023-01-19,2024-09-15
+P00213,"Miguel Bautista",Female,1952-09-06,72,"Malolos City",Philippines,Active,2,0,0,353681.30,353681.30,0.00,2,5,2023-05-01,2025-01-14
+P00214,"Kevin Mendoza",Female,1956-10-13,67,"Pasig City",Philippines,Unknown,1,0,0,351451.87,351451.87,0.00,0,0,2024-09-11,2024-09-11
+P00215,"Liza Torres",Female,1977-04-15,48,"Caloocan City",Philippines,Inactive,8,3,0,87977.34,80608.50,7368.84,2,5,2023-02-24,2025-09-06
+P00216,"Miguel Castillo",Female,1990-09-30,35,"San Fernando City",Philippines,Unknown,1,0,0,203066.56,161498.95,41567.61,2,3,2025-10-25,2025-10-25
+P00217,"Luis Garcia",Female,1949-03-09,76,"Malolos City",Philippines,Active,2,0,0,226984.60,164872.27,62112.33,1,2,2023-08-18,2025-10-02
+P00218,"Sofia Castillo",Female,1992-09-29,31,"Pasig City",Philippines,Active,1,1,0,179290.44,144327.14,34963.30,1,7,2023-10-05,2023-10-05
+P00219,"Bea Bautista",Male,1965-03-20,59,"Meycauayan City",Philippines,Active,3,1,0,129671.14,50532.94,79138.20,1,1,2023-05-12,2024-12-02
+P00220,"Liza Rivera",Male,1964-11-17,60,"Angeles City",Philippines,Active,4,3,0,27732.67,27732.67,0.00,2,3,2023-07-19,2025-05-29
+P00221,"Bea Torres",Male,1996-04-28,27,"San Fernando City",Philippines,Unknown,2,1,0,414915.71,280553.83,134361.88,5,0,2023-05-17,2023-10-26
+P00222,"John Aquino",Male,2017-12-14,6,"Angeles City",Philippines,Unknown,4,1,0,303153.93,193965.63,109188.30,2,1,2023-02-23,2024-11-13
+P00223,"Sofia Cruz",Male,1968-12-18,55,"Manila City",Philippines,Active,1,0,0,291864.38,206027.03,85837.35,1,2,2024-10-13,2024-10-13
+P00224,"Grace Dela Cruz",Male,2016-12-10,8,"Caloocan City",Philippines,Inactive,4,0,2,0.00,0.00,0.00,4,3,2023-01-02,2025-01-03
+P00225,"Jose Torres",Male,1962-06-18,61,"Pasig City",Philippines,Active,1,1,0,212898.12,212898.12,0.00,5,2,2023-08-27,2023-08-27
+P00226,"Ana Dela Cruz",Female,1982-10-11,41,"San Fernando City",Philippines,Unknown,1,0,0,27499.15,22689.91,4809.24,1,1,2024-03-23,2024-03-23
+P00227,"Carlos Cruz",Male,1960-07-16,65,"Makati City",Philippines,Active,6,1,0,195074.12,152727.10,42347.02,1,3,2023-03-30,2025-11-14
+P00228,"Carlos Santos",Male,1990-07-14,33,"Makati City",Philippines,Unknown,3,1,1,150262.22,127544.07,22718.15,3,1,2023-07-12,2023-10-26
+P00229,"Sofia Santos",Male,1952-07-23,73,"Pasig City",Philippines,Active,3,0,2,265805.82,116558.19,149247.63,3,4,2023-10-09,2025-12-28
+P00230,"Daniel Ramos",Male,1993-10-30,30,"Meycauayan City",Philippines,Unknown,4,1,1,49171.78,0.00,49171.78,5,0,2023-07-27,2024-08-11
+P00231,"Mark Torres",Male,2010-04-26,14,"Quezon  City",Philippines,Inactive,1,0,1,160951.25,160951.25,0.00,2,3,2024-10-08,2024-10-08
+P00232,"John Reyes",Female,2017-03-24,8,"Manila City",Philippines,Active,3,0,0,262688.05,72695.01,189993.04,2,2,2023-03-02,2025-07-29
+P00233,"Angela Garcia",Male,1945-06-04,80,"Quezon  City",Philippines,Inactive,2,1,0,300125.58,240906.27,59219.31,4,3,2023-10-06,2025-08-03
+P00234,"Jose Mendoza",Male,1985-11-14,37,"Caloocan City",Philippines,Active,1,0,1,49032.60,49032.60,0.00,2,1,2023-07-26,2023-07-26
+P00235,"Maria Garcia",Male,1978-12-24,46,"Quezon  City",Philippines,Active,4,2,0,383750.26,178386.85,205363.41,2,2,2023-03-30,2025-02-05
+P00236,"Juan Reyes",Female,1971-02-07,54,"Quezon  City",Philippines,Inactive,2,1,0,346546.11,178380.97,168165.14,0,1,2023-04-14,2025-07-17
+P00237,"Liza Mendoza",Male,1945-09-23,80,"San Fernando City",Philippines,Unknown,6,5,0,168396.16,168396.16,0.00,3,6,2023-03-17,2025-10-05
+P00238,"Bea Reyes",Male,1954-02-10,70,"Manila City",Philippines,Active,4,1,2,232896.32,90198.45,142697.87,4,2,2023-04-20,2024-07-26
+P00239,"Daniel Dela Cruz",Female,1972-08-26,52,"Angeles City",Philippines,Inactive,5,2,0,194601.28,51859.99,142741.29,1,2,2023-07-28,2024-11-16
+P00240,"Jose Aquino",Male,1950-09-17,75,"Quezon  City",Philippines,Inactive,3,0,0,53898.39,0.00,53898.39,2,2,2023-10-29,2025-10-03
+P00241,"Mark Bautista",Male,1989-08-14,36,"Pasig City",Philippines,Inactive,3,0,0,240971.52,141733.05,99238.47,1,8,2025-05-23,2025-12-30
+P00242,"Bea Cruz",Unknown,2009-08-10,16,"Manila City",Philippines,Inactive,2,2,0,33136.86,33136.86,0.00,2,2,2025-09-05,2025-09-24
+P00243,"Juan Bautista",Male,2008-02-01,NULL,"Manila City",Philippines,Inactive,0,0,0,47469.81,47469.81,0.00,4,2,NULL,NULL
+P00244,"Jose Dela Cruz",Female,2020-07-01,4,"Angeles City",Philippines,Active,4,0,1,142860.65,92764.34,50096.31,1,1,2023-11-30,2025-01-16
+P00245,"Liza Torres",Female,1961-03-29,64,"Caloocan City",Philippines,Active,5,0,0,45726.06,45726.06,0.00,1,4,2023-07-10,2025-07-15
+P00246,"Sofia Reyes",Unknown,2009-02-03,15,"Angeles City",Philippines,Inactive,1,1,0,95482.29,28518.99,66963.30,2,3,2025-01-24,2025-01-24
+P00247,"Sofia Cruz",Male,1981-07-26,42,"Makati City",Philippines,Active,1,1,0,56188.87,0.00,56188.87,5,9,2024-01-15,2024-01-15
+P00248,"Patricia Gonzales",Male,1944-05-23,78,"Pasig City",Philippines,Unknown,2,0,0,209804.84,201858.90,7945.94,2,2,2023-02-18,2023-03-01
+P00249,"Ana Castillo",Unknown,1952-07-16,72,"San Fernando City",Philippines,Inactive,4,0,2,567751.97,261987.56,305764.41,0,3,2023-11-12,2025-04-27
+P00250,"Jose Dela Cruz",Male,1957-09-27,NULL,"Manila City",Philippines,Unknown,0,0,0,252499.69,251621.82,877.87,4,1,NULL,NULL
+P00251,"Ramon Cruz",Male,1974-05-03,51,"Makati City",Philippines,Active,2,1,0,211594.41,69863.31,141731.10,2,3,2023-01-29,2025-07-16
+P00252,"Mark Cruz",Female,2019-03-13,6,"Pasig City",Philippines,Active,8,2,0,355903.60,282422.16,73481.44,0,0,2023-04-27,2025-05-01
+P00253,"Ramon Castillo",Female,1972-03-20,53,"Makati City",Philippines,Inactive,3,1,0,540943.12,517958.19,22984.93,1,3,2023-10-29,2025-11-09
+P00254,"Thomas Garcia",Male,2020-05-12,5,"Quezon  City",Philippines,Active,6,1,1,180127.44,170514.08,9613.36,3,3,2024-01-18,2025-07-22
+P00255,"Angela Ramos",Unknown,2010-12-26,14,"Makati City",Philippines,Inactive,4,1,1,178989.34,100713.15,78276.19,6,6,2024-09-05,2025-06-04
+P00256,"Patricia Rivera",Male,1942-07-13,82,"Makati City",Philippines,Active,4,1,0,116157.58,70164.09,45993.49,0,4,2024-05-21,2025-05-11
+P00257,"Jose Dela Cruz",Female,1993-12-23,31,"Pasig City",Philippines,Inactive,3,1,2,454658.43,454658.43,0.00,2,1,2023-06-10,2025-05-07
+P00258,"Miguel Rivera",Unknown,2015-09-29,9,"San Fernando City",Philippines,Inactive,5,1,1,550691.24,473130.98,77560.26,2,3,2023-05-12,2025-02-06
+P00259,"Ramon Aquino",Male,1970-03-12,54,"Makati City",Philippines,Active,2,1,0,95915.97,71936.98,23978.99,3,3,2023-09-08,2024-04-10
+P00260,"Bea Flores",Female,1973-12-11,51,"Angeles City",Philippines,Active,2,0,1,198108.17,94960.85,103147.32,3,3,2024-11-22,2025-02-22
+P00261,"Thomas Bautista",Unknown,1994-11-06,30,"Pasig City",Philippines,Inactive,3,0,0,374219.45,343750.47,30468.98,1,1,2023-03-16,2025-09-28
+P00262,"Miguel Torres",Male,2013-09-18,10,"San Fernando City",Philippines,Active,2,0,0,414917.87,237480.38,177437.49,4,1,2023-09-13,2024-08-28
+P00263,"Juan Dela Cruz",Female,1979-04-25,44,"Quezon  City",Philippines,Active,3,1,0,600456.21,309490.84,290965.37,3,4,2023-01-10,2023-12-02
+P00264,"Miguel Cruz",Male,2011-09-13,14,"Makati City",Philippines,Active,7,2,1,616438.99,442142.13,174296.86,2,3,2023-06-17,2025-11-03
+P00265,"Jose Ramos",Male,1970-04-26,55,"Malolos City",Philippines,Active,6,0,0,150226.47,150226.47,0.00,3,2,2023-03-25,2025-06-19
+P00266,"Maria Santos",Male,1958-06-10,66,"Quezon  City",Philippines,Unknown,1,0,0,303694.19,224358.86,79335.33,1,1,2024-09-30,2024-09-30
+P00267,"Bea Ramos",Unknown,1984-01-17,41,"Malolos City",Philippines,Active,3,1,0,397937.39,245519.82,152417.57,2,5,2025-08-11,2025-10-11
+P00268,"Juan Garcia",Female,1997-04-03,26,"Caloocan City",Philippines,Unknown,1,1,0,115285.90,57642.95,57642.95,3,0,2024-01-20,2024-01-20
+P00269,"Miguel Bautista",Female,1973-02-20,52,"Caloocan City",Philippines,Active,4,1,1,138340.93,91608.85,46732.08,0,3,2024-02-29,2025-12-23
+P00270,"Ana Santos",Female,1970-11-04,54,"Angeles City",Philippines,Active,2,1,0,235870.89,174540.86,61330.03,0,6,2023-06-23,2025-08-17
+P00271,"Kevin Mendoza",Male,1975-06-02,49,"Makati City",Philippines,Active,2,1,1,13130.69,13130.69,0.00,2,3,2024-04-07,2024-07-06
+P00272,"Sofia Reyes",Male,1977-12-25,47,"Quezon  City",Philippines,Unknown,6,1,0,330872.48,120868.28,210004.20,0,2,2023-02-20,2025-03-29
+P00273,"Luis Bautista",Unknown,1964-10-11,61,"Makati City",Philippines,Active,3,1,0,326909.19,111388.26,215520.93,4,1,2023-06-29,2025-12-29
+P00274,"Ana Aquino",Unknown,1949-01-22,75,"Malolos City",Philippines,Active,3,1,1,743228.86,478734.32,264494.54,1,2,2023-03-03,2024-10-27
+P00275,"Miguel Mendoza",Female,1952-11-26,72,"Manila City",Philippines,Inactive,3,1,0,174862.30,42528.09,132334.21,1,2,2023-09-20,2025-03-20
+P00276,"Patricia Dela Cruz",Male,2013-05-01,NULL,"Malolos City",Philippines,Inactive,0,0,0,276209.27,29461.91,246747.36,1,4,NULL,NULL
+P00277,"Liza Aquino",Female,1948-01-04,77,"San Fernando City",Philippines,Active,5,1,1,185531.44,73492.32,112039.12,4,8,2023-02-19,2025-11-15
+P00278,"Jose Mendoza",Female,1985-06-19,38,"Manila City",Philippines,Active,1,0,0,260141.80,228990.37,31151.43,1,0,2024-04-04,2024-04-04
+P00279,"Grace Dela Cruz",Male,2003-03-20,22,"Manila City",Philippines,Inactive,3,1,0,392891.25,337703.52,55187.73,1,6,2023-09-19,2025-10-14
+P00280,"Kevin Aquino",Female,1955-12-07,68,"Quezon  City",Philippines,Active,2,0,0,122927.80,33748.12,89179.68,6,3,2023-02-04,2024-09-24
+P00281,"Ramon Dela Cruz",Female,2016-08-07,9,"Meycauayan City",Philippines,Active,5,0,0,276052.15,207317.35,68734.80,4,1,2023-01-10,2025-09-08
+P00282,"Kevin Rivera",Female,1998-01-29,27,"Angeles City",Philippines,Inactive,6,1,0,494378.17,481391.81,12986.36,2,5,2023-02-09,2025-11-23
+P00283,"Grace Mendoza",Female,1981-11-13,44,"San Fernando City",Philippines,Inactive,3,0,0,261896.32,261896.32,0.00,4,1,2023-03-07,2025-12-14
+P00284,"Ana Cruz",Male,1970-03-03,55,"Meycauayan City",Philippines,Active,2,1,0,314260.50,109611.11,204649.39,4,2,2024-04-19,2025-03-30
+P00285,"Thomas Gonzales",Female,1968-09-02,56,"Angeles City",Philippines,Active,4,2,0,157617.02,138727.37,18889.65,1,4,2023-04-27,2025-03-04
+P00286,"Bea Navarro",Male,2013-03-17,11,"Meycauayan City",Philippines,Active,3,1,0,0.00,0.00,0.00,2,3,2023-09-12,2024-12-08
+P00287,"Luis Reyes",Male,1948-10-03,75,"Pasig City",Philippines,Active,2,1,0,324453.89,232895.36,91558.53,2,2,2023-02-19,2024-04-08
+P00288,"Mark Gonzales",Unknown,2019-07-25,5,"Malolos City",Philippines,Active,4,2,1,607664.38,474862.83,132801.55,2,4,2024-06-20,2025-04-17
+P00289,"Kevin Rivera",Female,1984-11-24,38,"Makati City",Philippines,Inactive,3,0,1,224880.17,176020.88,48859.29,2,3,2023-01-05,2023-10-06
+P00290,"Liza Aquino",Female,1952-11-06,72,"San Fernando City",Philippines,Active,5,1,1,0.00,0.00,0.00,6,1,2023-06-18,2025-10-21
+P00291,"Grace Mendoza",Female,2008-04-15,17,"Angeles City",Philippines,Unknown,8,3,3,154492.76,143547.79,10944.97,2,2,2023-05-16,2025-12-19
+P00292,"Kevin Gonzales",Male,1943-05-21,81,"Pasig City",Philippines,Inactive,2,0,0,281282.54,272564.78,8717.76,4,3,2024-01-24,2024-08-17
+P00293,"Mark Reyes",Male,1974-05-30,NULL,"Malolos City",Philippines,Unknown,0,0,0,278437.17,219249.78,59187.39,0,1,NULL,NULL
+P00294,"Carlos Bautista",Female,1972-03-24,52,"Pasig City",Philippines,Active,3,0,0,63093.71,31546.85,31546.86,2,1,2023-07-10,2024-10-11
+P00295,"Ana Bautista",Female,1998-05-12,25,"Quezon  City",Philippines,Active,1,0,0,307224.25,205329.41,101894.84,6,2,2023-07-15,2023-07-15
+P00296,"Ana Gonzales",Female,1974-02-11,51,"Caloocan City",Philippines,Active,5,3,0,467192.46,396815.20,70377.26,0,3,2023-10-10,2026-01-02
+P00297,"Andrea Mendoza",Male,1994-05-02,29,"Malolos City",Philippines,Active,2,2,0,242333.39,175129.67,67203.72,1,0,2023-10-11,2023-12-16
+P00298,"Angela Flores",Male,1958-02-03,67,"Pasig City",Philippines,Inactive,3,1,0,222857.96,102968.69,119889.27,5,1,2023-12-02,2025-02-27
+P00299,"Daniel Dela Cruz",Male,2000-04-03,25,"Meycauayan City",Philippines,Active,3,0,1,252588.03,192555.54,60032.49,3,2,2023-01-02,2025-12-23
+P00300,"Angela Torres",Female,1980-12-22,43,"Caloocan City",Philippines,Inactive,1,0,0,285065.39,175704.79,109360.60,2,3,2024-12-17,2024-12-17
+P00301,"Liza Navarro",Male,1948-07-09,77,"Malolos City",Philippines,Active,2,0,1,303092.56,275314.96,27777.60,4,6,2024-03-02,2025-12-30
+P00302,"Patricia Flores",Male,1956-05-28,69,"Angeles City",Philippines,Active,4,3,0,465119.01,324833.60,140285.41,3,4,2023-07-09,2025-08-17
+P00303,"Carlos Navarro",Female,1945-04-05,79,"Angeles City",Philippines,Active,5,2,0,301287.34,222119.97,79167.37,4,1,2023-02-03,2025-02-06
+P00304,"Carlos Cruz",Female,1950-02-17,75,"Malolos City",Philippines,Inactive,4,1,0,10873.99,5436.99,5437.00,1,2,2023-11-24,2025-02-19
+P00305,"Andrea Ramos",Female,2002-11-07,22,"Makati City",Philippines,Active,2,0,0,175106.98,0.00,175106.98,1,1,2024-08-06,2024-12-31
+P00306,"Miguel Ramos",Unknown,1982-02-06,42,"Caloocan City",Philippines,Active,2,2,0,228452.23,147825.29,80626.94,1,4,2024-09-08,2024-11-16
+P00307,"Luis Torres",Female,1976-03-06,48,"Malolos City",Philippines,Active,2,2,0,569747.76,418466.17,151281.59,1,2,2024-01-14,2024-09-26
+P00308,"Kevin Navarro",Female,1941-08-05,83,"Malolos City",Philippines,Active,5,2,0,219293.42,174963.18,44330.24,4,4,2023-04-24,2025-08-04
+P00309,"Grace Bautista",Male,2014-01-15,11,"Malolos City",Philippines,Active,2,0,2,251814.28,209811.20,42003.08,3,3,2024-12-30,2025-11-01
+P00310,"Daniel Dela Cruz",Male,1971-11-11,53,"Malolos City",Philippines,Unknown,4,1,1,148506.51,126234.08,22272.43,0,2,2023-08-10,2025-02-19
+P00311,"Ana Mendoza",Male,1957-07-29,67,"Quezon  City",Philippines,Active,6,3,1,260688.05,230409.78,30278.27,6,0,2023-11-16,2025-01-10
+P00312,"Bea Santos",Unknown,2020-01-02,3,"Manila City",Philippines,Unknown,1,0,0,204077.58,190414.01,13663.57,2,2,2023-10-14,2023-10-14
+P00313,"Bea Cruz",Male,2010-01-27,14,"Malolos City",Philippines,Unknown,2,0,0,149111.32,56067.61,93043.71,1,1,2023-12-11,2024-11-17
+P00314,"Liza Aquino",Female,2008-05-24,17,"Makati City",Philippines,Inactive,3,1,0,48965.97,48965.97,0.00,3,1,2023-05-25,2025-07-02
+P00315,"Luis Flores",Male,2003-11-12,20,"Makati City",Philippines,Inactive,3,0,0,484607.66,366200.15,118407.51,3,2,2023-01-08,2024-08-21
+P00316,"Ana Castillo",Male,1990-06-11,33,"Manila City",Philippines,Active,1,0,0,563244.19,355054.83,208189.36,1,3,2023-08-06,2023-08-06
+P00317,"Ramon Reyes",Male,2000-02-17,24,"Makati City",Philippines,Inactive,2,1,0,134163.10,60408.20,73754.90,1,7,2023-07-19,2024-08-06
+P00318,"Sofia Castillo",Male,1942-11-24,80,"Caloocan City",Philippines,Unknown,1,1,0,268387.18,149075.39,119311.79,2,4,2023-03-17,2023-03-17
+P00319,"Ramon Gonzales",Unknown,2001-06-19,23,"Pasig City",Philippines,Active,2,0,1,146355.32,75400.36,70954.96,3,2,2023-08-03,2025-01-03
+P00320,"Sofia Mendoza",Female,1955-12-01,69,"Angeles City",Philippines,Inactive,2,0,0,40298.11,30223.58,10074.53,4,2,2023-01-05,2025-05-04
+P00321,"Carlos Reyes",Male,2015-11-25,8,"Malolos City",Philippines,Inactive,3,1,0,217202.22,124175.36,93026.86,3,0,2023-09-15,2024-11-13
+P00322,"Kevin Castillo",Male,1989-05-10,34,"Meycauayan City",Philippines,Unknown,3,0,1,366778.18,342874.42,23903.76,4,3,2023-05-18,2023-11-23
+P00323,"Luis Ramos",Female,1948-03-31,77,"Pasig City",Philippines,Active,4,1,1,144040.36,87098.88,56941.48,4,1,2023-01-30,2025-12-09
+P00324,"Ana Torres",Male,1979-12-25,43,"Angeles City",Philippines,Unknown,2,0,0,246908.52,120407.67,126500.85,4,0,2023-01-15,2023-02-27
+P00325,"Angela Ramos",Female,1965-05-16,NULL,"Caloocan City",Philippines,Inactive,0,0,0,389808.41,384866.83,4941.58,1,0,NULL,NULL
+P00326,"Andrea Santos",Male,1955-01-07,69,"Angeles City",Philippines,Active,4,1,0,292929.13,250190.74,42738.39,3,0,2023-05-31,2024-09-13
+P00327,"Luis Flores",Female,2018-10-29,4,"Manila City",Philippines,Active,2,0,0,231356.51,219995.34,11361.17,2,1,2023-02-18,2023-06-15
+P00328,"Maria Reyes",Unknown,1962-08-07,61,"Malolos City",Philippines,Unknown,3,0,0,0.00,0.00,0.00,1,5,2023-08-08,2024-02-10
+P00329,"John Dela Cruz",Female,2000-05-27,23,"San Fernando City",Philippines,Inactive,1,0,0,118732.48,99354.66,19377.82,2,2,2024-05-22,2024-05-22
+P00330,"Mark Aquino",Male,1965-04-03,60,"Pasig City",Philippines,Unknown,5,1,1,0.00,0.00,0.00,3,4,2024-04-16,2025-07-26
+P00331,"Luis Mendoza",Female,1952-12-04,72,"Manila City",Philippines,Active,3,2,0,222313.49,142824.90,79488.59,2,3,2024-08-15,2025-02-23
+P00332,"Mark Garcia",Female,2006-07-08,18,"Pasig City",Philippines,Active,9,3,1,62456.58,46842.43,15614.15,1,1,2023-02-22,2025-01-29
+P00333,"Ana Reyes",Female,2011-09-28,12,"Caloocan City",Philippines,Active,1,1,0,236886.94,199291.34,37595.60,2,2,2023-10-19,2023-10-19
+P00334,"Bea Cruz",Male,1972-01-15,53,"Pasig City",Philippines,Unknown,4,1,1,46751.40,35063.55,11687.85,2,2,2023-04-24,2025-11-30
+P00335,"Grace Bautista",Male,1999-02-27,26,"Makati City",Philippines,Inactive,5,0,0,375306.78,375306.78,0.00,2,2,2023-09-23,2025-08-08
+P00336,"Daniel Castillo",Female,2003-11-23,NULL,"San Fernando City",Philippines,Unknown,0,0,0,379192.10,193598.20,185593.90,4,0,NULL,NULL
+P00337,"Luis Santos",Female,1997-11-30,NULL,"Quezon  City",Philippines,Active,0,0,0,304587.73,182189.01,122398.72,0,1,NULL,NULL
+P00338,"Bea Aquino",Female,2009-01-03,16,"San Fernando City",Philippines,Active,3,3,0,19222.62,0.00,19222.62,3,3,2023-04-29,2025-11-20
+P00339,"Bea Navarro",Unknown,1966-02-08,58,"Manila City",Philippines,Active,4,2,0,537052.36,341626.84,195425.52,3,2,2023-04-30,2024-07-04
+P00340,"Andrea Reyes",Female,1954-04-14,71,"Manila City",Philippines,Unknown,4,3,1,213439.84,206518.27,6921.57,2,0,2023-01-19,2025-06-15
+P00341,"Daniel Santos",Male,1973-02-21,51,"Malolos City",Philippines,Active,4,1,0,615815.20,348588.00,267227.20,3,6,2023-03-14,2024-03-08
+P00342,"John Santos",Female,1986-10-10,37,"San Fernando City",Philippines,Inactive,1,0,1,201678.69,176679.78,24998.91,0,1,2024-02-01,2024-02-01
+P00343,"Ramon Rivera",Female,1986-04-29,39,"Malolos City",Philippines,Active,3,2,0,360849.92,188774.93,172074.99,7,7,2024-10-24,2025-05-30
+P00344,"Jose Ramos",Female,1965-03-11,60,"Angeles City",Philippines,Active,4,1,0,300063.19,237913.99,62149.20,2,4,2023-07-11,2025-07-31
+P00345,"Kevin Torres",Female,1982-12-22,42,"Makati City",Philippines,Active,2,0,0,414497.42,406034.71,8462.71,4,2,2024-01-13,2025-12-17
+P00346,"Andrea Dela Cruz",Male,1953-03-05,72,"Manila City",Philippines,Active,1,1,0,60473.20,60473.20,0.00,2,3,2025-03-12,2025-03-12
+P00347,"Sofia Cruz",Male,1982-04-17,42,"Makati City",Philippines,Active,3,1,1,32131.41,0.00,32131.41,1,2,2024-02-05,2024-10-06
+P00348,"John Rivera",Female,1993-07-08,32,"Pasig City",Philippines,Active,2,0,0,459433.88,400779.87,58654.01,3,3,2023-04-12,2025-08-18
+P00349,"Thomas Santos",Female,1982-09-10,40,"Makati City",Philippines,Unknown,1,0,0,133645.56,58232.92,75412.64,3,4,2023-09-05,2023-09-05
+P00350,"Andrea Gonzales",Male,2018-06-26,7,"San Fernando City",Philippines,Unknown,5,1,0,256603.79,121931.58,134672.21,3,3,2023-02-23,2025-10-16
+P00351,"Carlos Mendoza",Female,2008-09-15,16,"Manila City",Philippines,Active,1,0,0,130391.34,65195.67,65195.67,1,3,2025-09-10,2025-09-10
+P00352,"Ramon Torres",Female,2001-09-13,24,"Caloocan City",Philippines,Unknown,3,0,0,291499.07,270839.82,20659.25,1,0,2024-04-14,2025-12-25
+P00353,"Bea Bautista",Male,1964-09-20,60,"Meycauayan City",Philippines,Inactive,3,2,0,0.00,0.00,0.00,6,2,2024-01-30,2024-11-27
+P00354,"Mark Aquino",Male,2009-06-15,16,"Quezon  City",Philippines,Unknown,2,0,0,121290.56,66806.00,54484.56,2,0,2024-02-22,2025-08-30
+P00355,"John Castillo",Male,1995-02-01,28,"Malolos City",Philippines,Active,2,0,2,165704.66,139672.95,26031.71,2,5,2023-01-03,2023-10-31
+P00356,"Jose Mendoza",Female,1973-04-08,52,"Caloocan City",Philippines,Active,4,0,0,178296.81,149359.01,28937.80,2,4,2024-06-15,2025-06-25
+P00357,"Kevin Cruz",Male,1958-02-04,NULL,"Manila City",Philippines,Active,0,0,0,239208.26,197416.91,41791.35,1,3,NULL,NULL
+P00358,"Juan Reyes",Male,1964-10-02,61,"Quezon  City",Philippines,Inactive,6,5,0,210160.87,133267.58,76893.29,3,3,2023-07-23,2025-12-30
+P00359,"Luis Rivera",Male,1971-03-25,54,"Malolos City",Philippines,Inactive,3,1,2,325833.16,91678.42,234154.74,3,3,2024-01-03,2025-09-29
+P00360,"Miguel Gonzales",Male,1949-07-20,75,"Caloocan City",Philippines,Unknown,3,0,0,261339.30,88958.28,172381.02,2,4,2023-04-13,2025-05-24
+P00361,"Ramon Aquino",Female,2009-01-28,16,"Manila City",Philippines,Active,2,1,0,103580.39,103580.39,0.00,3,4,2024-04-06,2025-08-31
+P00362,"Angela Santos",Female,1996-11-05,28,"Meycauayan City",Philippines,Inactive,3,1,0,24984.23,24984.23,0.00,5,1,2023-09-26,2025-04-12
+P00363,"Daniel Mendoza",Male,1975-10-16,47,"Malolos City",Philippines,Active,1,0,0,85674.97,85674.97,0.00,4,4,2023-05-30,2023-05-30
+P00364,"Sofia Cruz",Female,1957-11-29,66,"Malolos City",Philippines,Active,1,0,0,641065.67,576418.21,64647.46,4,2,2024-06-06,2024-06-06
+P00365,"Ana Santos",Male,2000-08-18,23,"San Fernando City",Philippines,Inactive,1,0,0,76904.75,76904.75,0.00,2,4,2024-04-03,2024-04-03
+P00366,"Kevin Reyes",Unknown,1985-11-08,39,"Malolos City",Philippines,Inactive,1,1,0,0.00,0.00,0.00,3,2,2025-02-27,2025-02-27
+P00367,"Ramon Flores",Female,2009-08-10,16,"Manila City",Philippines,Unknown,2,1,1,14928.34,14928.34,0.00,1,2,2024-07-06,2025-10-21
+P00368,"Bea Santos",Male,1972-06-09,51,"Malolos City",Philippines,Inactive,2,1,0,0.00,0.00,0.00,6,3,2023-04-10,2023-08-20
+P00369,"Miguel Cruz",Female,1958-11-20,66,"Malolos City",Philippines,Active,4,0,1,541841.53,476649.65,65191.88,0,3,2023-06-18,2025-09-03
+P00370,"Ana Navarro",Male,2012-02-20,13,"Malolos City",Philippines,Active,4,1,1,185225.39,139085.55,46139.84,2,0,2023-05-30,2025-07-12
+P00371,"Liza Cruz",Female,2020-02-20,4,"Malolos City",Philippines,Unknown,2,1,0,264610.14,109758.87,154851.27,0,3,2024-01-04,2024-04-03
+P00372,"Ana Navarro",Female,1945-05-21,80,"Caloocan City",Philippines,Inactive,2,0,0,551303.21,404367.52,146935.69,4,3,2025-05-27,2025-05-28
+P00373,"Luis Ramos",Unknown,1963-02-13,62,"Meycauayan City",Philippines,Inactive,3,0,0,346739.97,249680.17,97059.80,0,3,2023-05-25,2025-09-16
+P00374,"Patricia Bautista",Female,1985-10-17,38,"Makati City",Philippines,Unknown,2,1,0,231402.88,13193.79,218209.09,4,0,2023-12-19,2024-01-05
+P00375,"Thomas Aquino",Female,2016-02-27,9,"Caloocan City",Philippines,Inactive,5,1,1,147958.69,147958.69,0.00,2,3,2023-02-04,2025-09-02
+P00376,"Grace Castillo",Unknown,1972-07-31,53,"Makati City",Philippines,Inactive,1,0,0,284780.34,213585.26,71195.08,2,5,2025-11-10,2025-11-10
+P00377,"Jose Garcia",Female,1975-08-15,49,"Meycauayan City",Philippines,Active,1,0,1,543904.67,383910.40,159994.27,2,1,2025-03-29,2025-03-29
+P00378,"Angela Aquino",Female,1947-07-25,78,"Makati City",Philippines,Active,1,0,0,399597.42,354713.16,44884.26,2,2,2025-12-20,2025-12-20
+P00379,"Maria Torres",Male,2017-03-09,8,"Makati City",Philippines,Unknown,3,0,1,152445.54,68316.71,84128.83,5,1,2023-03-16,2025-03-09
+P00380,"Andrea Torres",Female,1987-11-21,37,"San Fernando City",Philippines,Inactive,4,1,0,455293.38,354466.53,100826.85,1,2,2024-02-06,2025-09-16
+P00381,"Carlos Mendoza",Male,1940-01-04,85,"Malolos City",Philippines,Inactive,3,2,1,326168.25,209742.67,116425.58,0,5,2024-04-29,2025-07-15
+P00382,"Juan Castillo",Female,2011-08-03,13,"Meycauayan City",Philippines,Unknown,4,2,1,334712.61,286031.17,48681.44,2,1,2023-07-24,2025-07-12
+P00383,"Daniel Reyes",Female,2006-02-16,19,"Meycauayan City",Philippines,Inactive,4,1,0,426302.94,290268.60,136034.34,3,2,2023-06-02,2025-08-18
+P00384,"Luis Castillo",Male,1977-01-16,48,"Malolos City",Philippines,Inactive,1,1,0,172394.79,154785.65,17609.14,3,1,2025-10-12,2025-10-12
+P00385,"Thomas Cruz",Female,1968-10-06,56,"Caloocan City",Philippines,Active,4,2,0,561433.97,494248.53,67185.44,4,4,2023-04-09,2025-08-29
+P00386,"Grace Navarro",Male,1960-11-19,65,"Malolos City",Philippines,Unknown,7,2,0,287135.30,287135.30,0.00,2,1,2023-06-12,2025-12-25
+P00387,"Maria Bautista",Male,2015-09-05,9,"Makati City",Philippines,Inactive,1,1,0,465031.36,465031.36,0.00,4,4,2024-11-23,2024-11-23
+P00388,"Ramon Flores",Male,1950-12-10,72,"Meycauayan City",Philippines,Unknown,1,0,0,229170.96,85157.25,144013.71,2,3,2023-09-07,2023-09-07
+P00389,"Ramon Torres",Male,1968-12-25,56,"Caloocan City",Philippines,Inactive,7,4,1,227555.92,211282.39,16273.53,2,2,2023-01-24,2025-10-13
+P00390,"Maria Flores",Female,1959-07-16,66,"Malolos City",Philippines,Unknown,6,1,1,101239.42,50619.71,50619.71,4,2,2023-03-06,2026-01-03
+P00391,"Daniel Dela Cruz",Male,1992-02-17,31,"Malolos City",Philippines,Inactive,3,2,0,337992.06,255457.62,82534.44,1,4,2023-06-25,2023-12-09
+P00392,"Maria Dela Cruz",Male,1997-10-29,28,"San Fernando City",Philippines,Unknown,3,1,0,440839.35,361182.17,79657.18,4,1,2023-08-26,2025-11-12
+P00393,"Sofia Dela Cruz",Female,1973-11-21,51,"Meycauayan City",Philippines,Unknown,5,2,0,339728.48,225132.71,114595.77,2,4,2023-03-04,2025-08-01
+P00394,"Sofia Aquino",Female,1988-10-08,NULL,"Malolos City",Philippines,Inactive,0,0,0,57648.79,0.00,57648.79,4,0,NULL,NULL
+P00395,"Luis Bautista",Female,1940-01-24,85,"Meycauayan City",Philippines,Active,4,1,1,114228.72,113355.19,873.53,1,3,2023-01-18,2025-08-28
+P00396,"Andrea Torres",Female,2008-09-11,17,"Quezon  City",Philippines,Active,4,2,1,465389.96,243931.30,221458.66,1,4,2023-07-01,2026-01-03
+P00397,"Maria Flores",Female,1956-01-10,68,"Angeles City",Philippines,Inactive,3,0,3,84825.19,63618.89,21206.30,3,2,2023-02-03,2024-04-08
+P00398,"Maria Bautista",Female,1994-05-12,31,"San Fernando City",Philippines,Inactive,5,2,0,76312.60,38156.30,38156.30,1,4,2023-10-23,2025-07-30
+P00399,"Maria Flores",Male,1963-11-06,61,"Meycauayan City",Philippines,Active,7,3,1,151293.56,113470.17,37823.39,3,4,2023-06-03,2025-09-15
+P00400,"Daniel Ramos",Female,1956-12-30,69,"Malolos City",Philippines,Unknown,6,1,0,331705.29,241342.60,90362.69,2,4,2023-05-11,2025-12-30
+P00401,"Liza Rivera",Male,1954-12-19,70,"Malolos City",Philippines,Inactive,4,0,2,195269.49,81914.55,113354.94,2,1,2023-04-02,2025-06-25
+P00402,"Luis Bautista",Unknown,1973-05-07,51,"Pasig City",Philippines,Inactive,5,1,2,416937.83,264543.96,152393.87,2,1,2023-05-17,2024-11-02
+P00403,"Patricia Cruz",Female,1975-08-16,49,"Manila City",Philippines,Active,5,3,0,488757.74,422343.22,66414.52,0,2,2023-02-18,2025-04-06
+P00404,"Sofia Flores",Male,1941-12-12,82,"San Fernando City",Philippines,Active,3,1,0,244744.51,107207.25,137537.26,1,3,2023-10-04,2024-12-03
+P00405,"Angela Bautista",Male,1962-06-01,63,"San Fernando City",Philippines,Active,4,2,0,268713.23,148327.14,120386.09,1,1,2024-01-01,2025-06-30
+P00406,"Kevin Flores",Female,2003-01-20,21,"Angeles City",Philippines,Active,5,2,0,0.00,0.00,0.00,3,2,2023-02-07,2024-10-21
+P00407,"John Bautista",Unknown,1978-12-18,44,"Meycauayan City",Philippines,Inactive,1,0,0,221043.89,92849.11,128194.78,4,2,2023-07-24,2023-07-24
+P00408,"Luis Aquino",Female,1969-04-27,55,"Malolos City",Philippines,Active,3,1,0,370562.88,344095.99,26466.89,2,4,2023-07-22,2024-05-27
+P00409,"Liza Mendoza",Unknown,1975-05-18,48,"Caloocan City",Philippines,Unknown,1,1,0,543381.14,338169.66,205211.48,3,2,2023-10-03,2023-10-03
+P00410,"Andrea Gonzales",Unknown,2002-08-10,23,"Pasig City",Philippines,Active,3,0,0,117880.30,58940.15,58940.15,6,3,2024-10-25,2025-12-18
+P00411,"Jose Mendoza",Unknown,1978-08-01,47,"San Fernando City",Philippines,Inactive,5,1,0,56182.96,56182.96,0.00,0,1,2023-02-26,2025-08-17
+P00412,"Patricia Aquino",Female,1942-03-04,83,"Pasig City",Philippines,Inactive,2,0,1,639568.97,563302.55,76266.42,6,2,2024-11-29,2025-07-01
+P00413,"Carlos Castillo",Female,2016-07-03,9,"Quezon  City",Philippines,Unknown,6,0,0,121792.25,98836.18,22956.07,4,1,2023-01-06,2025-12-22
+P00414,"Kevin Dela Cruz",Male,1958-10-01,NULL,"Malolos City",Philippines,Active,0,0,0,368371.27,278316.58,90054.69,5,2,NULL,NULL
+P00415,"Ramon Aquino",Female,1987-04-06,38,"Caloocan City",Philippines,Unknown,5,0,1,75413.49,75413.49,0.00,2,2,2023-02-17,2025-09-05
+P00416,"Juan Santos",Female,1999-03-31,25,"Pasig City",Philippines,Active,5,1,1,211930.98,86686.60,125244.38,5,5,2023-01-06,2025-03-22
+P00417,"John Cruz",Unknown,1993-07-26,32,"Manila City",Philippines,Inactive,3,1,0,315716.32,315716.32,0.00,2,2,2024-01-11,2025-10-10
+P00418,"John Cruz",Female,2006-10-13,18,"Pasig City",Philippines,Active,5,2,1,121969.82,31478.19,90491.63,0,0,2024-03-17,2025-04-07
+P00419,"Angela Rivera",Female,2019-11-18,5,"Makati City",Philippines,Unknown,4,0,0,391468.17,156401.89,235066.28,1,0,2023-06-19,2025-07-24
+P00420,"Andrea Torres",Male,2018-04-17,7,"Malolos City",Philippines,Unknown,2,0,0,155812.63,147125.08,8687.55,2,5,2024-09-14,2025-05-13
+P00421,"Luis Reyes",Female,1998-07-15,27,"Makati City",Philippines,Active,4,0,2,262613.70,240623.51,21990.19,1,2,2023-03-17,2025-12-30
+P00422,"Bea Rivera",Female,1968-06-25,55,"Manila City",Philippines,Unknown,2,0,2,212087.64,212087.64,0.00,4,1,2023-02-24,2024-01-28
+P00423,"Liza Mendoza",Female,2006-11-22,18,"Malolos City",Philippines,Active,4,2,0,150967.90,143569.60,7398.30,0,3,2023-01-12,2025-11-01
+P00424,"Thomas Garcia",Female,2001-08-31,24,"Malolos City",Philippines,Active,2,0,2,2191.15,0.00,2191.15,1,5,2024-10-05,2025-11-28
+P00425,"Ramon Cruz",Female,1952-05-03,71,"Angeles City",Philippines,Active,1,1,0,259713.33,250267.83,9445.50,1,3,2023-06-15,2023-06-15
+P00426,"Sofia Santos",Female,1979-05-30,44,"Malolos City",Philippines,Inactive,2,0,0,253915.46,186341.38,67574.08,1,4,2023-10-06,2024-04-29
+P00427,"Ramon Aquino",Female,1991-04-24,34,"Manila City",Philippines,Unknown,3,0,1,228047.08,149658.87,78388.21,3,1,2025-02-20,2025-08-09
+P00428,"Maria Ramos",Female,1986-04-21,39,"Malolos City",Philippines,Unknown,2,0,1,189113.79,160016.31,29097.48,2,5,2025-06-05,2025-07-12
+P00429,"Mark Aquino",Male,2001-11-24,22,"Quezon  City",Philippines,Active,2,0,0,110148.10,99090.43,11057.67,4,2,2023-07-10,2024-08-16
+P00430,"Ramon Gonzales",Male,1980-06-13,NULL,"San Fernando City",Philippines,Active,0,0,0,290609.71,259113.46,31496.25,2,2,NULL,NULL
+P00431,"Jose Santos",Female,1980-04-25,45,"Angeles City",Philippines,Active,3,0,0,344920.38,287099.29,57821.09,1,2,2023-05-25,2025-08-22
+P00432,"John Aquino",Unknown,1999-03-03,26,"Malolos City",Philippines,Active,2,0,0,323729.26,230248.36,93480.90,3,2,2024-07-25,2025-03-19
+P00433,"Ana Rivera",Female,1958-03-14,66,"Meycauayan City",Philippines,Unknown,4,2,1,222134.75,111067.38,111067.37,3,3,2023-05-18,2025-01-27
+P00434,"Daniel Garcia",Male,1999-03-01,26,"Caloocan City",Philippines,Active,4,1,1,292687.25,126863.82,165823.43,1,2,2023-03-31,2025-12-10
+P00435,"Miguel Reyes",Male,1998-08-10,25,"Manila City",Philippines,Unknown,1,0,0,427743.95,290337.89,137406.06,2,3,2024-03-04,2024-03-04
+P00436,"Miguel Reyes",Female,1965-07-06,59,"San Fernando City",Philippines,Active,5,2,1,181877.09,122135.35,59741.74,1,2,2023-08-08,2025-04-19
+P00437,"Mark Bautista",Male,2020-07-09,4,"Makati City",Philippines,Inactive,6,4,0,423098.97,288306.43,134792.54,3,7,2023-04-24,2025-04-30
+P00438,"John Ramos",Female,1987-01-25,38,"Quezon  City",Philippines,Inactive,3,0,2,458233.28,445022.28,13211.00,2,1,2023-03-11,2025-06-23
+P00439,"Liza Aquino",Unknown,1968-05-23,57,"Malolos City",Philippines,Unknown,2,1,0,217702.00,132358.40,85343.60,1,6,2024-09-19,2025-10-05
+P00440,"Miguel Rivera",Male,1960-11-16,64,"Pasig City",Philippines,Unknown,2,2,0,515458.42,444789.56,70668.86,0,3,2023-10-05,2025-04-08
+P00441,"Maria Bautista",Male,1990-04-11,34,"Caloocan City",Philippines,Inactive,2,0,0,240963.01,167262.46,73700.55,2,3,2023-07-30,2025-03-24
+P00442,"Juan Santos",Female,1969-11-25,54,"San Fernando City",Philippines,Unknown,2,0,1,354282.19,254992.33,99289.86,3,0,2023-12-12,2024-07-15
+P00443,"Maria Torres",Female,1983-03-13,42,"Manila City",Philippines,Inactive,2,1,0,202068.86,82929.10,119139.76,4,3,2024-09-01,2025-12-13
+P00444,"Luis Ramos",Male,1958-09-07,65,"Caloocan City",Philippines,Inactive,1,0,1,152045.41,49987.06,102058.35,4,0,2023-12-17,2023-12-17
+P00445,"Ramon Torres",Male,2015-07-29,10,"San Fernando City",Philippines,Inactive,2,1,0,501497.23,374203.03,127294.20,1,1,2025-04-01,2025-11-21
+P00446,"Liza Santos",Female,2018-09-07,7,"Makati City",Philippines,Inactive,3,1,1,113408.64,67199.99,46208.65,4,5,2025-02-25,2025-10-16
+P00447,"Maria Castillo",Female,2021-12-09,3,"Malolos City",Philippines,Inactive,4,0,2,111417.11,55708.56,55708.55,1,0,2024-11-19,2025-10-31
+P00448,"Carlos Castillo",Unknown,1948-10-24,77,"Quezon  City",Philippines,Inactive,6,1,2,284614.77,163120.06,121494.71,1,2,2023-08-14,2025-11-04
+P00449,"Maria Torres",Unknown,1993-04-25,32,"Caloocan City",Philippines,Inactive,2,1,0,182312.24,182312.24,0.00,1,0,2025-03-25,2025-07-26
+P00450,"Sofia Garcia",Male,1964-10-26,59,"Caloocan City",Philippines,Active,1,0,1,185252.57,172331.69,12920.88,2,4,2023-11-11,2023-11-11
+P00451,"Thomas Ramos",Male,1949-03-08,75,"Malolos City",Philippines,Active,5,0,1,0.00,0.00,0.00,4,4,2023-01-30,2024-12-11
+P00452,"Jose Mendoza",Male,2020-01-18,5,"Quezon  City",Philippines,Active,2,1,0,289768.76,184219.01,105549.75,2,0,2023-01-09,2025-04-16
+P00453,"Jose Gonzales",Female,1956-01-21,67,"Pasig City",Philippines,Unknown,1,1,0,0.00,0.00,0.00,2,2,2023-07-27,2023-07-27
+P00454,"Bea Reyes",Male,2012-12-03,12,"Makati City",Philippines,Inactive,7,3,2,54933.31,54933.31,0.00,1,6,2023-05-06,2025-05-27
+P00455,"Ramon Reyes",Female,1999-09-04,26,"Quezon  City",Philippines,Unknown,3,1,0,250641.97,162047.08,88594.89,2,1,2024-01-21,2025-09-18
+P00456,"Grace Flores",Female,1965-04-28,59,"San Fernando City",Philippines,Inactive,2,1,0,127741.45,95806.09,31935.36,4,3,2023-12-08,2024-07-15
+P00457,"Luis Cruz",Female,1992-12-23,31,"San Fernando City",Philippines,Unknown,1,0,0,251410.07,209501.57,41908.50,1,1,2024-09-03,2024-09-03
+P00458,"Liza Aquino",Unknown,1970-09-13,55,"Malolos City",Philippines,Inactive,3,2,0,174369.39,168023.25,6346.14,1,4,2023-04-04,2025-12-17
+P00459,"Luis Santos",Unknown,1979-12-10,45,"Manila City",Philippines,Active,3,2,1,212621.44,139730.21,72891.23,2,2,2023-10-20,2025-05-16
+P00460,"Carlos Rivera",Male,2021-01-12,4,"Angeles City",Philippines,Active,5,2,0,222838.40,79366.40,143472.00,3,3,2023-01-13,2025-03-07
+P00461,"Sofia Torres",Male,1966-11-21,58,"Malolos City",Philippines,Active,4,2,0,120717.70,90538.27,30179.43,3,3,2023-08-08,2025-06-10
+P00462,"Mark Dela Cruz",Male,2020-11-02,4,"Manila City",Philippines,Unknown,4,3,1,601187.42,388706.84,212480.58,0,1,2023-03-13,2025-10-05
+P00463,"Bea Gonzales",Female,1968-07-16,56,"Pasig City",Philippines,Inactive,4,2,1,295202.92,243748.19,51454.73,4,0,2023-08-14,2025-03-18
+P00464,"Liza Reyes",Male,2018-04-18,7,"Angeles City",Philippines,Active,2,1,0,464644.80,304359.03,160285.77,3,4,2024-03-13,2025-05-31
+P00465,"Carlos Torres",Unknown,1977-04-22,47,"Meycauayan City",Philippines,Unknown,6,1,2,71723.56,56660.94,15062.62,2,2,2023-04-08,2025-02-18
+P00466,"Patricia Garcia",Female,1978-02-08,47,"Malolos City",Philippines,Active,6,4,0,554576.38,491829.33,62747.05,4,0,2023-08-31,2025-12-28
+P00467,"Maria Aquino",Female,2003-03-28,NULL,"Caloocan City",Philippines,Active,0,0,0,361252.34,0.00,361252.34,5,1,NULL,NULL
+P00468,"Andrea Rivera",Male,1947-12-08,77,"San Fernando City",Philippines,Unknown,2,1,1,40204.06,0.00,40204.06,1,3,2024-12-08,2024-12-25
+P00469,"Grace Ramos",Female,1991-06-29,33,"Malolos City",Philippines,Inactive,2,0,0,98818.34,0.00,98818.34,6,5,2023-02-25,2025-03-20
+P00470,"Maria Torres",Female,1991-11-13,33,"Quezon  City",Philippines,Active,3,1,0,353390.66,141005.16,212385.50,3,4,2023-09-18,2025-09-04
+P00471,"Angela Mendoza",Female,1995-03-31,30,"Makati City",Philippines,Inactive,7,2,1,0.00,0.00,0.00,1,5,2023-09-07,2025-12-07
+P00472,"Miguel Mendoza",Unknown,2002-11-13,22,"Makati City",Philippines,Unknown,3,1,2,317949.80,143490.08,174459.72,2,2,2023-07-28,2025-05-10
+P00473,"Liza Castillo",Female,1961-05-07,64,"Quezon  City",Philippines,Active,4,2,1,38608.46,31887.99,6720.47,2,3,2024-12-16,2025-12-19
+P00474,"Grace Gonzales",Female,1967-01-14,58,"Makati City",Philippines,Active,2,0,1,442933.50,376411.92,66521.58,4,2,2023-10-11,2025-05-30
+P00475,"Mark Rivera",Unknown,1980-04-06,45,"San Fernando City",Philippines,Inactive,2,0,0,14120.86,7060.43,7060.43,4,1,2024-01-17,2025-04-16
+P00476,"John Mendoza",Male,2011-12-24,13,"Malolos City",Philippines,Inactive,4,1,1,208160.84,164219.02,43941.82,1,1,2024-07-05,2025-12-03
+P00477,"Miguel Bautista",Male,1940-12-12,84,"Malolos City",Philippines,Active,5,2,1,227290.10,227290.10,0.00,1,2,2023-11-23,2025-09-02
+P00478,"Mark Mendoza",Female,1943-01-20,82,"Quezon  City",Philippines,Unknown,2,1,0,0.00,0.00,0.00,1,1,2025-09-08,2025-10-25
+P00479,"Bea Castillo",Female,2020-05-20,4,"Malolos City",Philippines,Unknown,9,4,2,41011.55,41011.55,0.00,1,2,2023-02-23,2025-04-01
+P00480,"John Mendoza",Female,2010-01-16,13,"Caloocan City",Philippines,Unknown,3,1,0,244001.58,143000.18,101001.40,3,2,2023-08-07,2024-01-11
+P00481,"Jose Cruz",Female,1994-10-02,30,"Pasig City",Philippines,Unknown,1,1,0,319924.35,125776.25,194148.10,2,0,2025-05-01,2025-05-01
+P00482,"Angela Santos",Male,1946-07-17,78,"Makati City",Philippines,Active,5,1,1,300108.26,282054.63,18053.63,6,6,2023-01-11,2025-04-03
+P00483,"Ramon Mendoza",Female,2002-10-21,23,"Angeles City",Philippines,Active,6,4,0,201115.56,179892.33,21223.23,2,3,2023-04-06,2025-12-06
+P00484,"Juan Gonzales",Female,2013-05-20,10,"Angeles City",Philippines,Active,1,0,0,510297.36,477780.85,32516.51,1,5,2023-09-08,2023-09-08
+P00485,"Patricia Ramos",Unknown,1970-07-05,53,"Angeles City",Philippines,Inactive,2,2,0,566532.19,489500.57,77031.62,2,7,2023-03-24,2023-12-07
+P00486,"Ramon Rivera",Male,1996-07-29,26,"Pasig City",Philippines,Active,1,0,0,269275.23,219949.41,49325.82,4,0,2023-05-10,2023-05-10
+P00487,"Kevin Gonzales",Male,2011-02-13,12,"Manila City",Philippines,Active,4,1,2,0.00,0.00,0.00,2,3,2023-04-05,2023-11-05
+P00488,"John Castillo",Female,1943-11-03,81,"Makati City",Philippines,Active,5,1,1,371620.54,321744.56,49875.98,1,4,2023-05-26,2025-02-22
+P00489,"Maria Navarro",Female,1983-11-11,41,"Manila City",Philippines,Active,4,2,1,489788.75,43893.25,445895.50,4,4,2023-05-01,2025-03-06
+P00490,"Grace Aquino",Female,2014-12-10,10,"Angeles City",Philippines,Unknown,5,1,2,35601.30,32665.01,2936.29,3,1,2023-04-15,2025-04-21
+P00491,"John Santos",Female,1991-09-03,33,"San Fernando City",Philippines,Active,2,0,0,194525.97,194525.97,0.00,1,3,2024-10-18,2024-11-26
+P00492,"Angela Reyes",Unknown,1977-03-30,47,"Manila City",Philippines,Active,2,1,0,227758.67,214619.64,13139.03,0,2,2024-07-24,2024-12-23
+P00493,"Thomas Gonzales",Unknown,1954-02-25,71,"Malolos City",Philippines,Unknown,5,3,0,58770.49,58770.49,0.00,3,5,2023-06-24,2025-09-11
+P00494,"Kevin Navarro",Female,1958-06-30,66,"Malolos City",Philippines,Active,2,1,0,14821.17,14821.17,0.00,2,5,2023-09-11,2025-02-03
+P00495,"Kevin Aquino",Male,1996-04-07,29,"Quezon  City",Philippines,Active,7,4,1,435203.28,331064.31,104138.97,1,2,2023-01-23,2025-10-05
+P00496,"Grace Castillo",Female,1999-02-24,26,"Malolos City",Philippines,Active,1,1,0,272282.75,190753.50,81529.25,1,2,2025-12-15,2025-12-15
+P00497,"Maria Dela Cruz",Female,1972-09-02,52,"Manila City",Philippines,Active,1,0,0,71257.71,53443.28,17814.43,1,5,2025-04-19,2025-04-19
+P00498,"Juan Cruz",Male,1950-05-31,75,"Pasig City",Philippines,Inactive,7,1,3,30743.47,15371.74,15371.73,3,2,2023-02-18,2026-01-02
+P00499,"Daniel Santos",Female,2006-03-09,NULL,"Manila City",Philippines,Active,0,0,0,300005.22,219562.06,80443.16,0,7,NULL,NULL
+P00500,"Sofia Rivera",Male,1980-10-26,43,"Caloocan City",Philippines,Inactive,6,1,1,174678.80,63942.96,110735.84,3,4,2023-01-21,2024-10-24
+P00501,"Carlos Dela Cruz",Female,1991-01-07,NULL,"San Fernando City",Philippines,Inactive,0,0,0,383817.45,282244.33,101573.12,2,2,NULL,NULL
+P00502,"Thomas Reyes",Unknown,2011-04-14,13,"Malolos City",Philippines,Unknown,4,1,1,182451.81,182451.81,0.00,2,0,2023-07-16,2024-08-24
+P00503,"Grace Mendoza",Male,2005-06-29,20,"Malolos City",Philippines,Active,7,3,0,225630.36,139964.69,85665.67,4,8,2023-04-01,2025-10-14
+P00504,"Liza Dela Cruz",Male,1982-03-23,42,"Malolos City",Philippines,Active,3,0,1,68785.57,6739.65,62045.92,5,2,2023-09-18,2024-04-07
+P00505,"Jose Ramos",Unknown,1941-02-11,84,"Manila City",Philippines,Inactive,7,1,0,467808.32,176693.05,291115.27,3,4,2023-07-07,2025-07-18
+P00506,"Miguel Navarro",Female,2016-12-19,9,"Angeles City",Philippines,Inactive,4,1,2,364994.18,364994.18,0.00,2,3,2023-06-07,2025-12-19
+P00507,"Grace Navarro",Female,1940-02-14,84,"Malolos City",Philippines,Active,1,0,0,617235.78,534835.30,82400.48,3,3,2024-08-10,2024-08-10
+P00508,"Thomas Rivera",Male,2006-01-03,17,"Malolos City",Philippines,Inactive,3,1,0,349394.00,265440.39,83953.61,1,2,2023-02-17,2023-09-29
+P00509,"Patricia Reyes",Female,1990-02-17,35,"Malolos City",Philippines,Active,6,0,1,397715.73,187607.54,210108.19,4,2,2023-01-09,2025-08-14
+P00510,"John Bautista",Male,1985-03-05,39,"Meycauayan City",Philippines,Unknown,4,1,0,124268.52,62791.20,61477.32,0,3,2023-01-16,2024-03-30
+P00511,"Luis Torres",Unknown,1987-10-21,NULL,"Quezon  City",Philippines,Unknown,0,0,0,69481.66,34740.83,34740.83,1,7,NULL,NULL
+P00512,"Miguel Mendoza",Male,1949-10-23,75,"Meycauayan City",Philippines,Inactive,5,2,1,45570.37,0.00,45570.37,4,2,2023-03-27,2025-10-01
+P00513,"Liza Torres",Male,1951-11-05,73,"Manila City",Philippines,Inactive,1,0,0,137517.01,137517.01,0.00,5,3,2025-05-23,2025-05-23
+P00514,"Liza Aquino",Male,1998-10-30,26,"Malolos City",Philippines,Inactive,1,1,0,167803.66,167803.66,0.00,4,2,2025-07-01,2025-07-01
+P00515,"Miguel Castillo",Male,1960-05-06,65,"Malolos City",Philippines,Active,3,1,1,362714.32,292937.23,69777.09,1,4,2023-06-26,2025-11-24
+P00516,"Luis Mendoza",Female,1955-09-25,67,"Malolos City",Philippines,Inactive,1,0,0,178495.97,155531.74,22964.23,1,4,2023-08-28,2023-08-28
+P00517,"Miguel Garcia",Male,2003-06-10,22,"Makati City",Philippines,Active,3,1,2,166422.79,109969.92,56452.87,4,1,2024-12-28,2025-08-25
+P00518,"Juan Gonzales",Female,2008-12-11,NULL,"Malolos City",Philippines,Active,0,0,0,127622.62,109164.05,18458.57,2,3,NULL,NULL
+P00519,"Bea Navarro",Female,1970-05-21,53,"Angeles City",Philippines,Unknown,3,1,1,296691.90,82030.45,214661.45,3,3,2023-10-02,2024-05-03
+P00520,"Patricia Santos",Male,1944-12-08,80,"Pasig City",Philippines,Active,5,2,0,114803.24,87764.83,27038.41,8,1,2024-06-05,2025-12-06
+P00521,"Luis Flores",Female,2000-09-28,25,"Meycauayan City",Philippines,Inactive,5,0,2,147604.65,100055.17,47549.48,1,2,2024-06-12,2025-11-28
+P00522,"Ramon Reyes",Female,2016-08-06,9,"Caloocan City",Philippines,Active,4,2,0,217602.46,66670.60,150931.86,2,1,2023-02-01,2025-09-20
+P00523,"Sofia Navarro",Female,2006-07-11,19,"Makati City",Philippines,Active,3,1,0,108808.12,67641.58,41166.54,1,2,2023-04-26,2025-10-27
+P00524,"Sofia Mendoza",Female,2017-10-30,7,"Caloocan City",Philippines,Active,3,0,1,202624.33,202624.33,0.00,7,3,2023-06-22,2025-10-21
+P00525,"Luis Cruz",Female,1990-12-13,34,"Manila City",Philippines,Inactive,3,1,0,312047.85,263883.31,48164.54,1,6,2025-06-22,2025-11-14
+P00526,"Kevin Ramos",Female,1981-07-30,43,"Quezon  City",Philippines,Unknown,4,2,0,770302.78,443794.50,326508.28,2,3,2024-07-27,2025-03-09
+P00527,"Miguel Cruz",Female,1997-11-05,NULL,"Malolos City",Philippines,Unknown,0,0,0,327310.95,295359.24,31951.71,3,1,NULL,NULL
+P00528,"Bea Gonzales",Unknown,1963-02-20,62,"Makati City",Philippines,Active,2,1,1,501895.54,354838.48,147057.06,1,1,2023-05-12,2025-12-22
+P00529,"John Cruz",Female,1952-02-26,73,"Manila City",Philippines,Inactive,5,2,0,260420.13,226416.05,34004.08,1,1,2023-12-21,2025-04-25
+P00530,"Andrea Torres",Male,1986-02-06,38,"San Fernando City",Philippines,Inactive,4,2,1,219582.88,193736.28,25846.60,4,1,2023-06-25,2024-12-09
+P00531,"Patricia Santos",Male,1992-01-14,33,"Angeles City",Philippines,Active,1,1,0,72740.72,72740.72,0.00,1,3,2025-08-19,2025-08-19
+P00532,"Ana Garcia",Female,1985-02-27,40,"Quezon  City",Philippines,Active,2,0,0,696788.91,607495.09,89293.82,4,1,2023-02-22,2025-05-14
+P00533,"Juan Cruz",Male,1967-12-14,57,"Manila City",Philippines,Active,3,1,0,0.00,0.00,0.00,1,4,2023-03-14,2025-01-07
+P00534,"Carlos Flores",Female,1952-10-08,71,"Quezon  City",Philippines,Unknown,2,0,2,322351.10,214831.94,107519.16,3,0,2023-03-11,2024-02-02
+P00535,"Liza Dela Cruz",Female,1949-09-02,75,"Manila City",Philippines,Inactive,4,2,0,161938.19,132425.45,29512.74,2,1,2024-08-27,2025-07-13
+P00536,"Juan Castillo",Male,2010-03-10,15,"Manila City",Philippines,Active,4,2,0,139486.54,139486.54,0.00,2,1,2023-12-20,2025-08-19
+P00537,"Angela Aquino",Male,1971-08-06,54,"Manila City",Philippines,Active,2,1,0,312285.53,162284.90,150000.63,0,1,2024-01-02,2025-12-18
+P00538,"Mark Reyes",Unknown,1988-03-09,35,"Makati City",Philippines,Active,2,1,0,265145.74,265145.74,0.00,5,2,2023-03-08,2023-06-21
+P00539,"Miguel Flores",Male,1974-01-21,51,"Quezon  City",Philippines,Active,2,1,0,180799.87,180799.87,0.00,2,4,2025-02-13,2025-11-18
+P00540,"Andrea Reyes",Female,2008-05-21,15,"Quezon  City",Philippines,Inactive,4,2,0,174918.16,158661.84,16256.32,1,2,2023-01-04,2023-10-22
+P00541,"Grace Aquino",Female,1967-12-28,57,"Malolos City",Philippines,Active,2,1,0,422326.00,307011.56,115314.44,1,4,2023-05-09,2024-12-31
+P00542,"Juan Torres",Female,2000-04-18,25,"Angeles City",Philippines,Active,4,2,0,51737.85,51737.85,0.00,1,3,2023-08-31,2025-06-18
+P00543,"Jose Bautista",Female,1970-05-19,55,"Caloocan City",Philippines,Unknown,5,1,1,186454.02,186454.02,0.00,2,2,2023-11-07,2025-11-22
+P00544,"Patricia Cruz",Female,1994-02-10,29,"Caloocan City",Philippines,Unknown,1,0,0,95178.58,0.00,95178.58,3,2,2023-04-20,2023-04-20
+P00545,"Daniel Torres",Female,1942-08-31,81,"Makati City",Philippines,Inactive,3,1,0,405954.07,275197.51,130756.56,1,1,2023-03-15,2023-12-01
+P00546,"Carlos Mendoza",Male,1995-11-30,30,"Pasig City",Philippines,Unknown,5,0,1,129518.40,31950.45,97567.95,1,2,2023-08-18,2025-12-30
+P00547,"Kevin Ramos",Male,1988-08-30,36,"Angeles City",Philippines,Inactive,4,1,1,211454.28,211454.28,0.00,5,2,2024-02-25,2025-07-12
+P00548,"Ramon Cruz",Female,1943-03-25,80,"Makati City",Philippines,Unknown,1,1,0,355100.58,240673.43,114427.15,3,4,2024-01-02,2024-01-02
+P00549,"Kevin Castillo",Male,1991-01-13,34,"Meycauayan City",Philippines,Unknown,2,0,0,426648.70,389515.04,37133.66,2,1,2025-05-21,2025-06-10
+P00550,"Angela Cruz",Male,1973-11-22,51,"Malolos City",Philippines,Active,3,0,0,157662.07,151422.32,6239.75,1,2,2023-11-02,2025-09-16
+P00551,"Patricia Bautista",Unknown,2006-07-28,18,"San Fernando City",Philippines,Inactive,3,1,0,378532.44,346240.21,32292.23,2,3,2023-07-17,2025-05-17
+P00552,"Maria Torres",Female,1962-03-19,62,"Quezon  City",Philippines,Active,1,0,0,70506.01,70506.01,0.00,3,4,2025-02-08,2025-02-08
+P00553,"Juan Ramos",Male,1943-05-09,81,"Malolos City",Philippines,Inactive,4,0,1,236811.75,220419.76,16391.99,5,1,2023-01-19,2025-01-05
+P00554,"Ramon Aquino",Female,1968-12-04,54,"San Fernando City",Philippines,Inactive,2,0,0,79657.85,0.00,79657.85,1,4,2023-04-01,2023-07-13
+P00555,"Patricia Gonzales",Female,1984-08-01,40,"Angeles City",Philippines,Active,3,2,0,379566.20,246104.10,133462.10,2,3,2023-02-27,2025-05-08
+P00556,"Bea Santos",Male,1970-03-21,55,"San Fernando City",Philippines,Inactive,2,0,0,151748.98,75874.49,75874.49,1,1,2024-10-12,2025-12-30
+P00557,"Andrea Castillo",Male,1978-11-02,44,"Malolos City",Philippines,Active,1,0,0,432030.25,365959.42,66070.83,1,2,2023-03-10,2023-03-10
+P00558,"Andrea Flores",Female,1991-10-02,33,"Malolos City",Philippines,Active,4,0,0,0.00,0.00,0.00,3,4,2023-11-30,2025-06-18
+P00559,"Andrea Garcia",Male,1981-06-28,42,"Quezon  City",Philippines,Unknown,2,1,0,306900.54,269530.99,37369.55,5,4,2023-05-04,2024-02-12
+P00560,"Angela Flores",Male,1997-12-16,27,"Pasig City",Philippines,Active,2,0,0,276004.07,207003.06,69001.01,2,2,2023-05-25,2025-03-02
+P00561,"Mark Cruz",Female,1990-03-23,35,"Manila City",Philippines,Inactive,5,0,1,90678.02,0.00,90678.02,5,6,2024-01-08,2025-10-12
+P00562,"Luis Reyes",Female,2016-06-25,NULL,"San Fernando City",Philippines,Active,0,0,0,453702.19,424349.71,29352.48,3,5,NULL,NULL
+P00563,"Liza Rivera",Male,2000-04-04,24,"Meycauayan City",Philippines,Unknown,1,0,0,144677.76,144677.76,0.00,4,2,2024-11-10,2024-11-10
+P00564,"Jose Garcia",Male,1950-12-20,74,"Pasig City",Philippines,Active,5,1,0,125250.82,1423.91,123826.91,5,1,2023-07-15,2025-10-07
+P00565,"Miguel Garcia",Male,1979-06-05,45,"San Fernando City",Philippines,Unknown,2,0,0,112865.23,112865.23,0.00,2,2,2023-01-19,2025-04-18
+P00566,"Daniel Mendoza",Unknown,1952-12-31,72,"Manila City",Philippines,Active,4,0,3,333256.62,201127.68,132128.94,5,2,2023-04-29,2025-06-01
+P00567,"Angela Ramos",Female,1967-09-30,56,"Angeles City",Philippines,Inactive,5,1,0,284022.88,192663.37,91359.51,3,3,2023-04-28,2024-09-12
+P00568,"Jose Rivera",Unknown,2007-11-19,16,"Manila City",Philippines,Active,2,0,0,457110.54,269433.60,187676.94,1,0,2023-05-27,2024-02-19
+P00569,"Kevin Cruz",Female,1977-01-17,NULL,"Meycauayan City",Philippines,Inactive,0,0,0,374449.34,196685.92,177763.42,3,2,NULL,NULL
+P00570,"Liza Aquino",Female,2012-12-22,12,"Malolos City",Philippines,Active,6,1,0,218081.40,60283.54,157797.86,4,2,2023-06-25,2025-09-14
+P00571,"Ramon Garcia",Female,1967-05-31,58,"Malolos City",Philippines,Inactive,3,1,0,244568.33,111932.74,132635.59,2,4,2024-10-20,2025-10-03
+P00572,"Grace Cruz",Unknown,2005-12-15,19,"Angeles City",Philippines,Active,5,3,0,512400.27,398026.06,114374.21,3,2,2023-08-21,2025-10-08
+P00573,"Ramon Rivera",Female,2014-11-18,10,"Pasig City",Philippines,Active,4,2,2,431104.96,103898.51,327206.45,2,4,2023-07-09,2025-09-15
+P00574,"Maria Gonzales",Male,1978-06-24,45,"Quezon  City",Philippines,Unknown,1,0,0,417910.33,358363.20,59547.13,3,2,2023-11-12,2023-11-12
+P00575,"Grace Flores",Female,1984-05-01,41,"Angeles City",Philippines,Unknown,2,1,0,264000.44,165940.11,98060.33,3,3,2024-11-23,2025-12-06
+P00576,"Sofia Aquino",Female,2013-12-06,9,"Manila City",Philippines,Inactive,2,0,0,258507.42,159736.00,98771.42,4,4,2023-01-10,2023-09-30
+P00577,"Daniel Aquino",Female,2021-05-26,3,"Makati City",Philippines,Unknown,3,1,0,315014.25,303134.46,11879.79,1,1,2023-05-02,2024-08-22
+P00578,"Sofia Navarro",Female,2003-07-23,NULL,"Manila City",Philippines,Active,0,0,0,291438.53,212834.37,78604.16,2,3,NULL,NULL
+P00579,"Kevin Rivera",Male,1994-05-26,30,"San Fernando City",Philippines,Active,2,0,0,110216.60,110216.60,0.00,2,2,2023-10-09,2024-06-02
+P00580,"Bea Reyes",Male,1955-03-29,NULL,"Angeles City",Philippines,Inactive,0,0,0,437411.71,323422.40,113989.31,1,2,NULL,NULL
+P00581,"Ana Bautista",Male,1951-06-22,72,"Malolos City",Philippines,Inactive,2,2,0,284514.43,156486.60,128027.83,3,4,2023-09-12,2023-10-31
+P00582,"Liza Rivera",Female,1968-04-22,57,"Manila City",Philippines,Active,2,0,0,210010.33,89994.81,120015.52,4,2,2024-06-26,2025-11-09
+P00583,"Maria Cruz",Male,1954-09-03,NULL,"Malolos City",Philippines,Unknown,0,0,0,309500.09,180242.03,129258.06,3,1,NULL,NULL
+P00584,"Ana Flores",Female,2017-10-08,7,"Meycauayan City",Philippines,Active,5,1,2,108582.02,81436.51,27145.51,3,4,2023-03-25,2025-10-07
+P00585,"Bea Dela Cruz",Male,2008-10-18,16,"San Fernando City",Philippines,Inactive,3,1,0,548083.26,262378.34,285704.92,2,2,2023-02-24,2025-04-26
+P00586,"Ana Gonzales",Male,1992-12-17,32,"Malolos City",Philippines,Active,8,2,1,494982.98,428387.70,66595.28,1,5,2023-03-17,2025-09-15
+P00587,"John Dela Cruz",Female,1995-11-01,29,"San Fernando City",Philippines,Active,3,1,0,101765.49,65948.47,35817.02,2,3,2023-01-22,2025-10-17
+P00588,"Luis Aquino",Female,1948-04-20,77,"Makati City",Philippines,Unknown,3,0,0,505058.68,320134.60,184924.08,4,3,2024-05-20,2025-06-24
+P00589,"Mark Torres",Unknown,1998-09-05,26,"Makati City",Philippines,Active,2,0,0,164734.76,68446.86,96287.90,3,2,2024-06-05,2024-12-13
+P00590,"Patricia Ramos",Female,1983-12-04,39,"San Fernando City",Philippines,Unknown,1,0,0,0.00,0.00,0.00,2,1,2023-02-24,2023-02-24
+P00591,"Liza Santos",Male,1986-01-20,39,"Quezon  City",Philippines,Unknown,3,1,1,249965.36,158543.82,91421.54,4,0,2023-06-11,2025-10-29
+P00592,"Liza Santos",Unknown,1982-11-06,41,"Caloocan City",Philippines,Active,2,0,0,92268.39,46134.19,46134.20,3,1,2023-03-07,2024-09-06
+P00593,"Maria Ramos",Male,1985-10-24,40,"Quezon  City",Philippines,Active,2,0,0,291351.94,213161.72,78190.22,5,2,2023-01-24,2025-12-03
+P00594,"Grace Reyes",Unknown,1956-05-06,69,"Malolos City",Philippines,Inactive,3,1,1,87683.95,83223.78,4460.17,1,2,2024-09-02,2025-11-13
+P00595,"Miguel Garcia",Female,1947-01-07,78,"Quezon  City",Philippines,Active,3,0,2,156607.85,67801.16,88806.69,0,5,2023-02-26,2025-01-31
+P00596,"Kevin Cruz",Female,1976-05-05,NULL,"Quezon  City",Philippines,Active,0,0,0,263509.21,210261.92,53247.29,2,0,NULL,NULL
+P00597,"Juan Garcia",Male,2013-03-15,NULL,"Pasig City",Philippines,Active,0,0,0,409710.86,362630.63,47080.23,3,1,NULL,NULL
+P00598,"Jose Mendoza",Unknown,1981-07-29,44,"Malolos City",Philippines,Unknown,3,3,0,651906.17,442020.30,209885.87,1,1,2023-12-21,2026-01-05
+P00599,"Juan Flores",Female,1992-07-02,30,"Quezon  City",Philippines,Unknown,1,1,0,34877.44,34877.44,0.00,4,1,2023-02-14,2023-02-14
+P00600,"Kevin Navarro",Male,1993-06-15,31,"Malolos City",Philippines,Active,4,3,0,152935.87,152935.87,0.00,3,3,2023-06-19,2024-08-25
+P00601,"Maria Ramos",Male,1977-11-10,48,"Quezon  City",Philippines,Inactive,4,1,1,53689.05,53689.05,0.00,3,1,2023-03-24,2025-11-24
+P00602,"Grace Navarro",Female,1941-11-12,83,"Pasig City",Philippines,Unknown,2,0,0,392369.02,392369.02,0.00,4,1,2023-11-02,2024-11-23
+P00603,"Carlos Rivera",Male,2004-11-11,21,"Malolos City",Philippines,Inactive,4,0,0,384893.72,302382.00,82511.72,0,1,2024-12-29,2025-12-02
+P00604,"Jose Torres",Female,1951-08-01,73,"Malolos City",Philippines,Active,2,2,0,378284.61,266561.48,111723.13,2,4,2024-04-25,2025-05-26
+P00605,"Sofia Ramos",Male,1941-08-17,83,"Manila City",Philippines,Inactive,1,0,1,188315.23,173768.39,14546.84,2,1,2025-04-23,2025-04-23
+P00606,"Liza Santos",Male,1960-05-03,65,"Manila City",Philippines,Active,4,1,1,139019.69,72659.41,66360.28,2,1,2024-06-23,2025-12-22
+P00607,"Andrea Aquino",Female,1949-05-05,76,"Malolos City",Philippines,Active,2,0,0,395370.08,337286.06,58084.02,4,2,2023-08-18,2025-12-19
+P00608,"Andrea Santos",Female,1996-07-06,29,"Malolos City",Philippines,Active,5,0,1,143909.92,101842.23,42067.69,0,2,2023-11-23,2025-10-28
+P00609,"Patricia Bautista",Unknown,1952-05-11,72,"San Fernando City",Philippines,Active,3,1,1,492960.99,344057.68,148903.31,2,1,2023-07-05,2025-03-26
+P00610,"Jose Mendoza",Male,2004-02-29,21,"Angeles City",Philippines,Active,5,1,1,207810.97,207810.97,0.00,2,4,2023-04-02,2025-05-24
+P00611,"Liza Gonzales",Female,2020-07-26,4,"Meycauayan City",Philippines,Active,4,1,2,239799.94,156249.82,83550.12,1,3,2023-05-16,2024-08-27
+P00612,"John Bautista",Female,2009-04-17,15,"Manila City",Philippines,Unknown,1,0,0,82696.55,71826.67,10869.88,1,1,2025-02-02,2025-02-02
+P00613,"Ramon Rivera",Female,2002-11-14,22,"Malolos City",Philippines,Unknown,2,0,0,310030.56,114478.52,195552.04,1,2,2023-01-18,2025-06-06
+P00614,"Grace Torres",Female,2019-08-18,6,"Pasig City",Philippines,Active,7,1,2,467676.80,81449.33,386227.47,1,1,2023-05-09,2025-08-20
+P00615,"Maria Ramos",Male,1974-12-27,50,"Caloocan City",Philippines,Active,3,2,1,261180.57,93234.64,167945.93,2,0,2023-09-03,2025-06-05
+P00616,"Juan Dela Cruz",Unknown,1988-06-09,37,"Manila City",Philippines,Inactive,5,1,1,120170.68,112987.30,7183.38,1,1,2023-06-20,2025-06-27
+P00617,"Andrea Bautista",Male,1944-04-13,81,"Malolos City",Philippines,Inactive,2,0,0,90014.46,90014.46,0.00,3,0,2023-08-06,2025-10-08
+P00618,"Mark Mendoza",Female,2010-05-28,15,"Meycauayan City",Philippines,Inactive,5,1,1,211209.95,169199.20,42010.75,2,0,2023-03-19,2025-07-28
+P00619,"Grace Santos",Female,2003-11-05,NULL,"Malolos City",Philippines,Unknown,0,0,0,196182.68,37903.28,158279.40,4,4,NULL,NULL
+P00620,"Jose Bautista",Female,1987-03-19,37,"Angeles City",Philippines,Unknown,1,0,0,399786.83,304509.45,95277.38,2,2,2024-07-02,2024-07-02
+P00621,"Liza Flores",Female,1952-12-12,72,"Meycauayan City",Philippines,Active,4,1,1,612461.98,485698.00,126763.98,2,3,2023-08-29,2025-05-08
+P00622,"Grace Cruz",Male,2006-12-21,18,"Malolos City",Philippines,Active,4,2,0,267289.59,192126.10,75163.49,1,5,2023-09-18,2025-10-09
+P00623,"Andrea Reyes",Male,1973-04-29,52,"Makati City",Philippines,Active,1,1,0,472797.49,352472.00,120325.49,2,2,2025-12-01,2025-12-01
+P00624,"Mark Rivera",Male,1959-05-05,66,"Angeles City",Philippines,Inactive,3,0,0,76083.82,0.00,76083.82,5,0,2024-01-06,2025-12-07
+P00625,"Bea Cruz",Male,2010-02-05,NULL,"Malolos City",Philippines,Inactive,0,0,0,133366.10,133366.10,0.00,2,6,NULL,NULL
+P00626,"Jose Castillo",Male,1999-08-13,25,"Malolos City",Philippines,Active,1,0,0,200365.84,198688.34,1677.50,2,3,2025-08-02,2025-08-02
+P00627,"Miguel Navarro",Male,1991-04-26,31,"Meycauayan City",Philippines,Active,1,0,0,240443.51,193990.67,46452.84,2,1,2023-01-05,2023-01-05
+P00628,"Kevin Ramos",Male,1950-10-16,74,"Malolos City",Philippines,Inactive,1,0,0,427548.76,293545.24,134003.52,3,4,2025-06-24,2025-06-24
+P00629,"Ramon Aquino",Male,1984-02-03,41,"San Fernando City",Philippines,Inactive,3,0,0,330388.60,91832.36,238556.24,3,4,2023-01-22,2025-11-18
+P00630,"Jose Santos",Male,1988-08-09,34,"Angeles City",Philippines,Active,1,0,1,544866.45,308607.33,236259.12,4,4,2023-08-03,2023-08-03
+P00631,"Thomas Bautista",Female,1942-06-09,82,"Caloocan City",Philippines,Active,2,1,0,173752.01,137338.94,36413.07,3,3,2023-02-07,2024-11-09
+P00632,"Maria Garcia",Female,2007-06-23,18,"Caloocan City",Philippines,Inactive,4,2,0,217652.37,142187.09,75465.28,5,3,2024-01-03,2025-12-05
+P00633,"Grace Ramos",Female,1945-11-14,79,"Malolos City",Philippines,Active,5,0,0,180157.58,106915.47,73242.11,4,0,2023-03-12,2025-04-12
+P00634,"Luis Torres",Unknown,1951-04-07,73,"San Fernando City",Philippines,Active,3,0,0,31531.88,15765.94,15765.94,3,3,2023-11-20,2024-09-15
+P00635,"Luis Gonzales",Male,1980-07-11,42,"Malolos City",Philippines,Inactive,1,1,0,289351.36,122493.56,166857.80,0,2,2023-06-22,2023-06-22
+P00636,"Ramon Bautista",Unknown,1996-09-19,28,"Malolos City",Philippines,Inactive,3,1,0,241177.21,186808.03,54369.18,2,3,2023-12-10,2025-07-31
+P00637,"Jose Gonzales",Female,1951-01-12,73,"San Fernando City",Philippines,Inactive,3,0,1,156009.60,16255.83,139753.77,4,2,2023-02-21,2025-01-08
+P00638,"Grace Mendoza",Female,1999-06-01,26,"Manila City",Philippines,Active,2,1,0,84849.53,0.00,84849.53,1,2,2024-10-24,2025-07-12
+P00639,"Juan Torres",Female,1977-01-24,47,"Meycauayan City",Philippines,Unknown,3,0,0,138849.98,77537.37,61312.61,1,3,2023-09-01,2024-09-27
+P00640,"Ana Bautista",Unknown,1973-10-07,51,"Pasig City",Philippines,Active,4,2,0,229792.88,186520.23,43272.65,8,4,2024-08-06,2025-02-17
+P00641,"Daniel Navarro",Male,2008-01-15,17,"Pasig City",Philippines,Inactive,5,2,2,281507.03,266770.91,14736.12,4,2,2023-02-16,2025-10-22
+P00642,"Maria Mendoza",Female,2021-02-22,2,"Malolos City",Philippines,Active,4,1,0,220234.06,207750.25,12483.81,1,5,2023-05-28,2024-01-04
+P00643,"Luis Garcia",Female,2006-04-13,19,"Quezon  City",Philippines,Inactive,5,2,0,228064.88,190064.10,38000.78,4,4,2023-03-05,2025-12-21
+P00644,"Bea Flores",Female,2019-01-14,6,"Malolos City",Philippines,Unknown,2,0,0,116143.68,116143.68,0.00,1,2,2024-01-09,2025-03-28
+P00645,"Maria Flores",Male,1978-10-21,46,"Meycauayan City",Philippines,Active,2,0,0,48117.38,31890.96,16226.42,4,5,2024-10-14,2025-03-08
+P00646,"Maria Mendoza",Female,1987-10-07,36,"Manila City",Philippines,Unknown,2,0,0,17809.28,17809.28,0.00,3,3,2023-08-25,2024-01-06
+P00647,"Jose Rivera",Female,1957-08-30,68,"Manila City",Philippines,Inactive,3,1,1,309868.18,271867.23,38000.95,2,8,2023-11-17,2025-10-12
+P00648,"Daniel Santos",Female,1961-05-20,62,"Malolos City",Philippines,Active,1,1,0,446207.29,301383.84,144823.45,3,4,2024-02-07,2024-02-07
+P00649,"Grace Aquino",Male,1947-09-03,76,"Manila City",Philippines,Unknown,3,0,2,278178.64,213512.17,64666.47,3,3,2023-12-05,2023-12-20
+P00650,"Jose Santos",Female,1945-01-02,78,"Pasig City",Philippines,Unknown,4,1,0,238873.62,158199.48,80674.14,3,2,2023-01-12,2023-06-04
+P00651,"Ramon Cruz",Unknown,1978-05-29,47,"Malolos City",Philippines,Active,7,1,1,555918.77,438593.09,117325.68,4,3,2023-05-19,2025-07-23
+P00652,"Ana Dela Cruz",Male,2003-12-29,NULL,"Malolos City",Philippines,Active,0,0,0,155187.39,155187.39,0.00,1,3,NULL,NULL
+P00653,"Daniel Reyes",Unknown,1943-12-15,NULL,"Meycauayan City",Philippines,Active,0,0,0,301409.17,152107.93,149301.24,2,4,NULL,NULL
+P00654,"Kevin Mendoza",Male,1970-10-06,55,"Meycauayan City",Philippines,Unknown,3,1,0,526721.02,344060.35,182660.67,5,1,2024-07-08,2025-12-09
+P00655,"Patricia Garcia",Female,1997-06-19,28,"Malolos City",Philippines,Inactive,4,1,2,86270.91,40458.33,45812.58,2,1,2025-05-01,2025-12-19
+P00656,"Thomas Mendoza",Female,1969-06-25,56,"Pasig City",Philippines,Unknown,5,1,1,109126.47,65204.74,43921.73,4,5,2024-01-08,2026-01-05
+P00657,"Thomas Garcia",Female,1983-02-17,42,"San Fernando City",Philippines,Active,4,1,1,171688.41,171688.41,0.00,5,4,2024-11-25,2025-08-21
+P00658,"Patricia Dela Cruz",Male,1950-05-02,73,"Pasig City",Philippines,Inactive,1,1,0,293363.23,282915.00,10448.23,3,3,2023-08-08,2023-08-08
+P00659,"Miguel Garcia",Male,2004-06-27,19,"Caloocan City",Philippines,Active,2,1,1,409290.50,367893.91,41396.59,5,2,2023-08-23,2024-04-02
+P00660,"Carlos Gonzales",Female,2010-08-22,NULL,"Makati City",Philippines,Active,0,0,0,154821.13,5579.55,149241.58,0,5,NULL,NULL
+P00661,"Ana Reyes",Female,2011-04-25,14,"Pasig City",Philippines,Active,2,1,0,181027.52,181027.52,0.00,5,4,2024-04-07,2025-06-19
+P00662,"Luis Mendoza",Unknown,1953-04-30,72,"Malolos City",Philippines,Active,3,2,0,486616.79,252116.44,234500.35,1,5,2023-01-05,2025-11-02
+P00663,"Jose Castillo",Female,2010-12-18,14,"Malolos City",Philippines,Inactive,1,0,0,161394.95,161394.95,0.00,3,2,2025-02-14,2025-02-14
+P00664,"Patricia Ramos",Female,1983-05-11,42,"Pasig City",Philippines,Active,3,0,1,165805.17,147270.97,18534.20,2,3,2024-01-26,2025-11-05
+P00665,"Ramon Garcia",Male,1978-02-17,46,"Caloocan City",Philippines,Inactive,2,1,0,138795.08,138795.08,0.00,5,2,2023-10-02,2024-05-26
+P00666,"Daniel Aquino",Male,1981-09-27,41,"San Fernando City",Philippines,Inactive,1,0,0,252421.47,178358.22,74063.25,3,3,2023-07-05,2023-07-05
+P00667,"Angela Gonzales",Male,1956-02-10,69,"Caloocan City",Philippines,Inactive,5,2,1,222741.06,212978.00,9763.06,5,0,2023-01-31,2025-06-21
+P00668,"Daniel Santos",Male,1946-05-26,79,"Caloocan City",Philippines,Inactive,5,1,1,0.00,0.00,0.00,0,4,2023-04-27,2025-12-31
+P00669,"Sofia Navarro",Male,1952-05-14,72,"Angeles City",Philippines,Active,2,0,0,4267.49,0.00,4267.49,1,3,2023-12-27,2024-05-25
+P00670,"Kevin Torres",Male,2008-04-14,15,"Malolos City",Philippines,Unknown,1,1,0,165527.56,72975.54,92552.02,2,0,2023-10-02,2023-10-02
+P00671,"John Castillo",Male,1968-02-01,57,"Manila City",Philippines,Active,3,1,1,210297.00,137243.97,73053.03,3,2,2023-04-07,2025-12-11
+P00672,"Bea Flores",Female,1967-05-31,57,"Angeles City",Philippines,Inactive,3,0,0,430625.47,426550.16,4075.31,2,1,2023-04-08,2024-07-28
+P00673,"John Aquino",Male,1990-12-02,34,"Quezon  City",Philippines,Active,4,2,0,265667.60,158896.01,106771.59,1,2,2023-08-11,2025-09-10
+P00674,"Kevin Santos",Male,1991-02-03,34,"Makati City",Philippines,Unknown,4,2,0,177777.05,168282.85,9494.20,2,0,2024-01-31,2025-12-21
+P00675,"Juan Reyes",Female,1946-03-27,79,"San Fernando City",Philippines,Active,5,1,0,59108.18,29554.09,29554.09,5,3,2023-06-24,2025-06-29
+P00676,"John Flores",Female,1975-02-01,50,"Angeles City",Philippines,Active,4,0,2,342911.51,272788.77,70122.74,2,4,2023-04-16,2025-04-26
+P00677,"Sofia Mendoza",Female,2013-05-17,10,"Caloocan City",Philippines,Active,1,1,0,263524.65,193581.89,69942.76,4,3,2023-11-18,2023-11-18
+P00678,"Carlos Cruz",Male,2013-12-22,11,"Malolos City",Philippines,Active,4,3,0,136063.57,117891.43,18172.14,2,3,2023-01-22,2025-07-26
+P00679,"Mark Torres",Female,1971-02-10,53,"Malolos City",Philippines,Unknown,1,0,1,442151.13,354835.07,87316.06,6,3,2024-05-15,2024-05-15
+P00680,"Ramon Rivera",Female,1956-06-16,69,"Caloocan City",Philippines,Active,6,3,1,344205.02,224182.72,120022.30,4,2,2023-11-06,2025-11-07
+P00681,"Sofia Rivera",Female,1976-11-23,48,"Makati City",Philippines,Active,5,2,1,180460.68,180460.68,0.00,4,3,2023-02-12,2025-08-18
+P00682,"Andrea Dela Cruz",Female,1942-05-25,83,"Angeles City",Philippines,Active,5,0,1,506463.39,243432.55,263030.84,2,1,2023-02-06,2025-10-27
+P00683,"Angela Santos",Female,1952-03-30,73,"Pasig City",Philippines,Active,4,1,0,117072.21,95535.18,21537.03,0,3,2024-12-04,2025-10-20
+P00684,"Kevin Flores",Male,2015-07-02,9,"Meycauayan City",Philippines,Active,4,0,1,135609.05,67804.52,67804.53,3,4,2023-05-14,2024-10-30
+P00685,"Jose Torres",Unknown,1941-01-02,84,"Meycauayan City",Philippines,Unknown,3,0,1,116384.80,92232.07,24152.73,1,2,2023-02-16,2025-08-01
+P00686,"Maria Flores",Female,2012-10-20,12,"Malolos City",Philippines,Active,4,1,1,203995.87,159606.11,44389.76,1,2,2023-01-06,2025-05-01
+P00687,"Maria Castillo",Female,2008-10-26,NULL,"Manila City",Philippines,Inactive,0,0,0,80607.47,71094.99,9512.48,4,1,NULL,NULL
+P00688,"Sofia Torres",Female,1945-09-01,79,"Quezon  City",Philippines,Inactive,3,2,0,228343.30,197410.65,30932.65,2,2,2023-12-13,2025-07-06
+P00689,"Luis Torres",Female,1996-01-16,29,"San Fernando City",Philippines,Active,5,0,2,192114.79,192114.79,0.00,2,5,2023-01-26,2025-09-28
+P00690,"Juan Gonzales",Female,1968-05-15,57,"Malolos City",Philippines,Active,7,3,0,309138.63,266443.91,42694.72,6,4,2023-01-04,2025-08-11
+P00691,"Jose Rivera",Female,1976-11-17,48,"Malolos City",Philippines,Unknown,3,3,0,134189.98,74842.26,59347.72,2,4,2023-10-09,2025-07-06
+P00692,"Carlos Bautista",Female,1996-12-31,28,"Malolos City",Philippines,Active,4,1,1,0.00,0.00,0.00,3,5,2023-05-12,2025-12-24
+P00693,"Andrea Aquino",Female,1941-03-11,84,"Pasig City",Philippines,Active,4,2,0,165055.44,106526.81,58528.63,3,2,2023-04-07,2025-04-24
+P00694,"Carlos Bautista",Female,1966-08-11,59,"Malolos City",Philippines,Active,4,2,0,286175.04,154294.60,131880.44,4,3,2023-09-23,2025-09-10
+P00695,"Angela Bautista",Female,2010-08-08,15,"San Fernando City",Philippines,Active,3,1,1,217447.17,191091.26,26355.91,1,1,2024-04-27,2025-10-13
+P00696,"Luis Dela Cruz",Female,1962-04-12,62,"Quezon  City",Philippines,Active,2,0,0,101111.53,50555.76,50555.77,5,4,2024-08-19,2025-03-02
+P00697,"Sofia Dela Cruz",Female,1952-09-11,NULL,"Angeles City",Philippines,Inactive,0,0,0,116579.07,89726.37,26852.70,2,0,NULL,NULL
+P00698,"Miguel Navarro",Female,1961-12-21,64,"Pasig City",Philippines,Unknown,2,0,0,0.00,0.00,0.00,1,2,2025-05-27,2025-12-25
+P00699,"Jose Bautista",Female,1973-11-20,52,"Malolos City",Philippines,Unknown,3,1,1,321153.67,193889.08,127264.59,2,4,2024-05-14,2026-01-05
+P00700,"Liza Flores",Male,2008-01-30,15,"Caloocan City",Philippines,Inactive,4,3,0,513280.08,196208.67,317071.41,1,1,2023-06-09,2023-12-07
+P00701,"Ramon Ramos",Male,1983-02-20,41,"Manila City",Philippines,Inactive,6,2,0,494410.64,208889.02,285521.62,2,2,2023-11-06,2024-10-14
+P00702,"Kevin Gonzales",Female,1975-05-28,49,"Quezon  City",Philippines,Active,3,1,0,143055.79,143055.79,0.00,1,2,2024-07-13,2025-03-12
+P00703,"Sofia Castillo",Female,1962-11-25,62,"Angeles City",Philippines,Active,3,2,0,160434.96,58348.45,102086.51,4,2,2023-03-09,2025-08-27
+P00704,"Kevin Dela Cruz",Unknown,1972-06-03,52,"Makati City",Philippines,Active,1,0,0,334981.76,166952.83,168028.93,1,5,2024-10-26,2024-10-26
+P00705,"Thomas Aquino",Female,2015-06-30,10,"Quezon  City",Philippines,Unknown,2,1,1,191932.36,191932.36,0.00,1,1,2024-08-01,2025-07-02
+P00706,"Miguel Flores",Female,1962-09-08,63,"Quezon  City",Philippines,Inactive,2,1,0,379102.47,348795.87,30306.60,5,5,2023-07-12,2025-10-08
+P00707,"Carlos Mendoza",Female,1958-10-18,66,"Quezon  City",Philippines,Unknown,7,1,0,236836.32,229392.64,7443.68,7,1,2023-04-26,2025-05-30
+P00708,"Mark Navarro",Female,1955-04-23,70,"Meycauayan City",Philippines,Unknown,4,1,0,482964.63,325040.09,157924.54,2,2,2023-07-31,2025-08-31
+P00709,"Bea Flores",Female,1956-08-26,67,"Malolos City",Philippines,Active,3,0,0,435765.08,197910.58,237854.50,5,4,2023-02-03,2024-01-22
+P00710,"Jose Mendoza",Male,1973-11-20,49,"Quezon  City",Philippines,Active,1,0,0,296307.44,190140.78,106166.66,1,3,2023-09-17,2023-09-17
+P00711,"Angela Castillo",Male,1999-09-09,25,"Meycauayan City",Philippines,Unknown,3,2,0,4141.90,4141.90,0.00,2,4,2023-12-15,2024-12-13
+P00712,"Kevin Castillo",Male,1994-03-22,29,"San Fernando City",Philippines,Unknown,1,1,0,481240.56,319101.24,162139.32,4,5,2023-04-03,2023-04-03
+P00713,"Thomas Dela Cruz",Male,2018-04-30,6,"Manila City",Philippines,Inactive,2,0,0,262097.35,221702.79,40394.56,3,2,2023-04-07,2025-01-05
+P00714,"Daniel Bautista",Female,1995-06-23,29,"Manila City",Philippines,Active,4,2,0,132154.30,0.00,132154.30,3,2,2023-10-06,2024-10-17
+P00715,"John Torres",Female,1960-12-14,64,"Quezon  City",Philippines,Inactive,4,1,2,32157.43,0.00,32157.43,1,3,2023-12-31,2025-09-03
+P00716,"Thomas Garcia",Female,1952-11-04,72,"Caloocan City",Philippines,Active,4,0,0,530056.79,446277.94,83778.85,1,5,2023-12-01,2025-07-22
+P00717,"Grace Santos",Female,1999-06-13,24,"Manila City",Philippines,Inactive,4,0,0,156843.00,140265.97,16577.03,3,0,2023-02-03,2024-06-07
+P00718,"Ramon Castillo",Male,1959-10-09,65,"Malolos City",Philippines,Inactive,5,0,1,168421.84,168421.84,0.00,1,2,2024-03-16,2025-01-07
+P00719,"Daniel Rivera",Male,2008-10-01,14,"Angeles City",Philippines,Active,2,1,0,194646.46,165205.10,29441.36,2,2,2023-02-07,2023-07-28
+P00720,"Angela Santos",Male,1947-11-13,77,"Makati City",Philippines,Unknown,5,2,2,32298.67,14096.97,18201.70,3,6,2023-11-01,2025-04-13
+P00721,"Bea Navarro",Male,1967-11-19,57,"Makati City",Philippines,Active,3,2,0,413803.76,268640.65,145163.11,5,6,2023-12-16,2025-05-17
+P00722,"Ramon Dela Cruz",Male,2016-06-20,8,"Makati City",Philippines,Active,3,0,1,189254.95,68962.22,120292.73,3,1,2023-02-27,2024-11-02
+P00723,"Maria Aquino",Male,1967-09-17,56,"Angeles City",Philippines,Inactive,1,0,0,0.00,0.00,0.00,3,4,2024-04-24,2024-04-24
+P00724,"Carlos Flores",Female,1958-11-23,65,"Caloocan City",Philippines,Active,1,0,0,206915.91,121190.78,85725.13,5,3,2024-03-31,2024-03-31
+P00725,"Luis Gonzales",Male,1977-11-24,47,"Meycauayan City",Philippines,Active,6,2,0,220933.48,147783.74,73149.74,1,1,2024-02-06,2025-11-06
+P00726,"Carlos Bautista",Unknown,2010-12-27,13,"Malolos City",Philippines,Unknown,5,1,1,283385.06,216975.53,66409.53,2,3,2023-04-26,2024-10-08
+P00727,"Kevin Mendoza",Female,1958-10-26,66,"Quezon  City",Philippines,Unknown,3,1,0,33847.46,25385.60,8461.86,0,4,2023-02-16,2025-02-09
+P00728,"Liza Torres",Unknown,1955-02-03,70,"San Fernando City",Philippines,Active,5,0,1,325207.21,209534.46,115672.75,2,3,2023-03-10,2025-10-07
+P00729,"Ramon Garcia",Male,1950-08-28,75,"Malolos City",Philippines,Inactive,3,0,1,195231.95,95901.42,99330.53,4,1,2024-08-13,2025-09-11
+P00730,"Grace Bautista",Male,1950-10-07,75,"Malolos City",Philippines,Inactive,4,0,1,191920.01,124508.77,67411.24,3,1,2023-02-02,2025-10-24
+P00731,"Ana Castillo",Male,1956-03-31,67,"Quezon  City",Philippines,Active,2,0,1,130395.99,119271.59,11124.40,3,3,2023-12-07,2024-01-31
+P00732,"Luis Reyes",Female,2012-12-04,10,"Malolos City",Philippines,Active,1,0,0,405139.72,249681.63,155458.09,3,3,2023-12-01,2023-12-01
+P00733,"Ana Reyes",Unknown,1993-09-30,32,"Malolos City",Philippines,Active,3,0,0,156464.59,34082.42,122382.17,5,2,2023-08-01,2025-11-06
+P00734,"Jose Ramos",Male,2016-05-21,6,"Makati City",Philippines,Active,1,0,0,283652.37,225942.39,57709.98,1,4,2023-03-09,2023-03-09
+P00735,"Daniel Mendoza",Male,1986-08-08,38,"Meycauayan City",Philippines,Active,3,1,0,281974.28,265253.14,16721.14,1,4,2023-11-26,2025-06-08
+P00736,"Ana Torres",Unknown,1944-01-05,81,"Malolos City",Philippines,Inactive,7,2,2,150176.46,147859.72,2316.74,2,1,2023-03-31,2025-10-11
+P00737,"Angela Reyes",Female,1995-10-30,29,"Angeles City",Philippines,Active,1,1,0,247211.51,55981.29,191230.22,5,3,2024-12-28,2024-12-28
+P00738,"Angela Torres",Female,2002-04-22,20,"Malolos City",Philippines,Unknown,1,1,0,99831.09,59234.35,40596.74,3,1,2023-02-20,2023-02-20
+P00739,"Carlos Bautista",Unknown,1978-11-26,46,"Quezon  City",Philippines,Active,3,3,0,349397.50,248387.80,101009.70,2,5,2023-05-27,2025-07-20
+P00740,"John Torres",Male,1972-07-19,51,"Angeles City",Philippines,Unknown,2,1,0,305900.40,247857.71,58042.69,3,1,2023-09-25,2024-02-28
+P00741,"Ana Castillo",Male,1955-10-07,69,"Malolos City",Philippines,Inactive,4,0,0,166741.82,115229.96,51511.86,0,2,2023-02-27,2025-07-03
+P00742,"Thomas Santos",Male,1955-04-27,69,"Makati City",Philippines,Active,5,1,0,134687.77,0.00,134687.77,2,5,2023-06-28,2025-03-03
+P00743,"Andrea Navarro",Female,1998-12-29,26,"Pasig City",Philippines,Unknown,1,0,0,54060.97,54060.97,0.00,3,4,2025-03-08,2025-03-08
+P00744,"Miguel Cruz",Male,2011-08-20,13,"Caloocan City",Philippines,Inactive,4,1,1,82720.36,35133.63,47586.73,4,4,2023-11-05,2025-03-26
+P00745,"Jose Torres",Male,1946-11-18,77,"Meycauayan City",Philippines,Active,1,0,0,117354.99,17837.18,99517.81,3,2,2024-09-25,2024-09-25
+P00746,"Liza Torres",Male,2005-07-24,19,"Malolos City",Philippines,Active,1,0,0,392183.18,232481.33,159701.85,2,5,2025-04-11,2025-04-11
+P00747,"Liza Navarro",Male,2007-04-04,18,"Makati City",Philippines,Active,5,2,0,149352.48,0.00,149352.48,3,0,2023-07-16,2025-10-15
+P00748,"Jose Bautista",Unknown,1951-12-17,73,"Quezon  City",Philippines,Active,2,2,0,369134.73,288188.86,80945.87,2,3,2024-02-26,2025-12-03
+P00749,"Luis Flores",Unknown,2016-12-15,7,"Malolos City",Philippines,Active,2,0,0,0.00,0.00,0.00,4,5,2024-05-26,2024-07-19
+P00750,"Mark Rivera",Female,1986-04-01,39,"Malolos City",Philippines,Inactive,2,0,1,162189.83,60951.59,101238.24,5,6,2024-10-29,2025-11-14
+P00751,"Patricia Santos",Male,1971-05-17,54,"Quezon  City",Philippines,Unknown,4,4,0,247054.40,225009.75,22044.65,1,3,2023-11-21,2025-12-20
+P00752,"Ana Rivera",Female,1940-08-14,84,"Caloocan City",Philippines,Unknown,2,0,2,84162.09,63389.04,20773.05,5,2,2023-01-21,2025-06-22
+P00753,"Miguel Ramos",Unknown,1964-03-05,61,"Manila City",Philippines,Active,3,1,0,449590.64,291029.64,158561.00,1,4,2024-09-29,2025-06-21
+P00754,"Ana Garcia",Male,1943-08-12,80,"Malolos City",Philippines,Active,2,0,1,111042.13,111042.13,0.00,3,3,2023-05-24,2024-01-17
+P00755,"Liza Cruz",Male,1984-06-16,NULL,"Manila City",Philippines,Active,0,0,0,475558.01,464060.86,11497.15,3,6,NULL,NULL
+P00756,"Patricia Ramos",Male,2008-11-04,15,"Caloocan City",Philippines,Active,2,0,0,160207.25,160207.25,0.00,2,3,2023-05-17,2023-11-11
+P00757,"Liza Garcia",Male,1953-09-05,69,"Angeles City",Philippines,Unknown,1,1,0,289330.55,229534.99,59795.56,2,4,2023-05-01,2023-05-01
+P00758,"Ana Navarro",Female,1985-01-24,40,"Angeles City",Philippines,Inactive,2,0,1,28011.03,14005.51,14005.52,1,2,2025-02-26,2025-11-05
+P00759,"Sofia Rivera",Female,1978-03-31,47,"Caloocan City",Philippines,Active,3,1,0,155216.10,72918.84,82297.26,6,1,2023-03-10,2025-09-24
+P00760,"John Gonzales",Female,1945-07-03,79,"Caloocan City",Philippines,Unknown,2,0,1,117945.78,0.00,117945.78,2,2,2024-05-03,2025-01-18
+P00761,"Daniel Bautista",Male,1956-04-21,69,"Caloocan City",Philippines,Unknown,4,1,1,25794.85,25794.85,0.00,2,4,2024-02-14,2025-07-17
+P00762,"Miguel Mendoza",Female,1972-08-13,52,"San Fernando City",Philippines,Active,2,0,1,105173.24,0.00,105173.24,4,1,2025-02-01,2025-03-16
+P00763,"Angela Garcia",Male,1974-06-15,51,"Pasig City",Philippines,Active,4,3,1,283515.83,249649.32,33866.51,3,3,2023-03-12,2025-07-07
+P00764,"Jose Ramos",Male,1970-10-06,NULL,"Pasig City",Philippines,Inactive,0,0,0,185666.91,144426.39,41240.52,8,1,NULL,NULL
+P00765,"Luis Bautista",Male,1980-03-26,45,"Caloocan City",Philippines,Inactive,8,2,0,339450.83,176111.81,163339.02,3,3,2023-03-02,2025-11-29
+P00766,"Maria Aquino",Male,2011-04-08,12,"Meycauayan City",Philippines,Unknown,1,0,0,361496.49,253218.40,108278.09,2,1,2023-08-08,2023-08-08
+P00767,"Ramon Aquino",Male,1958-07-25,67,"Malolos City",Philippines,Inactive,7,2,1,279220.66,210710.41,68510.25,1,1,2023-03-23,2025-12-02
+P00768,"Daniel Mendoza",Female,1964-02-02,60,"Makati City",Philippines,Active,5,0,1,500289.96,274410.40,225879.56,3,4,2023-08-03,2024-10-04
+P00769,"Angela Flores",Unknown,1944-08-15,80,"Malolos City",Philippines,Inactive,2,1,1,332832.76,136292.83,196539.93,2,2,2025-04-21,2025-05-13
+P00770,"Jose Navarro",Male,1963-09-09,61,"San Fernando City",Philippines,Inactive,3,1,0,259.68,0.00,259.68,5,1,2024-03-11,2024-10-22
+P00771,"Miguel Mendoza",Male,1988-03-18,37,"Pasig City",Philippines,Inactive,4,0,0,217905.18,119571.44,98333.74,3,4,2023-07-21,2025-10-29
+P00772,"Sofia Aquino",Female,2012-06-18,12,"Quezon  City",Philippines,Active,2,0,0,435458.56,344676.35,90782.21,2,3,2023-12-06,2024-07-28
+P00773,"Grace Reyes",Unknown,2017-05-13,8,"Makati City",Philippines,Unknown,3,0,0,183868.25,124295.24,59573.01,4,1,2023-06-19,2026-01-02
+P00774,"Thomas Garcia",Male,1952-11-15,72,"Makati City",Philippines,Active,5,1,1,380164.88,380164.88,0.00,1,0,2023-03-05,2025-05-26
+P00775,"Ramon Gonzales",Male,1949-11-14,74,"Caloocan City",Philippines,Active,1,0,0,162796.25,66210.07,96586.18,1,3,2023-12-06,2023-12-06
+P00776,"Juan Castillo",Male,1988-08-28,36,"Malolos City",Philippines,Inactive,4,4,0,200343.53,133054.74,67288.79,2,2,2023-09-03,2025-06-03
+P00777,"John Cruz",Female,1961-11-15,63,"Quezon  City",Philippines,Active,6,0,3,53469.14,53469.14,0.00,1,1,2023-03-19,2025-09-16
+P00778,"Andrea Rivera",Unknown,1977-04-04,48,"San Fernando City",Philippines,Active,2,1,0,109501.29,84238.74,25262.55,3,4,2024-06-08,2025-07-09
+P00779,"Ramon Torres",Female,2013-10-25,12,"San Fernando City",Philippines,Inactive,4,2,0,345048.63,297936.94,47111.69,3,1,2024-09-09,2026-01-03
+P00780,"Ana Bautista",Male,2020-05-06,4,"Angeles City",Philippines,Inactive,2,0,0,189320.32,153854.23,35466.09,2,6,2023-08-24,2024-07-19
+P00781,"Thomas Flores",Male,1971-04-03,52,"Manila City",Philippines,Active,2,0,1,275514.49,275514.49,0.00,3,4,2023-04-05,2023-10-22
+P00782,"John Reyes",Female,1980-01-28,45,"San Fernando City",Philippines,Active,6,3,1,253411.33,253411.33,0.00,2,3,2023-05-23,2025-06-18
+P00783,"Ramon Bautista",Male,1984-05-03,41,"Angeles City",Philippines,Unknown,4,0,1,302576.90,175878.92,126697.98,4,2,2023-08-11,2025-09-30
+P00784,"Luis Ramos",Female,1987-10-09,38,"Pasig City",Philippines,Active,1,0,0,408570.74,347621.65,60949.09,2,3,2025-11-08,2025-11-08
+P00785,"Patricia Dela Cruz",Female,2016-04-23,8,"San Fernando City",Philippines,Inactive,1,1,0,45677.96,26728.84,18949.12,1,2,2024-09-18,2024-09-18
+P00786,"Grace Reyes",Unknown,2016-07-21,8,"Quezon  City",Philippines,Unknown,3,1,0,394956.99,190862.94,204094.05,1,5,2023-07-18,2024-11-07
+P00787,"Juan Navarro",Female,1973-05-06,52,"Makati City",Philippines,Active,5,1,0,440088.44,372902.98,67185.46,4,2,2023-01-12,2025-07-11
+P00788,"Patricia Reyes",Male,1961-12-25,63,"Malolos City",Philippines,Inactive,4,1,1,152086.07,138712.18,13373.89,2,3,2023-10-11,2025-10-24
+P00789,"Kevin Gonzales",Female,1970-04-06,53,"Manila City",Philippines,Active,1,1,0,291284.34,73339.17,217945.17,2,3,2024-02-07,2024-02-07
+P00790,"Andrea Reyes",Male,1975-07-24,NULL,"Angeles City",Philippines,Inactive,0,0,0,110200.49,21892.88,88307.61,1,1,NULL,NULL
+P00791,"Jose Ramos",Female,1951-03-24,72,"Malolos City",Philippines,Unknown,1,0,1,134080.98,123211.66,10869.32,4,3,2024-02-18,2024-02-18
+P00792,"Kevin Bautista",Female,1997-08-02,27,"Pasig City",Philippines,Active,2,0,0,209510.32,163308.28,46202.04,1,3,2024-03-18,2024-10-23
+P00793,"Ana Santos",Male,1994-02-11,30,"Malolos City",Philippines,Inactive,3,1,0,377264.79,139912.62,237352.17,4,1,2023-11-10,2024-07-11
+P00794,"Sofia Ramos",Female,1997-04-09,28,"San Fernando City",Philippines,Inactive,3,0,0,247273.96,57928.03,189345.93,2,4,2024-08-05,2025-12-20
+P00795,"Juan Bautista",Unknown,1965-05-02,60,"Quezon  City",Philippines,Unknown,6,2,2,231339.33,184079.29,47260.04,2,3,2023-01-13,2025-12-21
+P00796,"Andrea Santos",Male,2012-06-10,13,"Caloocan City",Philippines,Active,6,1,1,377698.46,230784.19,146914.27,1,2,2023-03-03,2025-07-21
+P00797,"Grace Santos",Female,1948-05-14,77,"San Fernando City",Philippines,Inactive,4,0,0,174964.65,99610.73,75353.92,0,2,2024-06-22,2025-11-14
+P00798,"Thomas Flores",Female,1943-08-04,82,"Quezon  City",Philippines,Active,6,2,2,140796.63,140796.63,0.00,0,2,2023-07-11,2025-10-18
+P00799,"Mark Ramos",Unknown,2011-07-15,13,"Makati City",Philippines,Inactive,5,4,1,330260.45,201144.49,129115.96,2,2,2023-10-04,2025-03-06
+P00800,"Bea Bautista",Male,1948-01-02,77,"Makati City",Philippines,Unknown,2,1,1,163063.66,126252.28,36811.38,3,3,2024-06-10,2025-11-16
+P00801,"Maria Bautista",Unknown,1965-09-18,60,"Malolos City",Philippines,Inactive,5,2,0,545514.52,367338.06,178176.46,1,3,2023-08-23,2025-12-06
+P00802,"Jose Torres",Female,1985-05-22,39,"Manila City",Philippines,Active,4,0,2,203866.61,144641.97,59224.64,3,1,2023-01-27,2025-03-29
+P00803,"Mark Gonzales",Female,1991-02-24,33,"Malolos City",Philippines,Active,5,3,0,340884.47,256894.81,83989.66,4,0,2023-12-02,2025-01-09
+P00804,"Jose Reyes",Female,1949-09-20,75,"San Fernando City",Philippines,Active,3,1,0,210082.68,210082.68,0.00,4,1,2024-04-20,2025-03-06
+P00805,"Kevin Santos",Male,1980-10-12,NULL,"Manila City",Philippines,Active,0,0,0,194583.22,154005.57,40577.65,3,4,NULL,NULL
+P00806,"Patricia Castillo",Female,1982-06-21,43,"Quezon  City",Philippines,Active,6,2,1,0.00,0.00,0.00,2,6,2023-05-28,2025-09-08
+P00807,"Angela Gonzales",Male,1966-10-06,59,"Quezon  City",Philippines,Inactive,9,1,0,254531.05,185838.22,68692.83,3,0,2023-04-01,2025-12-17
+P00808,"Mark Reyes",Female,1971-05-03,52,"Angeles City",Philippines,Active,5,1,1,157316.08,151601.81,5714.27,3,1,2023-01-10,2023-11-02
+P00809,"Jose Navarro",Female,1991-11-24,34,"Makati City",Philippines,Inactive,3,1,0,233260.03,179114.31,54145.72,5,3,2023-11-03,2026-01-01
+P00810,"Ana Castillo",Female,1976-06-16,48,"Quezon  City",Philippines,Active,1,0,0,366013.84,366013.84,0.00,4,2,2024-10-04,2024-10-04
+P00811,"Sofia Gonzales",Female,1988-12-28,36,"Malolos City",Philippines,Inactive,4,1,1,0.00,0.00,0.00,1,0,2023-07-11,2025-11-02
+P00812,"Patricia Dela Cruz",Male,2020-06-10,5,"San Fernando City",Philippines,Unknown,3,2,0,885356.56,718478.34,166878.22,5,4,2024-07-26,2025-11-03
+P00813,"Andrea Castillo",Male,1950-03-04,75,"Angeles City",Philippines,Unknown,5,2,0,91787.69,66249.08,25538.61,6,1,2023-03-22,2025-08-29
+P00814,"Mark Navarro",Male,2021-04-08,4,"Malolos City",Philippines,Unknown,5,2,1,211036.05,211036.05,0.00,2,5,2024-02-21,2025-06-05
+P00815,"Andrea Aquino",Unknown,1942-12-05,82,"Malolos City",Philippines,Inactive,2,1,0,40170.26,40170.26,0.00,0,2,2023-02-21,2025-05-22
+P00816,"Grace Gonzales",Unknown,1997-11-07,27,"Caloocan City",Philippines,Active,4,2,0,537343.17,341757.58,195585.59,4,4,2023-07-06,2025-02-02
+P00817,"Juan Rivera",Female,1942-12-06,81,"Malolos City",Philippines,Active,2,0,2,55379.94,0.00,55379.94,4,8,2023-02-27,2024-10-01
+P00818,"Luis Gonzales",Female,1995-04-15,27,"Makati City",Philippines,Inactive,1,0,0,409991.40,278217.96,131773.44,3,1,2023-03-19,2023-03-19
+P00819,"Andrea Reyes",Female,1960-09-20,64,"Meycauayan City",Philippines,Inactive,5,1,0,295321.43,265496.90,29824.53,2,4,2023-03-06,2025-01-08
+P00820,"Sofia Santos",Male,1942-04-20,83,"Quezon  City",Philippines,Active,3,1,1,392079.84,125422.53,266657.31,2,2,2023-12-07,2025-08-01
+P00821,"Carlos Cruz",Female,1996-08-27,27,"Pasig City",Philippines,Inactive,4,2,0,94002.77,50085.16,43917.61,1,2,2023-02-26,2024-02-06
+P00822,"Maria Mendoza",Male,1952-11-24,72,"Quezon  City",Philippines,Active,1,0,0,0.00,0.00,0.00,1,3,2025-05-13,2025-05-13
+P00823,"Mark Mendoza",Female,1948-04-28,77,"Angeles City",Philippines,Unknown,3,1,0,266146.91,188399.31,77747.60,6,2,2024-03-23,2025-09-09
+P00824,"Jose Garcia",Female,1977-09-02,48,"Makati City",Philippines,Active,2,0,0,91123.58,45561.79,45561.79,0,3,2023-04-11,2025-09-23
+P00825,"John Bautista",Female,1995-01-31,29,"Pasig City",Philippines,Active,4,2,0,325002.25,274038.03,50964.22,2,3,2023-05-16,2025-01-25
+P00826,"Andrea Ramos",Unknown,1953-09-01,71,"Quezon  City",Philippines,Inactive,2,2,0,97255.62,97255.62,0.00,2,3,2023-02-22,2025-03-29
+P00827,"Angela Cruz",Female,1948-04-01,77,"Angeles City",Philippines,Active,3,1,0,89549.12,69685.19,19863.93,5,5,2023-08-22,2025-04-01
+P00828,"Angela Reyes",Female,2001-08-21,24,"Malolos City",Philippines,Unknown,4,0,2,61943.29,30971.65,30971.64,2,4,2024-05-21,2025-10-24
+P00829,"Liza Aquino",Female,1964-05-16,60,"San Fernando City",Philippines,Active,2,1,0,141503.83,0.00,141503.83,0,3,2024-02-19,2024-11-19
+P00830,"Grace Reyes",Male,1985-11-16,39,"Quezon  City",Philippines,Inactive,3,1,0,209668.74,209668.74,0.00,4,4,2024-05-25,2025-07-18
+P00831,"Liza Castillo",Female,1972-02-04,53,"Quezon  City",Philippines,Inactive,5,1,2,213237.35,92052.85,121184.50,2,2,2023-02-11,2025-09-07
+P00832,"Juan Navarro",Male,1959-03-06,64,"Pasig City",Philippines,Active,4,0,1,192317.31,192317.31,0.00,2,2,2023-04-06,2023-12-20
+P00833,"Luis Mendoza",Female,1994-07-15,29,"Pasig City",Philippines,Active,3,1,1,238705.11,177383.11,61322.00,3,2,2023-06-13,2024-03-05
+P00834,"Kevin Cruz",Male,1964-08-14,60,"Pasig City",Philippines,Inactive,5,2,0,155099.72,155099.72,0.00,1,3,2023-01-29,2025-01-01
+P00835,"Juan Torres",Unknown,2016-10-20,9,"Meycauayan City",Philippines,Inactive,5,0,0,184112.20,112763.12,71349.08,2,3,2023-07-06,2025-11-24
+P00836,"Juan Santos",Female,1948-07-13,76,"Meycauayan City",Philippines,Unknown,2,0,0,149653.12,124144.76,25508.36,2,1,2023-08-25,2025-07-09
+P00837,"Thomas Dela Cruz",Female,1966-10-10,59,"Manila City",Philippines,Active,2,1,1,657952.34,454052.44,203899.90,2,5,2023-10-09,2025-11-29
+P00838,"Ana Bautista",Unknown,2001-09-08,23,"Manila City",Philippines,Inactive,4,1,0,251504.67,25288.48,226216.19,1,0,2023-04-16,2025-08-24
+P00839,"Maria Santos",Male,1967-04-19,56,"Makati City",Philippines,Active,3,2,0,81506.72,37905.79,43600.93,2,4,2023-01-27,2024-03-31
+P00840,"Carlos Bautista",Unknown,1953-04-11,72,"Malolos City",Philippines,Inactive,3,0,0,507984.88,313471.94,194512.94,1,2,2025-04-03,2025-12-24
+P00841,"Kevin Garcia",Male,1963-09-01,60,"Quezon  City",Philippines,Active,1,0,0,138345.64,138345.64,0.00,0,1,2024-02-23,2024-02-23
+P00842,"Sofia Dela Cruz",Female,1959-05-23,66,"Malolos City",Philippines,Inactive,2,1,1,82627.46,65464.28,17163.18,5,3,2023-11-24,2025-08-04
+P00843,"Grace Torres",Female,2016-01-22,9,"Malolos City",Philippines,Unknown,2,0,0,171371.88,92742.85,78629.03,3,1,2024-11-24,2025-03-07
+P00844,"Sofia Santos",Male,1977-12-15,47,"Quezon  City",Philippines,Active,3,0,0,337133.87,54918.63,282215.24,1,2,2024-01-08,2025-08-03
+P00845,"Grace Reyes",Male,1942-07-25,83,"Quezon  City",Philippines,Unknown,3,1,0,214274.25,214274.25,0.00,6,1,2025-06-13,2025-09-05
+P00846,"Sofia Reyes",Female,1985-01-19,40,"Manila City",Philippines,Unknown,2,0,0,149592.77,54347.19,95245.58,5,2,2025-03-28,2025-11-28
+P00847,"Sofia Mendoza",Female,1976-02-16,49,"Pasig City",Philippines,Active,3,1,2,147438.72,112091.27,35347.45,0,3,2023-04-23,2025-03-03
+P00848,"Ana Dela Cruz",Male,1991-08-10,33,"Angeles City",Philippines,Unknown,4,1,1,741438.27,338813.48,402624.79,1,3,2023-02-05,2025-07-10
+P00849,"Ana Garcia",Female,2013-12-06,10,"Malolos City",Philippines,Active,3,0,1,208933.18,104466.59,104466.59,1,4,2023-01-24,2024-07-04
+P00850,"Ana Reyes",Male,2021-06-10,2,"Makati City",Philippines,Inactive,1,1,0,238864.05,194621.45,44242.60,1,4,2024-03-06,2024-03-06
+P00851,"Grace Reyes",Male,1999-10-02,25,"Makati City",Philippines,Inactive,2,1,0,68721.70,32891.43,35830.27,4,3,2024-07-05,2025-04-29
+P00852,"Kevin Aquino",Male,1983-10-22,41,"Meycauayan City",Philippines,Active,4,0,1,121097.67,121097.67,0.00,2,2,2023-05-11,2025-08-05
+P00853,"Ana Santos",Male,2012-02-13,12,"Caloocan City",Philippines,Unknown,5,1,1,14428.31,7214.15,7214.16,3,5,2023-02-11,2024-07-23
+P00854,"Juan Flores",Male,1967-01-06,58,"Manila City",Philippines,Unknown,5,1,0,425407.96,293489.58,131918.38,2,2,2023-05-08,2025-10-24
+P00855,"Daniel Torres",Female,1972-01-17,52,"Pasig City",Philippines,Active,2,0,0,11488.50,11488.50,0.00,5,3,2024-04-17,2024-05-18
+P00856,"Angela Rivera",Female,2000-11-23,23,"Angeles City",Philippines,Inactive,1,0,1,253149.68,253149.68,0.00,2,2,2024-11-05,2024-11-05
+P00857,"Mark Garcia",Male,1991-12-28,33,"Malolos City",Philippines,Inactive,2,0,1,399131.04,274659.84,124471.20,1,2,2024-11-16,2025-11-15
+P00858,"Ana Dela Cruz",Female,2001-07-02,22,"Caloocan City",Philippines,Inactive,3,0,1,473685.56,324743.31,148942.25,2,1,2023-05-21,2023-08-18
+P00859,"Juan Cruz",Male,1959-07-01,66,"Angeles City",Philippines,Active,2,1,0,145407.12,145407.12,0.00,4,0,2025-07-07,2025-07-29
+P00860,"Maria Mendoza",Female,1971-06-02,53,"Makati City",Philippines,Unknown,3,0,0,158588.78,62670.89,95917.89,6,4,2023-03-23,2024-06-06
+P00861,"Bea Rivera",Male,1966-02-02,NULL,"Quezon  City",Philippines,Inactive,0,0,0,373745.76,129106.75,244639.01,5,4,NULL,NULL
+P00862,"Thomas Mendoza",Female,1990-08-04,34,"Angeles City",Philippines,Inactive,3,1,0,323370.36,54909.81,268460.55,2,5,2023-04-11,2025-04-21
+P00863,"Mark Santos",Male,1990-11-02,34,"Malolos City",Philippines,Inactive,5,1,0,304941.95,304941.95,0.00,5,4,2023-07-11,2025-09-28
+P00864,"Grace Bautista",Female,1981-11-08,42,"Malolos City",Philippines,Active,2,1,0,15955.17,15955.17,0.00,1,3,2023-09-20,2024-06-28
+P00865,"Bea Ramos",Male,1951-06-02,74,"Manila City",Philippines,Unknown,4,4,0,90709.13,0.00,90709.13,1,4,2024-09-07,2025-06-26
+P00866,"Maria Santos",Male,1964-03-28,60,"Manila City",Philippines,Active,4,0,1,38830.81,0.00,38830.81,2,4,2023-10-12,2025-02-02
+P00867,"Sofia Ramos",Female,1990-06-04,35,"Manila City",Philippines,Active,3,0,0,306770.31,236974.19,69796.12,8,2,2023-04-16,2025-07-18
+P00868,"Ana Santos",Male,1953-09-23,NULL,"Manila City",Philippines,Unknown,0,0,0,0.00,0.00,0.00,4,4,NULL,NULL
+P00869,"Maria Rivera",Male,1966-11-27,57,"Malolos City",Philippines,Unknown,1,0,0,476519.90,291647.38,184872.52,4,1,2024-09-20,2024-09-20
+P00870,"Carlos Torres",Male,1956-07-30,68,"Caloocan City",Philippines,Active,2,2,0,145609.47,117032.03,28577.44,4,6,2024-09-18,2025-01-12
+P00871,"Bea Cruz",Male,1999-11-26,25,"Makati City",Philippines,Inactive,3,1,2,49257.08,33302.09,15954.99,3,1,2023-01-18,2025-09-14
+P00872,"Grace Santos",Male,1974-12-08,49,"Makati City",Philippines,Unknown,3,1,0,304680.65,255527.13,49153.52,1,4,2023-01-18,2024-04-17
+P00873,"Angela Dela Cruz",Female,1972-02-04,51,"Makati City",Philippines,Inactive,1,1,0,257966.19,225261.45,32704.74,3,3,2023-11-20,2023-11-20
+P00874,"Bea Bautista",Female,2004-02-29,21,"Angeles City",Philippines,Active,3,1,0,319937.70,269773.53,50164.17,0,2,2023-03-03,2025-04-16
+P00875,"Bea Navarro",Male,2009-07-25,15,"Angeles City",Philippines,Active,2,1,0,351976.54,292854.35,59122.19,4,2,2024-02-20,2025-01-07
+P00876,"Juan Flores",Female,1954-04-12,71,"Pasig City",Philippines,Active,2,1,0,528344.14,484445.70,43898.44,1,2,2024-08-11,2025-09-11
+P00877,"Ramon Castillo",Female,1945-10-10,78,"Malolos City",Philippines,Active,1,0,0,325420.13,274795.87,50624.26,3,3,2024-02-18,2024-02-18
+P00878,"John Santos",Female,1980-04-29,45,"Malolos City",Philippines,Active,3,1,0,164643.13,152958.28,11684.85,3,2,2023-06-04,2025-07-12
+P00879,"Sofia Navarro",Female,1978-12-10,46,"Makati City",Philippines,Inactive,2,1,0,229681.51,178829.66,50851.85,0,5,2025-01-20,2025-06-27
+P00880,"Liza Aquino",Male,2017-07-22,8,"Malolos City",Philippines,Inactive,1,1,0,457641.75,361889.22,95752.53,3,2,2025-08-03,2025-08-03
+P00881,"Patricia Aquino",Male,2016-07-24,8,"Malolos City",Philippines,Active,1,0,0,200895.23,161254.27,39640.96,3,3,2025-04-09,2025-04-09
+P00882,"Andrea Mendoza",Male,1950-07-31,74,"Caloocan City",Philippines,Inactive,7,3,0,115902.25,115902.25,0.00,2,5,2023-02-06,2025-03-19
+P00883,"Jose Flores",Unknown,1954-02-28,71,"Manila City",Philippines,Unknown,2,0,0,437743.90,334822.88,102921.02,3,3,2024-10-20,2025-11-12
+P00884,"Angela Torres",Male,1942-11-23,81,"Meycauayan City",Philippines,Active,3,0,1,48908.45,24454.23,24454.22,1,2,2023-07-04,2024-03-03
+P00885,"Daniel Cruz",Male,2012-04-11,11,"Quezon  City",Philippines,Active,2,0,0,236458.37,208975.71,27482.66,2,5,2023-01-05,2023-06-15
+P00886,"Angela Navarro",Male,1949-05-02,76,"Pasig City",Philippines,Active,2,1,1,184398.28,41319.96,143078.32,6,2,2024-05-08,2025-10-15
+P00887,"Juan Castillo",Unknown,2012-10-15,12,"Angeles City",Philippines,Unknown,1,1,0,407470.10,231420.75,176049.35,5,3,2025-05-05,2025-05-05
+P00888,"Liza Ramos",Female,1950-05-15,75,"Manila City",Philippines,Active,6,1,0,172657.05,170973.44,1683.61,4,2,2023-03-27,2025-10-03
+P00889,"Jose Aquino",Male,1960-05-17,65,"Manila City",Philippines,Active,3,1,2,34900.27,26175.20,8725.07,2,2,2024-03-05,2025-11-21
+P00890,"Carlos Cruz",Female,1965-05-09,60,"Angeles City",Philippines,Active,4,1,2,70316.71,70316.71,0.00,2,4,2023-03-23,2025-11-02
+P00891,"Jose Santos",Male,1988-10-09,35,"Meycauayan City",Philippines,Active,1,0,0,141013.11,0.00,141013.11,2,2,2024-01-14,2024-01-14
+P00892,"Andrea Rivera",Male,1968-08-09,57,"Malolos City",Philippines,Active,2,1,0,87063.62,87063.62,0.00,3,2,2024-07-13,2025-08-22
+P00893,"Sofia Rivera",Female,2015-06-27,9,"Manila City",Philippines,Unknown,1,0,0,48460.46,45651.72,2808.74,1,1,2024-09-07,2024-09-07
+P00894,"Grace Santos",Male,1984-10-04,38,"Manila City",Philippines,Unknown,1,0,0,87855.78,87855.78,0.00,3,3,2023-08-31,2023-08-31
+P00895,"Kevin Dela Cruz",Unknown,1974-04-28,NULL,"Meycauayan City",Philippines,Inactive,0,0,0,65894.53,65894.53,0.00,2,6,NULL,NULL
+P00896,"Maria Ramos",Unknown,1971-03-15,54,"San Fernando City",Philippines,Unknown,2,1,1,17483.48,8741.74,8741.74,3,3,2023-05-11,2025-10-25
+P00897,"Maria Castillo",Male,1989-08-21,34,"Meycauayan City",Philippines,Active,2,1,0,200410.06,149925.01,50485.05,4,3,2023-12-08,2024-06-02
+P00898,"Ramon Cruz",Female,1961-05-16,64,"Caloocan City",Philippines,Unknown,2,1,0,121632.94,121632.94,0.00,6,5,2024-07-11,2025-12-14
+P00899,"Maria Aquino",Male,1972-06-13,NULL,"San Fernando City",Philippines,Active,0,0,0,265483.12,253402.37,12080.75,3,0,NULL,NULL
+P00900,"Grace Cruz",Male,1979-06-19,46,"Malolos City",Philippines,Inactive,6,2,2,584220.25,376448.25,207772.00,1,2,2023-09-16,2025-07-30
+P00901,"Thomas Ramos",Male,1945-09-29,77,"Makati City",Philippines,Active,1,0,0,104977.28,99832.47,5144.81,5,1,2023-06-29,2023-06-29
+P00902,"Carlos Flores",Male,1998-11-07,NULL,"Malolos City",Philippines,Active,0,0,0,652202.13,394173.37,258028.76,2,1,NULL,NULL
+P00903,"Luis Navarro",Female,1945-06-15,78,"San Fernando City",Philippines,Active,1,0,0,327655.27,178673.39,148981.88,4,1,2024-03-14,2024-03-14
+P00904,"Andrea Cruz",Male,1985-11-05,38,"Caloocan City",Philippines,Active,4,1,0,325900.74,235745.40,90155.34,3,4,2023-12-30,2024-05-05
+P00905,"John Aquino",Unknown,1972-04-27,53,"Makati City",Philippines,Active,5,2,0,117979.58,60786.68,57192.90,2,1,2023-01-14,2025-11-16
+P00906,"Mark Rivera",Female,2021-10-22,3,"Malolos City",Philippines,Active,1,0,1,140075.70,114168.94,25906.76,1,3,2025-09-01,2025-09-01
+P00907,"Ramon Flores",Male,1942-12-04,82,"Malolos City",Philippines,Active,3,1,0,446685.41,344497.17,102188.24,0,0,2023-02-07,2025-11-19
+P00908,"Andrea Castillo",Male,1994-06-19,31,"Malolos City",Philippines,Active,5,1,1,98032.66,98032.66,0.00,2,7,2023-03-05,2025-09-25
+P00909,"John Garcia",Unknown,2008-11-13,NULL,"San Fernando City",Philippines,Inactive,0,0,0,215222.23,215222.23,0.00,2,2,NULL,NULL
+P00910,"Luis Ramos",Male,2022-01-20,3,"Pasig City",Philippines,Active,3,1,0,573988.49,317002.98,256985.51,2,3,2024-12-29,2025-08-17
+P00911,"Liza Torres",Male,1999-09-28,25,"Quezon  City",Philippines,Unknown,4,1,1,240219.34,155372.40,84846.94,3,3,2023-01-16,2025-08-01
+P00912,"Andrea Reyes",Male,1984-05-02,40,"Meycauayan City",Philippines,Active,6,3,0,179677.00,150458.34,29218.66,6,4,2023-01-08,2025-01-03
+P00913,"Carlos Flores",Male,2014-10-22,8,"San Fernando City",Philippines,Unknown,1,1,0,227704.08,158467.21,69236.87,3,1,2023-01-22,2023-01-22
+P00914,"Luis Garcia",Female,1966-04-27,59,"Malolos City",Philippines,Unknown,3,0,1,207912.96,188835.59,19077.37,0,1,2023-11-01,2025-10-04
+P00915,"Liza Mendoza",Unknown,1982-10-20,43,"Malolos City",Philippines,Unknown,4,2,0,689306.64,420558.04,268748.60,1,1,2023-12-29,2025-12-06
+P00916,"Ramon Bautista",Female,1955-11-08,68,"San Fernando City",Philippines,Unknown,3,0,0,30875.49,27045.85,3829.64,4,0,2023-10-07,2024-10-17
+P00917,"Mark Bautista",Female,1968-07-31,NULL,"Malolos City",Philippines,Active,0,0,0,11563.20,8672.40,2890.80,2,3,NULL,NULL
+P00918,"Patricia Mendoza",Female,1950-08-20,75,"Malolos City",Philippines,Active,4,2,0,144804.62,144804.62,0.00,0,1,2024-09-11,2025-08-26
+P00919,"Angela Reyes",Male,1958-07-22,64,"Manila City",Philippines,Active,1,0,1,230638.55,230638.55,0.00,2,3,2023-01-23,2023-01-23
+P00920,"Mark Aquino",Female,2005-09-05,20,"Quezon  City",Philippines,Unknown,4,0,0,342120.41,164531.68,177588.73,3,4,2023-03-27,2025-10-07
+P00921,"Kevin Mendoza",Male,2017-07-23,6,"Quezon  City",Philippines,Active,3,1,0,10421.85,5210.93,5210.92,1,4,2023-05-10,2024-06-30
+P00922,"Andrea Bautista",Male,1980-09-06,44,"Meycauayan City",Philippines,Active,2,0,0,127607.96,95705.97,31901.99,7,3,2023-11-18,2025-08-04
+P00923,"Luis Torres",Unknown,2018-09-24,6,"Pasig City",Philippines,Inactive,4,2,0,236439.64,208581.88,27857.76,2,2,2023-03-09,2025-06-15
+P00924,"Kevin Reyes",Female,2013-01-05,12,"Meycauayan City",Philippines,Active,3,0,1,108424.30,92477.36,15946.94,3,4,2023-03-05,2025-02-16
+P00925,"Liza Santos",Female,1990-01-13,NULL,"Malolos City",Philippines,Inactive,0,0,0,113464.67,73541.23,39923.44,3,2,NULL,NULL
+P00926,"Kevin Ramos",Female,1956-02-26,NULL,"Malolos City",Philippines,Unknown,0,0,0,124230.35,124230.35,0.00,1,5,NULL,NULL
+P00927,"Mark Santos",Female,1950-01-30,73,"Malolos City",Philippines,Active,2,0,2,137926.43,128549.72,9376.71,5,2,2023-05-20,2023-10-30
+P00928,"Patricia Navarro",Female,2003-03-26,NULL,"Manila City",Philippines,Inactive,0,0,0,230352.64,153152.46,77200.18,0,3,NULL,NULL
+P00929,"Andrea Garcia",Unknown,2010-03-25,14,"Angeles City",Philippines,Unknown,5,0,0,326052.72,141669.01,184383.71,5,1,2023-01-13,2025-03-15
+P00930,"Liza Gonzales",Male,2021-11-07,3,"Caloocan City",Philippines,Unknown,5,4,0,381550.60,111103.34,270447.26,1,4,2023-06-06,2025-10-21
+P00931,"Daniel Aquino",Female,1988-02-02,36,"Manila City",Philippines,Unknown,1,0,0,45966.08,0.00,45966.08,2,1,2024-07-13,2024-07-13
+P00932,"Jose Castillo",Female,1969-11-25,55,"Pasig City",Philippines,Unknown,8,3,2,238107.47,208981.33,29126.14,2,0,2023-03-29,2025-09-08
+P00933,"Daniel Mendoza",Unknown,1954-06-24,69,"Meycauayan City",Philippines,Unknown,1,0,1,19117.11,19117.11,0.00,2,2,2023-08-28,2023-08-28
+P00934,"Kevin Dela Cruz",Female,1965-05-25,60,"Angeles City",Philippines,Active,4,1,0,204144.64,177559.58,26585.06,3,4,2023-07-04,2025-11-08
+P00935,"Angela Flores",Male,1946-11-12,NULL,"Angeles City",Philippines,Inactive,0,0,0,431399.99,353196.13,78203.86,5,3,NULL,NULL
+P00936,"John Gonzales",Male,2006-09-13,18,"Malolos City",Philippines,Inactive,8,2,1,173844.93,33159.57,140685.36,0,2,2023-06-02,2025-06-04
+P00937,"Liza Santos",Female,1976-06-14,47,"Malolos City",Philippines,Inactive,2,0,1,315173.39,118150.36,197023.03,2,1,2023-10-20,2023-12-21
+P00938,"Luis Navarro",Male,1980-07-28,44,"Malolos City",Philippines,Inactive,4,0,0,215310.89,205246.70,10064.19,3,2,2023-09-01,2025-07-25
+P00939,"John Reyes",Unknown,1996-07-06,28,"Quezon  City",Philippines,Unknown,4,2,0,16869.97,16869.97,0.00,1,3,2023-01-02,2025-07-03
+P00940,"Thomas Flores",Female,1986-12-15,NULL,"San Fernando City",Philippines,Active,0,0,0,136090.47,104888.02,31202.45,4,3,NULL,NULL
+P00941,"John Navarro",Male,1993-09-18,31,"San Fernando City",Philippines,Inactive,4,2,0,148427.79,101630.18,46797.61,3,2,2023-03-02,2025-03-10
+P00942,"Grace Navarro",Female,1986-02-24,38,"Manila City",Philippines,Active,1,0,0,545214.99,445218.30,99996.69,2,4,2024-11-29,2024-11-29
+P00943,"Miguel Garcia",Female,2018-01-10,5,"Angeles City",Philippines,Active,3,0,0,191480.84,95740.43,95740.41,0,1,2023-03-03,2023-11-04
+P00944,"Mark Santos",Female,1966-05-25,59,"Meycauayan City",Philippines,Inactive,4,1,2,280352.12,182963.38,97388.74,1,3,2023-06-11,2025-08-09
+P00945,"Andrea Aquino",Male,1982-05-10,43,"Manila City",Philippines,Unknown,5,0,1,238123.71,238123.71,0.00,1,4,2023-01-25,2025-11-05
+P00946,"Miguel Reyes",Female,1946-01-06,79,"Manila City",Philippines,Active,3,0,2,269558.97,161486.82,108072.15,1,2,2023-07-07,2025-07-07
+P00947,"Jose Bautista",Female,1990-03-01,35,"Malolos City",Philippines,Inactive,3,1,0,492473.13,311068.68,181404.45,1,2,2023-12-08,2025-12-31
+P00948,"Thomas Castillo",Female,1962-11-08,62,"Quezon  City",Philippines,Inactive,5,1,1,142931.13,3545.60,139385.53,6,2,2024-06-18,2025-08-17
+P00949,"Miguel Mendoza",Male,1949-03-06,75,"Malolos City",Philippines,Unknown,5,0,2,160283.76,100595.82,59687.94,0,7,2023-04-14,2024-10-31
+P00950,"Sofia Reyes",Male,2010-04-12,14,"Manila City",Philippines,Active,1,0,0,294798.04,41845.17,252952.87,3,1,2025-03-04,2025-03-04
+P00951,"Maria Reyes",Male,2012-06-02,11,"Pasig City",Philippines,Unknown,1,0,0,207568.29,207568.29,0.00,3,1,2023-07-24,2023-07-24
+P00952,"Ramon Navarro",Female,1971-11-06,52,"Caloocan City",Philippines,Unknown,2,1,1,15731.87,15731.87,0.00,1,4,2023-07-07,2024-03-30
+P00953,"Luis Cruz",Female,2002-05-12,23,"San Fernando City",Philippines,Inactive,5,2,1,349008.96,279291.40,69717.56,2,4,2023-08-24,2025-10-18
+P00954,"Liza Garcia",Male,1990-03-22,34,"Meycauayan City",Philippines,Active,1,1,0,245335.91,92421.45,152914.46,6,5,2024-09-27,2024-09-27
+P00955,"Bea Mendoza",Male,1948-06-10,NULL,"Malolos City",Philippines,Active,0,0,0,390574.23,220009.55,170564.68,5,2,NULL,NULL
+P00956,"Angela Mendoza",Female,1945-02-18,80,"Malolos City",Philippines,Active,7,2,0,276261.24,31988.01,244273.23,2,1,2023-06-05,2025-06-07
+P00957,"Patricia Dela Cruz",Male,2020-03-24,5,"Manila City",Philippines,Active,4,3,0,150771.04,85504.73,65266.31,1,3,2023-05-29,2025-05-14
+P00958,"John Santos",Unknown,1988-10-23,36,"Makati City",Philippines,Active,2,0,0,7998.20,0.00,7998.20,3,3,2024-12-06,2025-01-10
+P00959,"Ramon Gonzales",Unknown,1999-11-26,25,"Quezon  City",Philippines,Unknown,4,1,0,428274.86,219876.15,208398.71,1,2,2024-01-09,2025-10-06
+P00960,"Maria Mendoza",Male,1957-10-28,67,"San Fernando City",Philippines,Inactive,5,0,1,205777.33,170626.16,35151.17,3,1,2023-01-05,2025-03-10
+P00961,"Grace Aquino",Unknown,2002-06-20,23,"Makati City",Philippines,Active,2,0,1,232129.37,198806.43,33322.94,3,1,2023-08-18,2025-12-18
+P00962,"Miguel Castillo",Male,1959-07-07,66,"Makati City",Philippines,Active,2,0,0,205882.51,205882.51,0.00,2,5,2024-10-17,2025-12-28
+P00963,"Ramon Navarro",Male,1955-12-20,69,"Caloocan City",Philippines,Active,1,0,0,0.00,0.00,0.00,1,0,2025-02-06,2025-02-06
+P00964,"Mark Mendoza",Female,1979-06-09,46,"Malolos City",Philippines,Active,2,0,0,196604.41,196604.41,0.00,1,5,2023-09-24,2025-12-30
+P00965,"Bea Gonzales",Female,1988-04-05,36,"Meycauayan City",Philippines,Active,4,0,0,91871.28,62382.74,29488.54,3,3,2024-02-09,2024-07-25
+P00966,"Andrea Castillo",Female,1963-03-02,62,"Malolos City",Philippines,Inactive,6,3,1,126716.89,113823.88,12893.01,3,4,2023-03-12,2025-11-30
+P00967,"Bea Gonzales",Female,1992-10-14,32,"Malolos City",Philippines,Inactive,6,0,2,124129.31,62064.65,62064.66,2,1,2023-02-06,2025-03-31
+P00968,"Ana Reyes",Male,1967-06-24,57,"Malolos City",Philippines,Unknown,3,1,0,140521.76,94487.78,46033.98,1,4,2023-01-30,2024-10-04
+P00969,"Kevin Flores",Female,1962-08-29,62,"Meycauayan City",Philippines,Unknown,4,2,0,276370.48,76503.26,199867.22,2,4,2023-02-17,2024-12-14
+P00970,"Liza Castillo",Male,1991-10-23,34,"Malolos City",Philippines,Active,5,3,1,523101.15,413738.56,109362.59,1,3,2023-07-03,2025-12-23
+P00971,"Carlos Torres",Male,2010-09-29,NULL,"Makati City",Philippines,Active,0,0,0,238716.95,80163.98,158552.97,4,3,NULL,NULL
+P00972,"Carlos Garcia",Female,1967-01-11,58,"Makati City",Philippines,Active,3,0,2,174132.26,49734.34,124397.92,3,4,2023-11-29,2025-12-29
+P00973,"Kevin Reyes",Male,1948-12-17,75,"Malolos City",Philippines,Active,1,0,0,190210.21,143047.65,47162.56,1,4,2024-08-12,2024-08-12
+P00974,"Ramon Reyes",Male,2008-06-15,16,"San Fernando City",Philippines,Active,3,1,0,336308.14,172196.05,164112.09,3,4,2023-10-17,2025-06-05
+P00975,"Daniel Rivera",Male,1955-12-25,69,"Angeles City",Philippines,Active,3,1,1,133933.08,25180.44,108752.64,1,3,2023-04-10,2025-06-11
+P00976,"Carlos Cruz",Female,1943-12-20,81,"Angeles City",Philippines,Inactive,3,1,0,113748.10,60899.43,52848.67,3,2,2023-11-09,2025-09-20
+P00977,"Mark Gonzales",Female,2013-09-05,12,"Quezon  City",Philippines,Active,4,2,0,92684.43,92684.43,0.00,1,1,2023-11-19,2025-11-29
+P00978,"Patricia Torres",Female,1949-02-04,76,"Angeles City",Philippines,Active,5,3,0,519831.72,477709.43,42122.29,2,3,2023-01-16,2025-04-28
+P00979,"Kevin Torres",Female,1976-01-15,49,"Malolos City",Philippines,Inactive,1,0,0,240126.29,203318.19,36808.10,4,3,2025-02-01,2025-02-01
+P00980,"Kevin Navarro",Male,2015-09-25,9,"Quezon  City",Philippines,Active,4,1,1,158548.74,99028.97,59519.77,6,0,2023-01-24,2024-10-15
+P00981,"John Rivera",Female,1992-12-11,32,"Caloocan City",Philippines,Active,3,1,0,485590.32,459008.06,26582.26,4,2,2023-09-23,2025-07-28
+P00982,"Kevin Cruz",Male,1944-06-28,81,"Manila City",Philippines,Active,3,0,0,161972.43,65301.47,96670.96,4,3,2023-04-22,2025-12-22
+P00983,"Mark Bautista",Female,1941-07-28,84,"Meycauayan City",Philippines,Active,5,1,1,137961.83,137961.83,0.00,3,1,2023-04-04,2025-09-29
+P00984,"Miguel Santos",Male,1948-06-25,77,"San Fernando City",Philippines,Active,3,0,0,129981.52,86467.32,43514.20,0,3,2023-12-25,2025-11-27
+P00985,"Andrea Aquino",Female,1943-08-24,82,"Quezon  City",Philippines,Inactive,5,1,0,315865.17,293161.70,22703.47,0,3,2023-03-19,2025-09-16
+P00986,"Liza Gonzales",Male,1956-07-02,68,"Pasig City",Philippines,Inactive,2,1,0,90688.60,86522.62,4165.98,3,3,2023-07-02,2025-03-02
+P00987,"Thomas Ramos",Male,2016-08-20,9,"Caloocan City",Philippines,Inactive,2,1,0,290759.83,239072.72,51687.11,2,1,2024-11-21,2025-09-01
+P00988,"Andrea Torres",Male,1994-03-30,29,"Angeles City",Philippines,Inactive,1,0,0,20597.57,20597.57,0.00,2,1,2023-12-06,2023-12-06
+P00989,"Angela Cruz",Male,2010-11-24,14,"Malolos City",Philippines,Unknown,2,2,0,162309.27,91408.84,70900.43,0,1,2024-05-27,2025-06-07
+P00990,"Bea Gonzales",Female,1993-05-26,31,"San Fernando City",Philippines,Active,4,2,0,429415.76,333719.09,95696.67,3,1,2023-07-07,2025-01-16
+P00991,"Grace Flores",Female,1984-10-06,41,"Malolos City",Philippines,Unknown,2,1,1,200514.72,166456.85,34057.87,1,2,2024-07-07,2025-10-22
+P00992,"Luis Bautista",Male,1958-08-15,67,"Manila City",Philippines,Active,5,0,1,64527.57,64527.57,0.00,0,2,2023-03-03,2025-11-02
+P00993,"Thomas Bautista",Male,1978-09-18,47,"Meycauayan City",Philippines,Unknown,4,3,0,459423.34,216147.86,243275.48,3,0,2023-02-27,2025-11-15
+P00994,"Thomas Flores",Male,1948-09-12,75,"Angeles City",Philippines,Inactive,3,3,0,439000.71,363445.93,75554.78,3,3,2023-03-04,2024-04-10
+P00995,"Sofia Gonzales",Male,1965-01-07,60,"Meycauayan City",Philippines,Active,2,0,0,299569.41,255500.11,44069.30,0,1,2025-02-24,2025-05-30
+P00996,"Ramon Cruz",Unknown,1981-08-14,44,"Meycauayan City",Philippines,Unknown,5,0,0,239639.06,206839.64,32799.42,4,2,2023-02-16,2026-01-01
+P00997,"Miguel Torres",Male,1974-05-23,50,"Malolos City",Philippines,Active,2,1,0,434397.18,395643.57,38753.61,6,3,2024-03-24,2024-08-25
+P00998,"Thomas Aquino",Male,1947-03-23,78,"Malolos City",Philippines,Inactive,2,1,0,98860.27,98860.27,0.00,1,3,2024-10-22,2025-09-28
+P00999,"Juan Navarro",Male,2019-04-06,5,"Makati City",Philippines,Active,5,2,2,91325.39,3234.46,88090.93,4,0,2023-03-16,2024-11-14
+P01000,"John Reyes",Male,1945-10-24,79,"Malolos City",Philippines,Active,4,1,0,94007.01,93170.09,836.92,0,3,2023-04-23,2025-02-12
+P01001,"Juan Dela Cruz",Male,1985-02-01,40,"Manila City",Philippines,Active,4,2,0,347854.54,240981.19,106873.35,2,1,2024-04-12,2025-11-20
+P01002,"Maria Santos",Female,1990-05-13,34,"Quezon  City",Philippines,Active,3,2,1,374406.68,260863.84,113542.84,7,3,2023-02-23,2025-04-28
+P01003,"Maria Santos",Female,1990-05-13,34,"Quezon  City",Philippines,Active,3,2,0,127640.27,85820.87,41819.40,2,1,2024-11-27,2025-04-09
